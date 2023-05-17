@@ -1,0 +1,2421 @@
+song_id,title,release,artist_name,Genre
+1,Aankh Marey,Simmba,"Kumar Sanu, Mika Singh, Neha Kakkar",Dance
+2,Coca Cola,Luka Chuppi,"Neha Kakkar, Tony Kakkar",DanceRomantic
+3,Apna Time Aayega,Gully Boy,Ranveer Singh,Dance
+4,Mungda,Total Dhamaal,"Jyotica Tangri, Shaan, Subhro Ganguly",Dance
+5,Tere Bin,Simmba,"Asees Kaur, Rahat Fateh Ali Khan, Tanishk Bagchi",Romantic
+6,Gali Gali,KGF,Neha Kakkar,Dance
+7,Chamma Chamma,Fraud Saiyaan,"Arun, Ikka, Neha Kakkar, Romy",Dance
+8,Mere Gully Mein,Gully Boy,Ranveer Singh,Dance
+9,Kamariya,Mitron,Darshan Raval,Dance
+10,Ek Ladki Ko Dekha Toh Aisa Laga,Ek Ladki Ko Dekha Toh Aisa Laga,"Darshan Raval, Rochak Kohli",Romantic
+11,Swag Se Swagat,Tiger Zinda Hai,"Neha Bhasin, Vishal Dadlani",Dance
+12,Poster Lagwa Do,Luka Chuppi,"Mika Singh, Sunanda Sharma",Dance
+13,Daaru Wargi,Cheat India,Guru Randhawa,Dance
+14,Dilbar,Satyameva Jayate,"Dhvani Bhanushali, Ikka, Neha Kakkar",Dance
+15,Proper Patola,Namaste England,"Aastha Gill, Badshah, Diljit Dosanjh",Dance
+16,Doori,Gully Boy,Ranveer Singh,Dance
+17,Dil Diyan Gallan,Tiger Zinda Hai,Atif Aslam,Romantic
+18,Husn Parcham,Zero,"Bhoomi Trivedi, Raja Kumari",Dance
+19,Bom Diggy Diggy,Sonu Ke Titu Ki Sweety,"Jasmin Walia, Zack Knight",Dance
+20,Issaqbaazi,Zero,"Divya Kumar, Sukhwinder Singh",Dance
+21,Mere Naam Tu,Zero,Abhay Jodhpurkar,Romantic
+22,High Rated Gabru – Nawabzaade,Nawabzaade,Guru Randhawa,Dance
+23,Dekhte Dekhte,Batti Gul Meter Chalu,Atif Aslam,Romantic
+24,Zingaat,Dhadak,"Ajay, Atul",Dance
+25,Tareefan,Veere Di Wedding,Badshah,Bollywood
+26,Mile Ho Tum (Reprise),Fever,"Neha Kakkar, Tony Kakkar",Romantic
+27,Dil Chori,Sonu Ke Titu Ki Sweety,"Ishers, Simar Kaur, Yo Yo Honey Singh",Dance
+28,Tere Naal Nachna,Nawabzaade,"Badshah, Sunanda Sharma",Dance
+29,Dil Meri Na Sune,Genius,Atif Aslam,Romantic
+30,Dhadak Title Track,Dhadak,"Ajay Gogavale, Shreya Ghoshal",Romantic
+31,Heeriye,Race 3,"Deep Money, Meet Bros, Neha Bhasin",DanceRomantic
+32,Chogada,Loveratri,"Asees Kaur, Darshan Raval",Dance
+33,Gud Naal Ishq Mitha,Ek Ladki Ko Dekha Toh Aisa Laga,"Harshdeep Kaur, Navraj Hans",Dance
+34,Paniyon Sa,Satyameva Jayate,"Atif Aslam, Tulsi Kumar",Romantic
+35,Milegi Milegi,Stree,Mika Singh,Dance
+36,Morni Banke,Badhaai Ho,"Guru Randhawa, Neha Kakkar",Dance
+37,Bhare Bazaar,Namaste England,"B Praak, Badshah, Payal Dev, Vishal Dadlani",Dance
+38,Khalibali,Padmaavat,Shivam Pathak,Dance
+39,Aao Kabhi Haveli Pe,Stree,"Badshah, Jigar, Nikhita Gandhi, Sachin Sanghvi",Dance
+40,Badri Ki Dulhania,Badrinath Ki Dulhania,"Dev Negi, Ikka, Monali Thakur, Neha Kakkar",Dance
+41,Cheez Badi,Machine,"Neha Kakkar, Udit Narayan",Dance
+42,Dholida,Loveratri,"Neha Kakkar, Palak Muchchal, Raja Hassan, Udit Narayan",Dance
+43,Sweetheart,Kedarnath,Dev Negi,Dance
+44,Namo Namo,Kedarnath,Amit Trivedi,Devotional
+45,Qaafirana,Kedarnath,"Arijit Singh, Nikhita Gandhi",Romantic
+46,Tu Hi Re,2,"Armaan Malik, Shashaa Tirupati",Dance
+47,Chhote Chhote Peg,Sonu Ke Titu Ki Sweety,"Navraj Hans, Neha Kakkar, Yo Yo Honey Singh",Dance
+48,Galti Se Mistake,Jagga Jasoos,"Amit Mishra, Arijit Singh",Dance
+49,Phir Mulaaqat,Cheat India,Jubin Nautiyal,Romantic
+50,Kala Chashma,Baar Baar Dekho,"Amar Arshi, Badshah, Neha Kakkar",Dance
+51,Mantoiyat,Manto,Raftaar,Bollywood
+52,Nashe Si Chadh Gayi,Befikre,Arijit Singh,Dance
+53,Mera Pyar Tera Pyar,Jalebi,Arijit Singh,RomanticSad
+54,Ding Dang,Munna Michael,"Amit Mishra, Antara Mitra",Dance
+55,Main Tera Boyfriend,Raabta,"Arijit Singh, Meet Bros, Neha Kakkar",Dance
+56,Laila Main Laila,Raees,Pawni Pandey,Dance
+57,Ghoomar,Padmaavat,"Shreya Ghoshal, Swaroop Khan",Dance
+58,Rafta Rafta Medley,Yamla Pagla Deewana Phir Se,"Akash Ojha, Disha Sharma, Jordi Patel, Rekha, Sonakshi Sinha, Vishal Mishra",Dance
+59,Pal,Jalebi,"Arijit Singh, Shreya Ghoshal",Romantic
+60,Patola,Black Mail,Guru Randhawa,Dance
+61,Pallo Latke,Shaadi Mein Zaroor Aana,"Fazilpuria, Jyotica Tangri, Yasser Desai",Dance
+62,Main Badhiya Tu Bhi Badhiya,Sanju,"Sonu Nigam, Sunidhi Chauhan",Bollywood
+63,Billionaire,Baazaar,"Simar Kaur, Singhsta, Yo Yo Honey Singh",Dance
+64,This Party Is Over Now,Mitron,Yo Yo Honey Singh,Dance
+65,Heer Badnaam,Zero,Romy,Dance
+66,Tera Hua,Loveratri,Atif Aslam,Romantic
+67,Jaan Nisaar,Kedarnath,Arijit Singh,Romantic
+68,Akh Lad Jaaye,Loveratri,"Asees Kaur, Badshah, Jubin Nautiyal",DanceRomantic
+69,Rangtaari,Loveratri,"Dev Negi, Yo Yo Honey Singh",Dance
+70,The Humma Song,Ok Jaanu,"Badshah, Jubin Nautiyal, Shashaa Tirupati",Dance
+71,Pehli Baar,Dhadak,Ajay Gogavale,Romantic
+72,Tera Yaar Hoon Main,Sonu Ke Titu Ki Sweety,Arijit Singh,RomanticSad
+73,Dilbaro,Raazi,"Harshdeep Kaur, Shankar Mahadevan, Vibha Saraf",Bollywood
+74,Chhod Diya,Baazaar,Arijit Singh,Sad
+75,Maine Tujhko Dekha,Golmaal Again,"Neeraj Shridhar, Sukriti Kakar",Dance
+76,Allah Duhai Hai,Race 3,"Amit Mishra, Jonita Gandhi, Sreerama Chandra",Dance
+77,Cham Cham,Baaghi,Monali Thakur,Dance
+78,Kar Har Maidaan Fateh,Sanju,"Shreya Ghoshal, Sukhwinder Singh",Motivational
+79,Kamariya,Stree,"Aastha Gill, Divya Kumar, Jigar Saraiya, Sachin Sanghvi",Dance
+80,Tamma Tamma Again,Badrinath Ki Dulhania,"Anuradha Paudwal, Badshah, Bappi Lahiri",Dance
+81,Tera Fitoor,Genius,Arijit Singh,Romantic
+82,Mere Rashke Qamar,Baadshaho,"Nusrat Fateh Ali Khan, Rahat Fateh Ali Khan",Romantic
+83,The Breakup Song,Ae Dil Hai Mushkil,"Arijit Singh, Badshah, Jonita Gandhi, Nakash Aziz",Dance
+84,Naino Ne Bandhi,Gold,Yasser Desai,Romantic
+85,Sanu Ek Pal Chain,Raid,Rahat Fateh Ali Khan,Romantic
+86,Ban Ja Rani,Tumhari Sulu,Guru Randhawa,DanceRomantic
+87,Zaalima,Raees,"Arijit Singh, Harshdeep Kaur",DanceRomantic
+88,Baarish,Half Girlfriend,"Ash King, Shashaa Tirupati",Romantic
+89,Aashiq Banaya Aapne,Hate Story 4,"Himesh Reshammiya, Neha Kakkar",Dance
+90,Ek Do Teen Song,Baaghi 2,Shreya Ghoshal,Dance
+91,Tere Liye,Namaste England,"Akanksha Bhandari, Atif Aslam",Romantic
+92,Nazam Nazam,Bareilly Ki Barfi,"Arko, Ayushman Khurana",Romantic
+93,Good Morning,Ek Ladki Ko Dekha Toh Aisa Laga,"Shannon Donald, Vishal Dadlani",Bollywood
+94,O Saathi,Baaghi 2,"Atif Aslam, Payal Dev",Romantic
+95,Tere Jaisa,Satyameva Jayate,"Arko, Tulsi Kumar",Romantic
+96,Mera Intkam Dekhegi,Shaadi Mein Zaroor Aana,Krishna Beuraa,Sad
+97,Gerua,Dilwale,"Antara Mitra, Arijit Singh",Romantic
+98,Suraiyya,Thugs of Hindostan,"Shreya Ghoshal, Vishal Dadlani",Dance
+99,Gold Tamba,Batti Gul Meter Chalu,Nakash Aziz,Dance
+100,Ae Dil Hai Mushkil,Ae Dil Hai Mushkil,Arijit Singh,Sad
+101,Prem Ratan Dhan Payo,Prem Ratan Dhan Payo,Palak Muchhal,DanceRomantic
+102,Mohabbat,Fanney Khan,Sunidhi Chauhan,Dance
+103,Nainowale Ne,Padmaavat,Neeti Mohan,Romantic
+104,Mummy Kasam,Nawabzaade,"Gurinder Seagal, Payal Dev",Dance
+105,Nasha,Game Paisa Ladki,Amit Gupta,RomanticSensual
+106,Bulleya,Ae Dil Hai Mushkil,"Amit Mishra, Shilpa Rao",Dance
+107,Kar Gayi Chull,Kapoor & Sons,"Badshah, Fazilpuria, Neha Kakkar, Sukriti Kakar",Dance
+108,Musafir,Sweetiee Weds NRI,"Atif Aslam, Palak Muchhal",Sad
+109,Binte Dil,Padmaavat,Arijit Singh,Dance
+110,Halka Halka,Fanney Khan,"Divya Kumar, Sunidhi Chauhan",Romantic
+111,Humsafar,Badrinath Ki Dulhania,"Akhil Sachdeva, Mansheel Gujral",RomanticSad
+112,Chad Gayi Hai,Gold,"Jigar, Sachin Sanghvi, Vishal Dadlani",Dance
+113,Tum Mere Ho,Hate Story 4,"Amrita Singh, Jubin Nautiyal",RomanticSensual
+114,Bole Chudiyan,Kabhi Khushi Kabhie Gham,"Alka Yagnik, Amit Kumar, Kavita Krishnamurthy, Sonu Nigam, Udit Narayan",DanceRomantic
+115,Sawarne Lage,Mitron,Jubin Nautiyal,Romantic
+116,Chalti Hai Kya 9 Se 12,Judwaa 2,"Dev Negi, Neha Kakkar",Dance
+117,Selfish,Race 3,"Atif Aslam, Iulia Vantur",Romantic
+118,Oonchi Hai Building,Judwaa 2,"Anu Malik, Neha Kakkar",Dance
+119,Shikwa Nahin Kisi Se,Naseeb,Kumar Sanu,Sad
+120,Sanam Re,Sanam Re,Arijit Singh,Romantic
+121,Dekha Hai Pehli Baar,Saajan,"Alka Yagnik, S.P. Balasubrahmanyam",Dance
+122,Phir Bhi Tumko Chaahunga,Half Girlfriend,"Arijit Singh, Shashaa Tirupati",Sad
+123,Suit Suit,Hindi Medium,"Arjun, Guru Randhawa",Dance
+124,Nachange Saari Raat,Junooniyat,"Meet Bros, Neeraj Shridhar, Tulsi Kumar",Dance
+125,Ishq Di Baajiyan,Soorma,Diljit Dosanjh,Romantic
+126,Hard Hard,Batti Gul Meter Chalu,"Mika Singh, Prakriti Kakar, Sachet Tandon",Dance
+127,Udi Udi Jaye,Raees,"Bhoomi Trivedi, Karsan Sagathia, Sukhwinder Singh",Dance
+128,Nazar Na Lag Jaaye,Stree,"Ash King, Jigar, Sachin Sanghvi",Romantic
+129,Nachle Na,Dil Juunglee,"Guru Randhawa, Neeti Mohan",Dance
+130,Hatt Ja Tau,Veerey Ki Wedding,Sunidhi Chauhan,Dance
+131,Chittiyaan Kalaiyaan,Roy,"Anjjan, Kanika Kapoor, Meet Bros",Dance
+132,La La La (Baazaar),Baazaar,"Bilal Saeed, Neha Kakkar",DanceRomantic
+133,Tujhse Kahan Judaa Hoon Main,Genius,"Himesh Reshammiya, Neeti Mohan, Vineet Singh",Sad
+134,Hua Hain Aaj Pehli Baar,Sanam Re,"Armaan Malik, Palak Muchhal",Romantic
+135,Jay-Jaykara,Baahubali 2 - The Conclusion,Kailash Kher,Sad
+136,Tu Hi Hai,Half Girlfriend,Rahul Mishra,Bollywood
+137,Hawa Hawa,Mubarakan,"Mika Singh, Prakriti Kakkar",Dance
+138,Bhangra Ta Sajda,Veere Di Wedding,"Neha Kakkar, Romy, Shashwat Sachdev, Surya Ragunaathan",Dance
+139,Deewani Mastani,Bajirao Mastani,"Ganesh Chandanshive, Shreya Ghoshal",Dance
+140,O Meri Laila,Laila Majnu,"Atif Aslam, Jyotica Tangri",Romantic
+141,Lo Safar,Baaghi 2,Jubin Nautiyal,Romantic
+142,Chalte Chalte,Mitron,Atif Aslam,Romantic
+143,Party Chale On,Race 3,"Iulia Vantur, Mika Singh",Dance
+144,Sweety Tera Drama,Bareilly Ki Barfi,"Dev Negi, Pawni Pandey, Shraddha Pandit",Dance
+145,Ek Dil Ek Jaan,Padmaavat,Shivam Pathak,Romantic
+146,Ae Watan,Raazi,Arijit Singh,Patriotic
+147,Sunn Le Zara,1921,Arnab Dutta,Sad
+148,Naam Hai Mera,Hate Story 4,Neeti Mohan,RomanticSad
+149,Jiyo Re Baahubali,Baahubali 2,"Daler Mehndi, Ramya Behara, Sanjeev Chimmalgi",Dance
+150,Soniye Dil Nayi,Baaghi 2,"Ankit Tiwari, Shruti Pathak",RomanticSad
+151,Mundiyan,Baaghi 2,"Navraj Hans, Palak Muchhal",Dance
+152,Chitthi Aai Hai,Naam,Pankaj Udhas,Sad
+153,Hawayein,Jab Harry Met Sejal,Arijit Singh,Romantic
+154,Channa Mereya,Ae Dil Hai Mushkil,Arijit Singh,Sad
+155,Lag Ja Gale,Saheb Biwi Aur Gangster 3,Jonita Gandhi,Romantic
+156,Sleepy Sleepy Akiyaan,Bhaiaji Superhit,"Asees Kaur, Yasser Desai",Dance
+157,Subah Subah,Sonu Ke Titu Ki Sweety,"Amaal Mallik, Arijit Singh, Prakriti Kakkar",Dance
+158,Naina Da Kya Kasoor,Andha Dhun,Amit Trivedi,Romantic
+159,Soorma Anthem,Soorma,Shankar Mahadevan,Motivational
+160,Agar Tum Saath Ho,Tamasha,"Alka Yagnik, Arijit Singh",Sad
+161,Tum Se,Jalebi,Jubin Nautiyal,RomanticSad
+162,Kem Cho,Baazaar,"Ikka, Jyotica Tangri",Dance
+163,Aaj Se Teri,Padman,Arijit Singh,Romantic
+164,Maana Ke Hum Yaar Nahin,Meri Pyaari Bindu,Parineeti Chopra,Romantic
+165,Nain Na Jodeen,Badhaai Ho,"Ayushmann Khurrana, Neha Kakkar, Rochak Kohli",RomanticSad
+166,Wajah Tum Ho,Wajah Tum Ho,"Altamash Faridi, Mithoon, Tulsi Kumar",Sad
+167,Pyaar De,Beiimaan Love,Ankit Tiwari,Romantic
+168,Ik Vaari Aa,Raabta,Arijit Singh,Romantic
+169,Radha,Student of the Year,"Shekhar Ravjiani, Shreya Ghoshal, Udit Narayan, Vishal Dadlani",Dance
+170,Mehbooba,Fukrey Returns,"Mohammed Rafi, Neha Kakkar, Yasser Desai",Dance
+171,Hamari Adhuri Kahani,Hamari Adhuri Kahani,Arijit Singh,Sad
+172,Tere Sang Yaara,Rustom,Atif Aslam,Romantic
+173,Radha,Jab Harry Met Sejal,"Shahid Mallya, Sunidhi Chauhan",Romantic
+174,Kamli,Dhoom 3,Sunidhi Chauhan,Dance
+175,Maiya Yashoda,Hum Saath-Saath Hain,"Alka Yagnik, Anuradha Paudwal, Kavita Krishnamurthy",Dance
+176,Lae Dooba,Aiyaary,Sunidhi Chauhan,Sad
+177,Abhi Toh Party Shuru Hui Hai,Khoobsurat,"Aastha Gill, Badshah",Dance
+178,Hello Hello,Pataakha,Rekha Bhardwaj,Dance
+179,Bola Har Har Har,Shivaay,"Aaman Trikha, Badshah, Sukhwinder Singh",Devotional
+180,Bolo Har Har Har,Shivaay,"Anugrah, Badshah, Megha Sriram Dalton, Mithoon, Mohit Chauhan, Sukhwinder Singh",Dance
+181,Tera Mera Rishta,Jalebi,"KK, Shreya Ghoshal",Romantic
+182,Gal Ban Gayi,Single,"Meet Bros, Neha Kakkar, Sukhbir Singh, Yo Yo Honey Singh",Dance
+183,Bol Do Na Zara,Azhar,Armaan Malik,Romantic
+184,Lakk Mera Hit,Sonu Ke Titu Ki Sweety,"Mannat Noor, Rochak Kohli, Sukriti Kakar",Dance
+185,Sexy Baliye,Dil Chahta Hai,Mika Singh,Dance
+186,Main Jahaan Rahoon,Namastey London,Rahat Fateh Ali Khan,Sad
+187,Hasi Ban Gaye,Hamari Adhuri Kahani,Shreya Ghoshal,Romantic
+188,Nachde Ne Saare,Baar Baar Dekho,"Harshdeep Kaur, Jasleen Royal, Siddharth Mahadevan",Dance
+189,Manma Emotion Jaage,Dilwale,"Amit Mishra, Antara Mitra, Anushka Manchanda",DanceRomantic
+190,Happy Happy,Blackmail,"Aastha Gill, Badshah",Bollywood
+191,Tujhko Na Dekhun,Jaanwar,"Sunidhi Chauhan, Udit Narayan",Bollywood
+192,Theher Ja,October,Armaan Malik,Romantic
+193,Boond Boond,Hate Story 4,"Jubin Nautiyal, Neeti Mohan",Romantic
+194,Adhura Lafz,Baazaar,"Pratibha Singh Baghel, Rahat Fateh Ali Khan",Romantic
+195,Trippy Trippy,Bhoomi,"Badshah, Benny Dayal, Brijesh Shandilya, Neha Kakkar",Dance
+196,Tukur Tukur,Dilwale,"Arijit Singh, Kanika Kapoor, Nakash Aziz, Neha Kakkar, Siddharth Mahadevan",Dance
+197,Teri Khair Mangdi,Baar Baar Dekho,Bilal Saeed,Sad
+198,Pinga,Bajirao Mastani,"Shreya Ghoshal, Vasihali Made",Dance
+199,Haanikaarak,Dangal,Sarwar Khan,Bollywood
+200,Tere Thumke Sapna Chaudhary,Nanu Ki Jaanu,"Gunwant Sen, Khushboo Jain, Saumya Upadhyay",Dance
+201,Badnaamiyan,Hate Story 4,Armaan Malik,Romantic
+202,Malhari,Bajirao Mastani,Vishal Dadlani,Dance
+203,Piya More,Baadshaho,"Mika Singh, Neeti Mohan",Bollywood
+204,High Heels Te Nachche,Ki & Ka,"Aditi Singh Sharma, Jaz Dhami, Meet Bros",Dance
+205,Shake Karaan,Munna Michael,"Kanika Kapoor, Meet Bros",Dance
+206,Thodi Der,Half Girlfriend,"Farhan Saeed, Shreya Ghoshal",Sad
+207,Har Dil Jo Pyar Karega,Har Dil Jo Pyar Karega,"Alka Yagnik, Udit Narayan",Dance
+208,Raabta,Raabta,Nikhita Gandhi,Romantic
+209,Nach Meri Jaan,Tubelight,"Dev Negi, Kamaal khan, Nakash Aziz, Tushar Joshi",Dance
+210,Janam Janam,Dilwale,"Antara Mitra, Arijit Singh",Romantic
+211,Andha Dhun,Andha Dhun,Raftaar,Dance
+212,Holi Biraj Ma,Genius,Jubin Nautiyal,Dance
+213,Kal Ho Naa Ho Title Track,Kal Ho Naa Ho,Sonu Nigam,Sad
+214,Enna Sona,Ok Jaanu,"A.R. Rahman, Arijit Singh",Romantic
+215,Little Little,Yamla Pagla Deewana Phir Se,Harrdy Sandhu,Dance
+216,Maa Sherawaliye,Khiladiyon Ka Khiladi,Sonu Nigam,Bollywood
+217,Disco Disco,A Gentleman,"Benny Dayal, Shirley Setia",Dance
+218,Lambiyaan Si Judaiyaan,Raabta,"Altamash Faridi, Arijit Singh, Shadaab Faridi",Sad
+219,Aahista,Laila Majnu,"Arijit Singh, Jonita Gandhi",Romantic
+220,Naam Hai Bhaiaji,Bhaiaji Superhit,"Amit Mishra, Raftaar",Bollywood
+221,Kisi Se Tum Pyaar Karo,Andaaz,"Alka Yagnik, Kumar Sanu",Romantic
+222,Naam Hai Bhaiaji,Bhaiaji Superhit,"Amit Mishra, Raftaar",Bollywood
+223,Baba Bolta Hain Bas Ho Gaya,Sanju,"Papon, Ranbir Kapoor, Supriya Pathak",Bollywood
+224,Sultan Title Song,Sultan,"Shadaab Faridi, Sukhwinder Singh",Motivational
+225,Radio,Tubelight,"Amit Mishra, Kamaal khan",Dance
+226,Sab Badhiya Hai,Sui Dhaaga,Sukhwinder Singh,Dance
+227,Chin Chin Chu,Happy Phirr Bhaag Jayegi,"Jassi Gill, Sonakshi Sinha",Dance
+228,Beat Pe Booty,A Flying Jatt,"Jigar Saraiya, Kanika Kapoor, Sachin Sanghvi, Vayu",Dance
+229,Jag Ghoomeya,Sultan,Rahat Fateh Ali Khan,Romantic
+230,Jogi,Shaadi Mein Zaroor Aana,"Aakanksha Sharma, Yasser Desai",Romantic
+231,Lets Nacho,Kapoor & Sons,"Badshah, Benny Dayal",Dance
+232,Tu Tu Hai Wahi,Yeh Vaada Raha,"Asha Bhosle, Kishore Kumar",Romantic
+233,Yeh Vaada Raha,Yeh Vaada Raha,"Asha Bhosle, Kishore Kumar",Dance
+234,Vande Mataram,ABCD 2,"Badshah, Daler Mehndi, Divya Kumar, Tanishka Sanghvi",Dance
+235,Jeene Laga Hoon,Ramaiya Vastavaiya,Atif Aslam,Romantic
+236,Nit Khair Manga,Raid,Rahat Fateh Ali Khan,Romantic
+237,Jitni Dafa,Parmanu The Story of Pokhran,"Jeet Gannguli, Yasser Desai",Romantic
+238,Wajah Tum Ho,Hate Story 3,Armaan Malik,RomanticSensual
+239,Rozana,Naam Shabana,Shreya Ghoshal,Romantic
+240,Tu Meri Main Tera,Namaste England,"Altamash Faridi, Rahat Fateh Ali Khan, Shadab Faridi",RomanticSad
+241,Gallan Goodiyaan,Dil Dhadakne Do,"Farhan Akhtar, Manish Kumar Tipu, Shankar Mahadevan, Sukhwinder Singh, Yashita Sharma",Dance
+242,Swag Se Swagat (Arabic),Tiger Zinda Hai,"Brigitte Yaghi, Neha Bhasin, Rabih Baroud, Vishal Dadlani",Dance
+243,Kudiya Shehar Diyan,Poster Boys,"Daler Mehndi, Neha Kakkar",Dance
+244,Kudiya Shehar Diyan,Poster Boys,"Daler Mehndi, Neha Kakkar",Dance
+245,Aap Se Milkar,Andha Dhun,"Aakanksha Sharma, Ayushmann Khurrana",Romantic
+246,Socha Hai,Baadshaho,"Jubin Nautiyal, Neeti Mohan",Romantic
+247,Sawan Aaya Hai (Unplugged Version),Creature 3D,"Neha Kakkar, Tony Kakkar",Sad
+248,Pehle Ke Jaisa,Jalebi,K.K.,Sad
+249,Main Woh Chaand,Teraa Surroor,Darshan Raval,RomanticSad
+250,Ankhiyon Se Goli Mare,Dulhe Raja,"Jaspinder Narula, Sonu Nigam",Dance
+251,Jab Tak,M.S. Dhoni,"Amaal Mallik, Armaan Malik",Romantic
+252,Luv Letter,The Legend of Michael Mishra,"Kanika Kapoor, Meet Bros",Dance
+253,Ullu ka Pattha,Jagga Jasoos,"Arijit Singh, Nikhita Gandhi",Bollywood
+254,Yaad Hai Na,Raaz Reboot,Arijit Singh,Romantic
+255,Balma,Pataakha,"Rekha Bhardwaj, Sunidhi Chauhan",Dance
+256,Kisi Se Pyar Ho Jaye,Kaabil,Jubin Nautiyal,DanceRomantic
+257,Sau Aasmaan,Baar Baar Dekho,"Armaan Malik, Neeti Mohan",Dance
+258,Beparwah,Munna Michael,"Nandini Deb, Siddharth Basrur",Dance
+259,Yaad Hai,Aiyaary,"Ankit Tiwari, Palak Muchhal",Sad
+260,Dhayaan Chand,Manmarziyaan,"Amit Trivedi, Nikhita Gandhi, Suhas Sawant, Vijay Yamla",Dance
+261,Aaj Zid,Aksar 2,Arijit Singh,RomanticSensual
+262,Hum Pyaar Hai Tumhare,Haan Maine Bhi Pyaar Kiya,"Alka Yagnik, Kumar Sanu",Romantic
+263,Main Hoon,Munna Michael,Siddharth Mahadevan,Dance
+264,Swag Saha Nahi Jaye,Happy Phirr Bhaag Jayegi,"Neha Bhasin, Shadab Faridi, Sohail Sen",Dance
+265,Chote Bade,Fry Day,"Ankit Tiwari, Mika Singh",Dance
+266,Main Hoon Saath Tere,Shaadi Mein Zaroor Aana,Arijit Singh,Romantic
+267,Kabira,Yeh Jawaani Hai Deewani,"Rekha Bhardwaj, Tochi Raina",Sad
+268,Main Kaun Hoon,Secret Superstar,Meghna Mishra,Sad
+269,Aashiq Surrender Hua,Badrinath Ki Dulhania,"Amaal Mallik, Shreya Ghoshal",Dance
+270,Nachan Farrate,All is Well,"Kanika Kapoor, Meet Bros",Dance
+271,Pyar De Pyar Le,Genius,"Dev Negi, Ikka, Iulia Vantur",Dance
+272,Do Peg Maar,One Night Stand,Neha Kakkar,Dance
+273,Tera Noor,Tiger Zinda Hai,Jyoti Nooran,Bollywood
+274,Jaanu,Behen Hogi Teri,"Juggy D, Raftaar, Shivi",Dance
+275,Hamdard,Ek Villain,Arijit Singh,Romantic
+276,Hawa Hawai 2.0,Tumhari Sulu,"Kavita Krishnamurthy, Shashaa Tirupati",Dance
+277,Dhoom Dhadakka,Namaste England,"Antara Mitra, Shahid Mallya",Dance
+278,Lovely,Happy New Year,"Fateh, Kanika Kapoor, Miraya Varma, Ravindra Upadhyay",Dance
+279,Mohabbat Nasha Hai,Hate Story 4,"Neha Kakkar, Tony Kakkar",Sad
+280,Chal Wahan Jaate Hain,Heropanti,Arijit Singh,Romantic
+281,Ishq De Fanniyar,Fukrey Returns,Jyotica Tangri,Romantic
+282,Palat Tera Hero Idhar Hai,Main Tera Hero,Arijit Singh,DanceRomantic
+283,Tab Bhi Tu,October,Rahat Fateh Ali Khan,Sad
+284,Yeh Ladka Hai Allah,Kabhi Khushi Kabhie Gham,"Alka Yadnik, Udit Narayan",Dance
+285,Tujhe Yaad Na Meri Aayee,Kuch Kuch Hota Hai,"Alka Yagnik, Manpreet Akhtar, Udit Narayan",Sad
+286,Jalte Diye,Prem Ratan Dhan Payo,"Anwesshaa, Harshdeep Kaur, Shabab Sabri, Vineet Singh",Romantic
+287,Zindagi Bana Loon,Sweetiee Weds NRI,Palak Muchhal,Romantic
+288,Humnava,Hamari Adhuri Kahani,Papon,Sad
+289,Galliyan,Ek Villain,Ankit Tiwari,Romantic
+290,Tere Chehre Mein Woh Jaadu Hai,Dharmatma,Kishore Kumar,Romantic
+291,Golmaal Again Title Track,Golmaal Again,"Aditi Singh Sharma, Brijesh Shandilya",Dance
+292,Suno Ganpati Bappa Morya,Judwaa 2,Amit Mishra,Dance
+293,Dil Dene Ki Ruth,Prem Granth,"Alka Yagnik, Vinod Rathod",Dance
+294,Soch Na Sake,Airlift,"Amaal Mallik, Arijit Singh, Tulsi Kumar",Romantic
+295,Tu Meri,Bang bang,Vishal Dadlani,DanceRomantic
+296,Baby Ko Bass Pasand Hai,Sultan,"Badshah, Ishita, Shalmali Kholgade, Vishal Dadlani",Dance
+297,Daddy Mummy,Bhaag Johnny,"Devi Sri Prasad, M. M. Manasi",Dance
+298,Dekha Hazaro Dafaa,Rustom,"Arijit Singh, Palak Muchhal",Romantic
+299,Khatar Patar,Sui Dhaaga,Papon,Dance
+300,Tu Mera Bhai Nahi Hai,Fukrey Returns,"Gandhharv Sachdeav, Raftaar",Bollywood
+301,Party With The Bhoothnath,Bhoothnath Returns,Yo Yo Honey Singh,Dance
+302,Hasi,Hamari Adhuri Kahani,Ami Mishra,RomanticSad
+303,Good Man Di Laaltein,Soorma,"Sukhwinder Singh, Sunidhi Chauhan",Dance
+304,Kaabil Hoon,Kaabil,"Jubin Nautiyal, Palak Muchhal",Romantic
+305,Manali Trance,The Shaukeens,"Neha Kakkar, Yo Yo Honey Singh",Dance
+306,Main Teri Dushman Dushman Tu,Nagina,Lata Mangeshkar,Dance
+307,Hafiz Hafiz,Laila Majnu,Mohit Chauhan,Romantic
+308,Tere Jaisa Yaar Kahan,Yaarana,Kishore Kumar,Bollywood
+309,Daryaa,Manmarziyaan,"Ammy Virk, Shahid Mallya",Sad
+310,Chota Sa Fasana,Karwaan,Arijit Singh,Bollywood
+311,Main Adhoora,Beiimaan Love,"Aakanksha Sharma, Yasser Desai",Sad
+312,Aao Raja,Gabbar Is Back,"Neha Kakkar, Yo Yo Honey Singh",Dance
+313,Haseeno Ka Deewana,Kaabil,"Payal Dev, Raftaar",Dance
+314,Swag,Munna Michael,"Brijesh Shandaliya, Pranaay",Dance
+315,Ki Kariye Nachna Aaonda Nahin,Tum Bin 2,"Hardy Sandhu, Neha Kakkar, Raftaar",Dance
+316,Neele Neele Ambar par,Kalaakaar,Kishore Kumar,Dance
+317,Choli Ke Peeche Kya Hai (Female),Khal Nayak,"Alka Yagnik, Vinod Rathod",Dance
+318,Kitna Haseen Chehra,Dilwale,Kumar Sanu,Romantic
+319,Girl I Need You,Baaghi,"Arijit Singh, Roach Killa",Romantic
+320,Sanam Teri Kasam,Sanam Teri Kasam,Ankit Tiwari,Romantic
+321,Kisi Din Banoongi Main,Raja,"Alka Yagnik, Udit Narayan",Dance
+322,Laaj Sharam,Veere Di Wedding,"Divya Kumar, Enbee, Jasleen Royal",Bollywood
+323,Badan Pe Sitaare,Fanney Khan,Sonu Nigam,DanceRomantic
+324,Menu Kehn De,Aap Se Mausiiquii,Himesh Reshammiya,Sad
+325,Bekhudi,Teraa Surroor,"Aditi Singh Sharma, Darshan Raval",Romantic
+326,Kun Faya Kun,Rockstar,"A.R. Rahman, Javed Ali, Mohit Chauhan",Dance
+327,Balam Pichkari,Yeh Jawaani Hai Deewani,"Shalmali Kholgade, Vishal Dadlani",Dance
+328,Tinka Tinka Dil Mera,Tubelight,Rahat Fateh Ali Khan,Sad
+329,Jaana Ve,Aksar 2,Arijit Singh,Romantic
+330,Shubh Din,Parmanu The Story of Pokhran,"Keerthi Sagathia, Yotica Tangri",Bollywood
+331,The Disco Song,Student of the Year,"Benny Dayal, Nazia Hassan, Sunidhi Chauhan",Dance
+332,Nagada Sang Dhol,Goliyon Ki Rasleela Ram-leela,"Osman Mir, Shreya Ghoshal",Dance
+333,Tune Mari Entriyaan,Gunday,"Bappi Lahiri, K.K., Neeti Mohan, Vishal Dadlani",Dance
+334,Ijazat,One Night Stand,"Arijit Singh, Meet Bros",RomanticSensual
+335,Tujhse Naaraz Nahi Zindagi,Masoom,Anup Ghoshal,Sad
+336,Pyar Kabhi Kam Nahi Karna,Prem Pratigyaa,"Asha Bhosle, Bappi Lahiri",Romantic
+337,Chikni Chameli,Agneepath,Shreya Ghoshal,Dance
+338,Zaroorat,Ek Villain,Mustafa Zahid,Sad
+339,Bang Bang,Bang bang,"Benny Dayal, Neeti Mohan",Dance
+340,Bulleya,Sultan,Papon,Romantic
+341,Barso Re,Guru,Shreya Ghoshal,Dance
+342,Manwa Laage,Happy New Year,"Arijit Singh, Shreya Ghoshal",Romantic
+343,The Google Song,Mubarakan,"Amaal Mallik, Armaan Malik, Neeti Mohan, Sonu Nigam, Tulsi Kumar",Dance
+344,Ek Mulaqat,Sonali Cable,Jubin Nautiyal,RomanticSad
+345,Suraj Hua Maddham,Kabhi Khushi Kabhie Gham,"Alka Yagnik, Sonu Nigam",Bollywood
+346,Aa Toh Sahii,Judwaa 2,"Meet Bros, Neha Kakkar",Dance
+347,Nazm Nazm,Bareilly Ki Barfi,Arko,Romantic
+348,Teri Ore,Singh Is Kinng,"Rahat Fateh Ali Khan, Shreya Ghoshal",Romantic
+349,Toota Jo Kabhi Tara,A Flying Jatt,"Atif Aslam, Sumedha Karmahe",Sad
+350,Say “Shava Shava”,Kabhi Khushi Kabhie Gham,"Aadesh, Alka Yagnik, Amitabh Bachchan, Sudesh Bhosle, Sunidhi Chauhan",Dance
+351,Sunn Raha Hai (Male),Aashqui 2,Ankit Tiwari,Sad
+352,Tu Banja Gali Benaras Ki,Shaadi Mein Zaroor Aana,Asit Tripathy,Romantic
+353,Khuda Bhi,Ek Paheli Leela,Mohit Chauhan,Romantic
+354,Chaar Botal Vodka,Ragini MMS 2,Yo Yo Honey Singh,Dance
+355,Chaar Botal Vodka,Ragini MMS 2,Yo Yo Honey Singh,Dance
+356,Selfie Le Le Re,Bajrangi Bhaijaan,"Badshah, Nakash Aziz, Pritam, Vishal Dadlani",Dance
+357,India Wale,Happy New Year,"K.K., Neeti Mohan, Shankar Mahadevan, Vishal Dadlani",Dance
+358,Kudi Gujarat Di,Sweetiee Weds NRI,"Akasa Singh, Jasbir Jassi, Sonia Sharma",Dance
+359,Lag Ja Gale,Bhoomi,Rahat Fateh Ali Khan,Romantic
+360,O O Jaane Jaana,Pyaar Kiya To Darna Kya,Kamaal khan,Dance
+361,Fevicol Se,Dabangg 2,"Keerthi Sagathia, Mamta Sharma, Shadab Faridi, Uvie, Wajid",Dance
+362,Tishnagi,Tishnagi,"Dev Negi, Sunidhi Chauhan",RomanticSensual
+363,Saiyaara,Ek Tha Tiger,"Mohit Chauhan, Tarannum Malik",Sad
+364,Jab Mehndi Lag Lag Jaave,Singh Saab The Great,"Shreya Ghoshal, Sonu Nigam",Dance
+365,Tu Jo Mila,Bajrangi Bhaijaan,K.K.,Bollywood
+366,Baarish (Atif Aslam),Half Girlfriend,Atif Aslam,Romantic
+367,Akkad Bakkad,Sanam Re,"Badshah, Neha Kakkar",Dance
+368,Tum Ho Toh Lagta Hai,Dil Juunglee,Shaan,Romantic
+369,Kya Khoob Lagti Ho,Dharmatma,,Dance
+370,Kya Khoob Lagti Ho,Dharmatma,"Kanchan, Mukesh",Romantic
+371,Saturday,Humpty Sharma Ki Dulhania,"Akriti Kakar, Badshah, Indeep Bakshi",Dance
+372,Dard Karaara,Dum Laga Ke Haisha,"Kumar Sanu, Sadhana Sargam",Romantic
+373,Akhiyaan Milaoon Kabhi,Raja,"Alka Yagnik, Udit Narayan",Dance
+374,Mere Humsafar,All is Well,"Mithoon, Tulsi Kumar",Sad
+375,Hangover,Kick,"Anjjan, Meet Bros, Salman Khan, Shreya Ghoshal",Romantic
+376,Mind Blowing,Veerey Ki Wedding,Mika Singh,Dance
+377,Jaaneman Aah,Dishoom,"Aaman Trikha, Antara Mitra",Dance
+378,Dangal,Dangal,Daler Mehndi,Motivational
+379,Jag Ghoomeya (Female),Sultan,Neha Bhasin,Romantic
+380,Madamiyan,Tevar,"Mamta Sharma, Mika Singh",Dance
+381,Hum Nahi Sudhrenge,Golmaal Again,Armaan Malik,Dance
+382,Aye Watan Tere Liye,Karma,"Kavita Krishnamurthy, Mohammad Aziz",Patriotic
+383,Tu Hai,Mohenjo Daro,"A.R. Rahman, Sanah Moidutty",Romantic
+384,Likhne Wale Ne Likh Dale,Arpan,"Lata Mangeshkar, Suresh Wadkar",Dance
+385,Duniya Bananewale,Teesri Kasam,Mukesh,Sad
+386,Bum Bum Bole,Taare Zameen Par,Shaan,Dance
+387,Hans Mat Pagli,Toilet Ek Prem Katha,"Shreya Ghoshal, Sonu Nigam",Romantic
+388,Butterfly,Jab Harry Met Sejal,"Aaman Trikha, Dev Negi, Jyoti Nooran, Sultana Nooran, Sunidhi Chauhan",Dance
+389,Nayak Nahi Khalnayak Hoon Main,Khal Nayak,"Kavita Krishnamurthy, Vinod Rathod",Dance
+390,Saree Ke Fall Sa,R... Rajkumar,"Antara Mitra, Nakash Aziz",Dance
+391,Galla Goriyan – Aaja Soniye,Baa Baa Black Sheep,"Kanika Kapoor, Mika Singh",Dance
+392,Mubarakan Title Song,Mubarakan,"Badshah, Juggy D, Sukriti Kakar, Yash Narvekar",Dance
+393,Nachdi Phira,Secret Superstar,Meghna Mishra,Sad
+394,Maula Mere Maula,Anwar,Roop Kumar Rathod,Romantic
+395,Raah Mein Unse Mulaqat,Vijaypath,"Alka Yagnik, Kumar Sanu",Romantic
+396,Resham Ka Rumaal,Great Grand Masti,"Sonia Sharma, Toshi Sabri",Dance
+397,Twist Kamariya,Bareilly Ki Bafi,"Altamash Faridi, Harshdeep Kaur, Tanishk Baagchi, Yasser Desai",Dance
+398,Ram Chahe Leela,Ramleela,Bhoomi Trivedi,Dance
+399,Ram Chahe Leela,Goliyon Ki Rasleela Ram-leela,Bhoomi Trivedi,Dance
+400,Kukkad Kamaal Da,Student of the Year,"Marianne, Nisha Mascarenhas, Shahid Mallya",Dance
+401,Aa Jao Na,Veere Di Wedding,"Arijit Singh, Shashwat Sachdev",Sad
+402,Banjaara,Ek Villain,"Mohammed Irfan, Shashaa Tirupati",Romantic
+403,Radha Kaise Na Jale,Lagaan,"Asha Bhosle, Udit Narayan",DanceRomantic
+404,Bewajah,Sanam Teri Kasam,Himesh Reshammiya,Sad
+405,London Thumakda,Queen,"Labh Janjua, Neha Kakkar, Sonu Kakkar",Dance
+406,Aashiq Banaya Aapne,Aashiq Banaya Aapne,"Himesh Reshammiya, Shreya Ghoshal",RomanticSensual
+407,Kheench Meri Photo,Sanam Teri Kasam,"Akasa Singh, Darshan Raval, Neeti Mohan",Dance
+408,Aayega Maza Ab Barsaat Ka,Andaaz,"Alka Yagnik, Babul Supriyo",Romantic
+409,Bewafa Beauty,Black Mail,Pawni Pandey,Bollywood
+410,Birthday Bash,Dilliwaali Zaalim Girlfriend,"Alfaaz, Yo Yo Honey Singh",Dance
+411,Jumme Ki Raat,Kick,"Mika Singh, Palak Muchhal",Dance
+412,Jab Koi Baat Bigad Jaye,Jurm,"Kumar Sanu, Sadhna Sargam",Romantic
+413,Tera Hone Laga Hoon,Ajab Prem Ki Ghazab Kahani,"Alisha Chinai, Atif Aslam",Romantic
+414,Sheila Ki Jawani,Tees Maar Khan,"Sunidhi Chauhan, Vishal Dadlani",Dance
+415,Uff,Bang bang,"Benny Dayal, Harshdeep Kaur",Dance
+416,Sunny Sunny,Yaariyan,Yo Yo Honey Singh,Dance
+417,Ghagra,Yeh Jawaani Hai Deewani,"Rehka Bharadwaj, Vishal Dadlani",Dance
+418,Paani Wala Dance,Kuch Kuch Locha Hai,"Arko, Ikka, Shraddha Pandit",Dance
+419,Dola Re Dola,Devdas,"K.K., Kavita Krishnamurthy, Shreya Ghoshal",Dance
+420,Jab Tum Chaho,Prem Ratan Dhan Payo,"Darshan Raval, Mohammed Irfan, Palak Muchhal",Dance
+421,Tere Bina Zindagi Se Koi Shikwa To Nahin,Aandhi,"Kishore Kumar, Lata Mangeshkar",Sad
+422,Mujhe Ek Pal Chain,Judaai,"Alka Yagnik, Hariharan, Jaswinder Narula",Dance
+423,Kuch Iss Tarah,1921,Arnab Dutta,Sad
+424,Gazab Ka Hai Din,Dil Juunglee,"Jubin Nautiyal, Prakriti Kakkar",Romantic
+425,Tu Jaane Na,Ajab Prem Ki Ghazab Kahani,Atif Aslam,Romantic
+426,Tumne Agar Pyar Se – Female,Raja,Alka Yagnik,Dance
+427,Stay A Little Longer,Half Girlfriend,Anushka Shahaney,Sad
+428,Badtameez Dil,Yeh Jawaani Hai Deewani,Benny Dayal,Dance
+429,Chand Sifarish,Fanaa,"Kailash Kher, Shaan",Romantic
+430,Is Pyar Se Meri Taraf Na Dekho,Chamatkar,"Alka Yagnik, Kumar Sanu",Romantic
+431,Aaj Unse Milna Hai,Prem Ratan Dhan Payo,Shaan,DanceRomantic
+432,Tere Bin Nahi Laage,Ek Paheli Leela,Uzair Jaswal,RomanticSad
+433,Yaar Na Miley,Kick,"Jasmine Sandlas, Yo Yo Honey Singh",Dance
+434,Main Rang Sharbaton Ka,Phata Poster Nikhla Hero,Atif Aslam,Romantic
+435,Raazi Title Track,Raazi,Arijit Singh,Motivational
+436,Hum Tumhe Chahte Hai Aise,Qurbani,"Anand Kumar C, Kanchan, Manhar Udhas",Romantic
+437,Ittefaq Se Raat Baaki,Ittefaq,"Jubin Nautiyal, Nikhita Gandhi",Dance
+438,Oye Oye,Azhar,"Aditi Singh Sharma, Armaan Malik",Dance
+439,Sooraj Dooba Hai,Roy,"Adit Singh Sharma, Arijit Singh",Dance
+440,Will You Marry me,Bhoomi,"Divya Kumar, Jonita Gandhi",Dance
+441,Tera Hoke Rahoon,Behen Hogi Teri,Arijit Singh,Romantic
+442,Aa Re Pritam Pyaare,Rowdy Rathore,"Mamta Sharma, Sarosh Sami",Dance
+443,Mehboob Mere Mehboob Mere,Pathar Ke Sanam,"Lata Mangeshkar, Mukesh",Romantic
+444,Dil Mein Chhupa Loonga,Wajah Tum Ho,"Armaan Malik, Meet Bros, Tulsi Kumar",RomanticSensual
+445,Dance Basanti,Ungli,"Anushka Manchanda, Vishal Dadlani",Dance
+446,Teri Meri Prem Kahani,Bodyguard,"Rahat Fateh Ali Khan, Shreya Ghoshal",Sad
+447,Lungi Dance,Chennai Express,Yo Yo Honey Singh,Dance
+448,Jeena Jeena,Badlapur,Atif Aslam,RomanticSad
+449,Thare Vaaste,Parmanu The Story of Pokhran,Divya Kumar,Patriotic
+450,Maine Socha Ke Chura Loon,Phir Se,"Arijit Singh, Shreya Ghoshal",Romantic
+451,Mar Gaye,Beiimaan Love,"Manj Musik, Nindy Kaur",Dance
+452,Cutiepie,Ae Dil Hai Mushkil,"Nakash Aziz, Pardeep Singh Sran",Dance
+453,Lipstick Laga Ke,Great Grand Masti,"Payal Dev, Shaan",Dance
+454,Laila,Shootout at Wadala,"Anand Raaj Anand, Mika Singh, Sunidhi Chauhan",Dance
+455,Tu Mera Hero,Desi Boyz,"Mika, Shefali Alvaris",Dance
+456,A Flying Jatt,A Flying Jatt,"Mansheel Gujral, Raftaar, Tanishkaa",Dance
+457,World Dance Medley,Happy New Year,"K.K., Neeti Mohan, Shankar Mahadevan, Sukhwinder Singh, Vishal Dadlani",DanceRomantic
+458,Qayamat,Deewane,"Alka Yagnik, Sukhwinder Singh",Dance
+459,Matargashti,Tamasha,Mohit Chauhan,Dance
+460,Pehla Nasha Once Again,Yoodlee film – Kuchh Bheege Alfaaz,"Jubin Nautiyal, Palak Muchhal",Romantic
+461,Raj Karega Khalsa,A Flying Jatt,"Daler Mehndi, Navraj Hans",Motivational
+462,Punjabi Wedding Song,Hasee Toh Phasee,"Benny Dayal, Sunidhi Chauhan",Dance
+463,Rabba Ishq Na Hove,Andaaz,"Alka Yagnik, Kailash Kher, Sapna Mukherjee, Sonu Nigam",Sad
+464,Tumhi Ho Bandhu,Cocktail,"Kavita Seth, Neeraj Shridhar",Dance
+465,Saans,Jab Tak Hai Jaan,"Mohit Chauhan, Shreya Ghoshal",Romantic
+466,Besharmi Ki Height,Main Tera Hero,"Benny Dayal, Shalmali Kholgade",Dance
+467,Mere Rashke Qamar,Baadshaho,Tulsi Kumar,Dance
+468,Besabriyaan,M.S. Dhoni,Armaan Malik,Bollywood
+469,Tu Hai Ki Nahin,Roy,Ankit Tiwari,Sad
+470,Aaj Ki Party,Bajrangi Bhaijaan,Mika Singh,Dance
+471,Saaton Janam Main Tere,Dilwale,"Alka Yagnik, Kumar Sanu",Romantic
+472,Allah Kare Dil Na Lage,Andaaz,"Alka Yagnik, Sonu Nigam",Romantic
+473,Ye Jo Teri Paylon Ki,Masoom,"Abhijeet, Sadhana Sargam",Dance
+474,Tum,Laila Majnu,Atif Aslam,Romantic
+475,Radha Nachegi,Tevar,"Danish Sabri, Ritu Pathak, Shabab Sabri",Dance
+476,Itni Si Baat Hai,Azhar,"Antara Mitra, Arijit Singh",Romantic
+477,Laagi Na Choote,A Gentleman,"Arijit Singh, Shreya Ghoshal",Romantic
+478,Sab Tera,Baaghi,"Armaan Malik, Shraddha Kapoor",Romantic
+479,Mashallah,Ek Tha Tiger,"Shreya Ghoshal, Wajid",Dance
+480,Taaron Ka Chamakta,Hum Tumhare Hain Sanam,"Bali Brahambhatt, Udit Narayan",Dance
+481,Sau Tarah Ke,Dishoom,"Amit Mishra, Jonita Gandhi",Dance
+482,Gulabi Aankhen,The Train,Mohammed Rafi,DanceRomantic
+483,Gulaabo,Shaandaar,"Anusha Mani, Vishal Dadlani",Dance
+484,Ya Ali,Gangster,Zubeen Garg,Sad
+485,Lahu Munh Lag Gaya,Goliyon Ki Rasleela Ram-leela,Shail Hada,Dance
+486,Yeh Kasoor Mera Hai,Jism 2,Sonu Kakkar,Sad
+487,Shanivaar Raati,Main Tera Hero,"Arijit Singh, Shalmali Kholgade",Dance
+488,Tere Dil Mein,Commando 2,Armaan Malik,Sad
+489,Jab Haal E Dil Tumse Kehne Ko,Salaami,Alka Yagnik,Dance
+490,Tattad Tattad,Goliyon Ki Rasleela Ram-leela,Aditya Narayan,Dance
+491,Mohe Rang Do Laal,Bajirao Mastani,"Pandit Birju Maharaj, Shreya Ghoshal",Romantic
+492,Ek Haseena Thi,Karzzzz,"Himesh Reshammiya, Shreya Ghoshal",Dance
+493,Kahin Pyaar Na Ho Jaye,Kahin Pyaar Na Ho Jaye,"Alka Yagnik, Kumar Sanu",Romantic
+494,Ek Do Teen,Tezaab,Alka Yagnik,Dance
+495,Maahi Ve,Kal Ho Naa Ho,"Sadhana Sargam, Shankar Mahadevan, Sonu Nigam, Udit Narayan",Dance
+496,Tere Mere,Chef,Armaan Malik,Sad
+497,Allah Maaf Kare,Desi Boyz,"Shilpa Rao, Sonu Nigam",DanceRomantic
+498,Le Le Maza Le,Wanted,"Hrishikesh Kamerkar, Nikita Nigam, Soumya Raoh, Suzanne D'Mello",Dance
+499,Jaa Sajna Tujhko Bhula,Raja,"Alka Yagnik, Udit Narayan",Sad
+500,Nazar Se Nazar Mile,Bollywood HeightsMiley Naa Miley Hum,Rahat Fateh Ali Khan,Romantic
+501,Gandi Baat,R... Rajkumar,"Kalpana Patowary, Mika Singh",Dance
+502,Sarphiri,Laila Majnu,"Babul Supriyo, Shreya Ghoshal",Romantic
+503,Mere Sapno Ki Rani,Aradhana,Kishore Kumar,DanceRomantic
+504,Dum Dum,Band Baaja Baaraat,"Benny Dayal, Himani Kapoor",Dance
+505,Sari Duniya Ka Boj,Coolie,Shabbir Kumar,Dance
+506,Pink Lips,Hate Story 2,"Anjjan, Khushhboo Grewal, Meet Bros",Dance
+507,Pee Loon,Once Upon A Time In Mumbai,Mohit Chauhan,Romantic
+508,Khali Khali Dil,Tera Intezaar,"Armaan Malik, Payal Dev",Romantic
+509,Hare Krishna Hare Ram,Commando 2,"Armaan Malik, Ritika",Dance
+510,Single Rehne De,Simran,"Divya Kumar, Shalmali Kholgade",Dance
+511,Jhak Maar Ke,Desi Boyz,"Harshdeep Kaur, Neeraj Shridhar",Dance
+512,Naa Jaane,I Me Aur Main,"Anushka Manchanda, Neeraj Shridhar",Dance
+513,Party On My Mind,Race 2,"K.K., Shefali Alvares, Yo Yo Honey Singh",Dance
+514,Kajra Re,Bunty Aur Babli,"Alisha Chinai, Javed Ali, Shankar Mahadevan",Dance
+515,Likhe Jo Khat Tujhe,Kanyadaan,Mohammed Rafi,Dance
+516,Jhanjariya,Krishna,Abhijeet,Dance
+517,O Saathi Re Tere Bina,Muqaddar Ka Sikandar,"Anjaan, Kishore Kumar",Sad
+518,Tare Hain Barati,Virasat,"Jaspinder Narula, Kumar Sanu",Dance
+519,Tu Zaroorat Nahi Tu Zaroori Hai,Fuddu,"Gandharv Sachdev, Shreya Ghoshal",Sad
+520,Iski Uski,2 States,"Akriti Kakar, Shahid Mallya",Dance
+521,Chote Chote Bhaiyon Ke Bade Bhaiya,Hum Saath-Saath Hain,"Kavita Krishnamurthy, Kumar Sanu, Udit Narayan",Dance
+522,Saiyaan Superstar,Ek Paheli Leela,Tulsi Kumar,Dance
+523,Every Night & Day,Aap Se Mausiiquii,"Himesh Reshammiya, Iulia Vantur",Dance
+524,Photocopy,Jai Ho,"Himesh Reshammiya, Keerthi Sagathia, Palak Muchhal",Dance
+525,Dil Tu Hi Bataa,Krrish 3,"Alisha Chinai, Zubeen Garg",Romantic
+526,Beech Beech Mein,Jab Harry Met Sejal,"Arijit Singh, Shalmali Kholgade, Shefali Alvares",Dance
+527,Aakhon Aakhon,Bhaag Johnny,Yo Yo Honey Singh,Dance
+528,Kabhi Alvida Naa Kehna Title Track,Kabhi Alvida Naa Kehna,"Alka Yagnik, Sonu Nigam",RomanticSad
+529,All Izz Well,3 Idiots,"Shaan, Sonu Nigam, Swanand Kirkire",Dance
+530,Chandralekha,A Gentleman,"Jonita Gandhi, Vishal Dadlani",Dance
+531,Mitwa,Kabhi Alvida Naa Kehna,"Caralisa Monteiro, Shafqat Amanat Ali, Shankar Ehsaan Loy, Shankar Mahadevan",Dance
+532,Baat Ban Jaaye,A Gentleman,"Priya Saraiya, Siddharth Basrur",DanceRomantic
+533,Oye Hichki,Hichki,Harshdeep Kaur,Dance
+534,Ang Laga De,Goliyon Ki Rasleela Ram-leela,"Aditi Paul, Shail Hada",RomanticSensual
+535,Lagdi Hai Thaai,Simran,"Guru Randhawa, Jonita Gandhi",Dance
+536,Ishq Chadha Hai,Single,Darshan Raval,Romantic
+537,Bandeya,Dil Juunglee,Arijit Singh,Sad
+538,Love Mera Hit Hit,Billu,"Neeraj Shridhar, Tulsi Kumar",Dance
+539,Ishq Da Sutta,One Night Stand,"Jasmine Sandlas, Meet Bros",Dance
+540,Zindagi Kuch Toh Bata,Bajrangi Bhaijaan,Jubin Nautiyal,Bollywood
+541,Haareya,Meri Pyaari Bindu,Arijit Singh,Romantic
+542,Patthar Ke Sanam,Patthar Ke Sanam,Mohammed Rafi,Sad
+543,The Medley,Mujhse Dosti Karoge!,"Lata Mangeshkar, Pamela Chopra, Sonu Nigam, Udit Narayan",Dance
+544,Raghupati Raghav,Krrish 3,"Bob, Monali Thakur, Neeraj Shridhar",Dance
+545,The Padman Song,Padman,Mika Singh,Dance
+546,Go Pagal,Jolly LLB 2,"Nindy Kaur, Raftaar",Dance
+547,Sadi Gali,Tanu Weds Manu,Lehmber Hussainpuri,Dance
+548,Daiya Daiya Daiya Re,Dil Ka Rishta,Alka Yagnik,DanceRomantic
+549,Challa,Jab Tak Hai Jaan,Rabbi Shergill,Dance
+550,Thoda Aur,Ranchi Diaries,"Arijit Singh, Palak Muchhal",Romantic
+551,Sexy Baby Girl,Tera Intezaar,"Lil Golu, Swati Sharma",Dance
+552,Ek Dilruba Hai,Bewafaa,Udit Narayan,DanceRomantic
+553,Tu Pyar Hai Kisi Aur Ka,Dil Hai Ke Manta Nahin,"Anuradha Paudwal, Kumar Sanu",Sad
+554,Aata Majhi Satakli,Singham Returns,"Mamta Sharma, Nitu Choudhry, Yo Yo Honey Singh",Dance
+555,Ishq Bulaava,Hasee Toh Phasee,Sanam Puri,Romantic
+556,Thug Le,Ladies Vs Ricky Bahl,"Sweta Pandit, Vishal Dadlani",Dance
+557,Hum Mar Jayenge,Aashiqui 2,"Arijit Singh, Tulsi Kumar",Sad
+558,Desi Girl,Dostana,"Shankar Mahadevan, Sunidhi Chauhan, Vishal Dadlani",Dance
+559,Madamji Go Easy,Hichki,"Benny Dayal, David Klyton",Dance
+560,Tu Dharti Pe Chaahe Jahan Bhi,Jeet,"Alka Yagnik, Kumar Sanu",Romantic
+561,Sandese Aate Hain,Border,"Roop Kumar Rathod, Sonu Nigam",Patriotic
+562,Tenu Le Ke,Salaam-E-Ishq,"Mahalakshmi Iyer, Sonu Nigam",Dance
+563,Pehli Nazar Mein,Race,Atif Aslam,Romantic
+564,I Wanna Tera Ishq,Great Grand Masti,"Shivangi Bhayana, Shivranjani Singh",Dance
+565,Nimbooda Nimbooda,Hum Dil De Chuke Sanam,"Ismail Darbar, Kavita Krishnamurthy",Dance
+566,Tera Rang Balle Balle,Soldier,"Jaspinder Narula, Sonu Nigam",Dance
+567,Dil Laga Na,Dhoom 2,"Jolly Mukherjee, Mahalaxmi Iyer, Soham Chakrabarthy, Sukhbir, Suzanne D'Mello",Dance
+568,Naina Banjare,Pataakha,Arijit Singh,Romantic
+569,Yadaan Teriyaan,Hero,Rahat Fateh Ali Khan,Bollywood
+570,Asalaam-E-Ishqum,Gunday,"Bappi Lahiri, Neha Bhasin",Dance
+571,Nadaan Parindey,Rockstar,A.R. Rahman,Sad
+572,You Are My Soniya,Kabhi Khushi Kabhie Gham,"Alka Yagnik, Sonu Nigam",Dance
+573,Aaja Nachle,Aaja Nachle,Sunidhi Chauhan,Dance
+574,Piya O Re Piya,Tere Naal Love Ho Gaya,"Atif Aslam, Shreya Ghoshal",Romantic
+575,Halka Halka,Raees,"Ram Sampath, Shreya Ghoshal, Sonu Nigam",DanceRomantic
+576,Peh Gaya Khalara,Fukrey Returns,"Akanksha Bhandari, Akasa Singh, Divya Kumar, Jasleen Royal",Dance
+577,Malang,Dhoom 3,"Shilpa Rao, Siddharth Mahadevan",Dance
+578,Kuch Kuch Hota Hai,Kuch Kuch Hota Hai,"Alka Yagnik, Udit Narayan",Romantic
+579,Tay Hai,Rustom,Ankit Tiwari,Sad
+580,Usire Usire,Hebbuli,"Shaan, Shreya Ghoshal",DanceRomantic
+581,Papa Mere Papa,Main Aisa Hi Hoon,"Baby Aparna, Shreya Ghoshal, Sonu Nigam",Bollywood
+582,Go Go Govinda (Reprise),OMG Oh My God!,"Aaman Trikha, Shreya Ghoshal",Dance
+583,Go Go Govinda,OMG Oh My God!,"Aman Trikha, Shreya Ghoshal",Dance
+584,Tu Mujhe Kabool,Khuda Gawah,"Kavita Krishnamurthy, Mohammad Aziz",Dance
+585,Hori Khele Raghuveera,Baghban,"Alka Yagnik, Amitabh Bachchan, Sukhwinder Singh, Udit Narayan",Dance
+586,Aap Ka Aana Dil Dhadkana,Kurukshetra,"Alka Yagnik, Kumar Sanu",Dance
+587,Love Tujhe Love Main Karta,Barsaat,"Alka Yagnik, Kumar Sanu",Romantic
+588,Just Go to Hell Dil,Dear Zindagi,"Amit Trivedi, Sunidhi Chauhan",Sad
+589,Party All Night,Boss,Yo Yo Honey Singh,Dance
+590,Talli Tonight,Veerey Ki Wedding,"Deep Money, Meet Bros, Mellow D, Neha Kakkar",Dance
+591,Darasal,Raabta,Atif Aslam,Romantic
+592,Mauja Hi Mauja,Jab We Met,Mika Singh,Dance
+593,Dhokha Dhadi,R... Rajkumar,Arijit Singh,Romantic
+594,Dhoom Machale Dhoom,Dhoom 3,Aditi Singh Sharma,Dance
+595,Ikk Kudi,Udta Punjab,Diljit Dosanjh,Romantic
+596,Jhalak Dikhla Ja,Aksar,Himesh Reshammiya,Dance
+597,Baby Doll,Ragini MMS 2,"Anjjan, Kanika Kapoor, Meet Bros",Dance
+598,Laila O Laila,Qurbani,"Amit Kumar, Kanchan",Dance
+599,Jaane De,Qarib Qarib Singlle,Atif Aslam,Bollywood
+600,Dilli Wali Girlfriend,Yeh Jawaani Hai Deewani,"Arijit Singh, Sunidhi Chauhan",Dance
+601,Mar Jaayen,Loveshhuda,Atif Aslam,Sad
+602,I Love My India,Pardes,"Hariharan, Kavita Krishnamurthy",Dance
+603,O Sahiba O Sahiba,Dil Hai Tumhaara,"Kavita Krishnamurthy, Sonu Nigam",Sad
+604,O Saaki Saaki,Musafir,"Sukhwinder Singh, Sunidhi Chauhan",Dance
+605,Let’s Talk About Love,Baaghi,"Manj Musik, Neha Kakkar, Raftaar",Dance
+606,Satakli,Happy New Year,Sukhwinder Singh,Dance
+607,Kashmir Main Tu Kanyakumari,Chennai Express,"Arijit Singh, Neeti Mohan, Sunidhi Chauhan",Dance
+608,Kaala Doreya,Kaalakaandi,Neha Bhasin,Bollywood
+609,Raabta,Agent Vinod,"Arijit Singh, Hamsika, Joi",Romantic
+610,Vele,Student of the Year,"Shekhar Ravjiani, Vishal Dadlani",Dance
+611,440 Volt,Sultan,Mika Singh,Dance
+612,Aapka Kya Hoga,Housefull,"Arun Ingle, Mika Singh, Sajid Khan, Shankar Mahadevan, Sunidhi Chauhan",Dance
+613,Tere Ishq Mein Naachenge,Raja Hindustani,"Alisha Chinai, Kumar Sanu, Sapna Mukharji",Dance
+614,Kisi Ki Muskurahaton Se,Anari,Mukesh,Dance
+615,Bawara Mann,Jolly LLB 2,"Jubin Nautiyal, Neeti Mohan",Romantic
+616,Tere Bina (Guru),Guru,"A.R. Rahman, Chinmaye, Murtuza Khan, Qadir Khan",Dance
+617,Itna Sannata Kyun Hai,Golmaal Again,"Aditi Singh Sharma, Amit Mishra",Dance
+618,Desi Look,Ek Paheli Leela,Kanika Kapoor,Dance
+619,Chamakti Shaam Hai,Yaadein,"Alka Yagnik, Sonu Nigam",Dance
+620,Sarsariya,Mohenjo Daro,"Shashaa Tirupati, Shashwat Singh",Romantic
+621,Jag Soona Soona Lage,Om Shanti Om,,Sad
+622,Kandhon Se Milte Hain Kandhe,Lakshya,"Hariharan, Kunal Ganjawala, Roop Kumar Rathod, Shankar Mahadevan, Sonu Nigam, Vijay Prakash",Patriotic
+623,Deewangi Deewangi,Om Shanti Om,"Rahul Saxena, Shaan, Shreya Ghoshal, Sunidhi Chauhan, Udit Narayan",Dance
+624,Tareefan Remix,Veere Di Wedding,Badshah,Dance
+625,Samjhawan,Humpty Sharma Ki Dulhania,"Arijit Singh, Shreya Ghoshal",Sad
+626,Bam Lahiri,Shor in the City,Kailash Kher,Dance
+627,Chicken Kuk Doo Koo,Bajrangi Bhaijaan,"Mohit Chauhan, Palak Muchhal",Dance
+628,Dhating Naach,Phata Poster Nikhla Hero,"Nakash Aziz, Neha Kakkar",Dance
+629,Tu Itni Khoobsurat Hai,Barkhaa,Rahat Fateh Ali Khan,Sad
+630,O Priya Priya,Dil,"Anuradha Paudwal, Shabbir Kumar",Sad
+631,Manchala,Hasee Toh Phasee,"Nupur Pant, Shafqat Amanat Ali",Sad
+632,Lukka Chuppi,Rang De Basanti,"A.R. Rahman, Lata Mangeshkar",Sad
+633,Prem Leela,Prem Ratan Dhan Payo,"Aaman Trikha, Vineet Singh",Dance
+634,Khuda Jaane,Bachna Ae Haseeno,"K.K., Shilpa Rao",Romantic
+635,Premika,Dilwale,"Benny Dayal, Kanika Kapoor",Dance
+636,Tera Mujhse Hai Pehle Ka Naata Koi,Aa Gale Lag Jaa,"Kishore Kumar, Sushma Shrestha",Romantic
+637,Character Dheela,Ready,"Amrita Kak, Neeraj Shridhar",Dance
+638,Munni Badnam Hui,Dabangg,"Aishwarya, Mamta Sharma",Dance
+639,Saadda Haq,Rockstar,Mohit Chauhan,Dance
+640,Rehnuma,Rocky Handsome,"Inder Bawra, Shreya Ghoshal",RomanticSad
+641,Ilahi,Yeh Jawaani Hai Deewani,Arijit Singh,Dance
+642,Neendein Khul Jaati Hain,Hate Story 3,"Kanika Kapoor, Meet Bros, Mika Singh",Dance
+643,Phir Le Aya Dil,Barfi,Shafqat Amanat Ali,Sad
+644,Main Yahaan Hoon,Veer Zaara,Udit Narayan,Dance
+645,Soni Soni,Mohabbatein,"Ishaan, Jaspinder Narula, Manohar Shetty, Pritha Majumdar, Shweta Pandit, Sonali Bhatawdekar, Udbhav, Udit Narayan",Dance
+646,Rocket Saiyyan,Shubh Mangal Saavdhan,"Brijesh Shandilya, Ritu Pathak, Tanishk Baagchi",Dance
+647,Khol De Par,Hichki,Arijit Singh,Bollywood
+648,Humko Humise Chura Lo,Mohabbatein,"Lata Mangeshkar, Udit Narayan",Romantic
+649,Be Intehaan,Race 2,"Atif Aslam, Sunidhi Chauhan",Romantic
+650,Subhanallah,Yeh Jawaani Hai Deewani,"Shilpa Rao, Sreerama Chandra Mynampati",Romantic
+651,Dholna,Dil To Pagal Hai,"Lata Mangeshkar, Udit Narayan",Romantic
+652,Koi Ishaara,Force 2,Armaan Malik,RomanticSad
+653,Phir Bhi Dil Hai Hindustani,Phir Bhi Dil Hai Hindustani,Udit Narayan,Patriotic
+654,Kore Kore Sapne,Sooryavansham,"Anuradha Paudwal, Kumar Sanu",Dance
+655,Hale Dil,Murder 2,Harshit Saxena,Romantic
+656,Aaoge Jab Tum,Jab We Met,Rashid Khan,Sad
+657,Tinku Jiya,Yamla Pagla Deewana,"Javed Ali, Mamta Sharma",Dance
+658,Lakshya – Title Track,Lakshya,Shankar Mahadevan,Patriotic
+659,Pretty Woman,Kal Ho Naa Ho,"Ravi Khote, Shankar Mahadevan",Dance
+660,Silsila Ye Chaahat Ka,Devdas,Shreya Ghoshal,Romantic
+661,Helicopter,Ranchi Diaries,"Neha Kakkar, Tony Kakkar",Dance
+662,Kabhi Khushi Kabhie Gham,Kabhi Khushi Kabhie Gham,Lata Mangeshkar,Sad
+663,Chak Lein De,Chandni Chowk To China,Kailash Kher,Motivational
+664,Meri Aashiqui Ab Tum Hi Ho,Aashiqui 2,"Arijit Singh, Palak Muchhal",RomanticSad
+665,Tere Dware Pe Aai Baraat,Vivah,"Ravindra Jain, Sudesh Bhosle",Dance
+666,Badi Mushkil Hai,Anjaam,Abhijeet,Romantic
+667,Toh Dishoom,Dishoom,"Raftaar, Shahid Mallya",Dance
+668,Kudiye Ni Tere,Happy Phir Bhaag Jayegi,"Shivangi Bhayana, Udit Narayan",Romantic
+669,Hu Ba Hu,Padman,Amit Trivedi,Dance
+670,Kitna Pagal Dil Hai,Andaaz,Kumar Sanu,Romantic
+671,Sahiba Russ Gayiya,Firangi,Rahat Fateh Ali Khan,Sad
+672,Mehfooz,Tera Intezaar,Yasser Desai,RomanticSad
+673,Veerey Ki Wedding,Veerey Ki Wedding,Navraj Hans,Dance
+674,Ek Pal Ka Jeena,Kaho Naa.... Pyaar Hai,Lucky Ali,Dance
+675,Gori Tu Latth Maar,Toilet Ek Prem Katha,"Palak Muchhal, Sonu Nigam",Romantic
+676,Jal Rahin Hain,Bahubali - The Beginning,Kailash Kher,Bollywood
+677,Tum Jo Mile,Saansein,Armaan Malik,Romantic
+678,Saathiya Tune Kya Kiya,Love,"K. S. Chithra, S.P. Balasubrahmanyam",Dance
+679,Humne Pee Rakhi Hai,Sanam Re,"Ikka, Jaz Dhami, Neha Kakkar",Dance
+680,Bheegi Si Bhaagi Si,Raajneeti,Mohit Chauhan,Romantic
+681,Chura Liya Hai,Yaadon Ki Barat,Mohammed Rafi,Romantic
+682,Right Now Now,Housefull 2,"Sunidhi Chauhan, Suzanne D'Mello, Wajid",Dance
+683,Crazy Kiya Re,Dhoom 2,Sunidhi Chauhan,Dance
+684,Ziddi Dil,Mary Kom,Vishal Dadlani,Motivational
+685,Abhi Abhi,Jism 2,K.K.,RomanticSad
+686,Bahara,I Hate Luv Storys,"Shreya Ghoshal, Sona Mohapatra",Romantic
+687,Dekh Lena,Tum Bin 2,"Arijit Singh, Tulsi Kumar",Romantic
+688,Dheere Dheere Se Meri Zindagi Mein Aana,Aashiqui,"Anuradha Paudwal, Kumar Sanu",Bollywood
+689,Tu Zaroori,ZiD,"Sharib Sabri, Sunidhi Chauhan",Romantic
+690,Afeemi,Meri Pyaari Bindu,"Jigar Saraiya, Sanah Moidutty",Romantic
+691,Salaam E Ishq,Salaam-E-Ishq,"Kunal Ganjawala, Sadhana Sargam, Shankar, Shreya Ghosal, Sonu Nigam",Dance
+692,Naughty Billo,Phillauri,"Diljit Dosanjh, Nakash Aziz, Shilpi Paul",Dance
+693,Behka,High Jack,Vibha Saraf,Dance
+694,Pyar Ke Liye,Dil Kya Kare,Alka Yagnik,Romantic
+695,Dil Na Diya,Krrish,Kunal Ganjawala,Dance
+696,Sukoon Mila,Mary Kom,Arijit Singh,Romantic
+697,Dil To Pagal Hai,Dil To Pagal Hai,"Lata Mangeshkar, Udit Narayan",Romantic
+698,Do Anjaane Ajnabi,Vivah,"Shreya Ghoshal, Udit Narayan",Romantic
+699,Tujh Mein Rab Dikhta Hai,Rab Ne Bana Di Jodi,Roop Kumar Rathod,Romantic
+700,Palki Mein Hoke Sawar Chali Re,Khal Nayak,Alka Yagnik,Dance
+701,Andekhi Anjaani,Mujhse Dosti Karoge!,"Lata Mangeshkar, Udit Narayan",Romantic
+702,Dhinka Chika,Ready,"Amrita Kak, Mika Singh",Dance
+703,Main Agar,Tubelight,Atif Aslam,Romantic
+704,Kyon,Barfi,"Papon, Sunidhi Chauhan",Romantic
+705,Tera Mera Milna,Aap Kaa Surroor,"Himesh Reshammiya, Shreya Ghoshal",Sad
+706,Daayre,Dilwale,Arijit Singh,Romantic
+707,Sahiba,Phillauri,"Pawni Pandey, Romy",Sad
+708,Saajan Saajan,Dil Ka Rishta,"Alka Yagnik, Kumar Sanu, Udit Narayan",DanceRomantic
+709,Aisa Des Hai Mera,Veer Zaara,"Gurdas Maan, Lata Mangeshkar, Preetha Mazumdar, Udit Narayan",Patriotic
+710,Lost Without You,Half Girlfriend,"Ami Mishra, Anushka Shahaney",Sad
+711,Dhal Jaun Main,Rustom,"Aakanksha Sharma, Jubin Nautiyal",RomanticSad
+712,Badass Babuaa,Bareilly Ki Barfi,"Abhishek Nailwal, Neha Bhasin, Sameer Uddin",Dance
+713,Aaj Kehna Zaroori Hai,Andaaz,"Alka Yagnik, Udit Narayan",Romantic
+714,Ye Toh Sach Hai Ke Bhagwan,Hum Saath-Saath Hain,Hariharan,Dance
+715,Dastaan-e-Om Shanti Om,Om Shanti Om,Shaan,Dance
+716,Saanson Ke,Raees,K.K.,Sad
+717,O Jiji,Vivah,"Pamela Jain, Shreya Ghoshal",Dance
+718,Hug Me,Beiimaan Love,"Kanika Kapoor, Raghav Sachar",Dance
+719,Halkat Jawani,Heroine,Sunidhi Chauhan,Dance
+720,Ek Dil Hai,Ek Rishtaa,"Alka Yagnik, Kumar Sanu",Romantic
+721,Black Jama Hai,Raid,Sukhwinder Singh,Bollywood
+722,Confused Lover,Teri Bhabhi Hai Pagle,"Aaniya, Mika Singh",Dance
+723,Tumse Milne Ki Tamanna Hai,Saajan,S.P. Balasubrahmanyam,Dance
+724,Afsana,Dil Diya Hai,"Himesh Reshammiya, Tulsi Kumar",Dance
+725,Naina,Khoobsurat,"Armaan Malik, Sona Mohapatra",RomanticSad
+726,Naina,Khoobsurat,"Armaan Malik, Sona Mohapatra",Sad
+727,Dil Mein Dard Sa Jaga Hai,Kranti,"Alka Yagnik, Udit Narayan",Dance
+728,Anarkali Disco Chali,Housefull 2,"Mamta Sharma, Sukhwinder Singh",Dance
+729,Jab Dil Miley,Yaadein,"Asha Bhosle, Udit Narayan",Dance
+730,Humko Humise Chura Lo,Mohabbatein,"Lata Mangeshkar, Udit Narayan",Romantic
+731,Make Some Noise For The Desi Boyz,Desi Boyz,"Bob, K.K.",Dance
+732,Aga Bhai,Aiyyaa,Monali Thakur,Dance
+733,Sehmi Hai Dhadkan,Daas Dev,Atif Aslam,Sad
+734,Jawaani Le Doobi,Kyaa Kool Hain Hum 3,"Kanika Kapoor, Uvie",Dance
+735,Humko Tumse Pyar Hai,Ishq,Abhijeet,Dance
+736,Sadda Move,Raabta,"Diljit Dosanjh, Pardeep Singh Sran",Dance
+737,Soniyo,Raaz,"Neeraj Shridhar, Raju Singh, Shreya Ghoshal, Sonu Nigam",Romantic
+738,Kaun Nachdi,Sonu Ke Titu Ki Sweety,"Guru Randhawa, Neeti Mohan",Dance
+739,Dhoom Machale,Dhoom,Sunidhi Chauhan,DanceRomantic
+740,Door Na Ja,Mitron,Sonu Nigam,Sad
+741,Ishq Shava,Jab Tak Hai Jaan,"Raghav Mathur, Shilpa Rao",Dance
+742,Boss Title Track,Boss,"Anjjan, Meet Bros, Yo Yo Honey Singh",Dance
+743,Tum Ko Dekha To Yeh Khayal Aya,Saath Saath,"Chitra Singh, Jagjit Singh",Romantic
+744,Jaane Nahi Denge Tujhe,3 Idiots,Sonu Nigam,Sad
+745,Tadap Tadap,Hum Dil De Chuke Sanam,"Dominique, K.K.",Sad
+746,Senti Wali Mental,Shaandaar,"Amit Trivedi, Arijit Singh, Neeti Mohan, Swanand Kirkire",Dance
+747,Sapna Jahan,Brothers,"Neeti Mohan, Sonu Nigam",Sad
+748,Urvashi Urvashi,Hum Se Hai Muqabala,"A.R. Rahman, Noel James, Shankar Mahadevan",Dance
+749,Tere Bina,Haseena Parkar,"Arijit Singh, Priya Saraiya",Romantic
+750,Hoor,Hindi Medium,Atif Aslam,Sad
+751,Chhoti Chhoti Raatein,Tum Bin,"Anuradha Paudwal, Sonu Nigam",DanceRomantic
+752,Sanson Ki Zarurat Hai Jaise,Aashiqui,Kumar Sanu,Romantic
+753,Zoobi Doobi,3 Idiots,"Shreya Ghoshal, Sonu Nigam",DanceRomantic
+754,Mannat,Daawat e Ishq,"Keerthi Sagathia, Shreya Ghoshal, Sonu Nigam",Dance
+755,Intezaar,Tera Intezaar,Shreya Ghoshal,Sad
+756,Agar Tu Hota,Baaghi,Ankit Tiwari,Sad
+757,Hai Dil,Dil Ka Rishta,"Alka Yagnik, Kumar Sanu",Romantic
+758,Pardesiya,Soorma,"Ehsaan Noorani, Hemant Brijwasi, Sahil Akhtar, Shankar Mahadevan, Shehnaz Akhtar",Sad
+759,Ishtehaar,Welcome To New York,"Dhvani Bhanushali, Rahat Fateh Ali Khan",Sad
+760,Twist,Love Aj Kal,Neeraj Shridhar,Dance
+761,You’re My Life,Partner,"Earl, Shaan, Shweta Pandit, Suzanne D'Mello",DanceRomantic
+762,Mat Maari,R... Rajkumar,"Kunal Ganjawala, Sunidhi Chauhan",Dance
+763,Mujhse Juda Hokar,Hum Aapke Hain Koun,"Lata Mangeshkar, S.P. Balasubrahmanyam",Sad
+764,Second Hand Jawaani,Cocktail,"Miss Pooja, Nakkash Aziz, Neha Kakkar",Dance
+765,Naina Re,Dangerous Ishq,"Himesh Reshammiya, Rahat Fateh Ali Khan, Shreya Ghoshal",Sad
+766,Tere Naina,My Name is Khan,"Shafqat Amanat Ali, Shankar Ehsaan Loy",Romantic
+767,Haathon Mein Thhe Haath,Mubarakan,"Aditi Singh Sharma, Altamash Faridi, Arpita Mukherjee, Papon",Sad
+768,Gajanana,Bajirao Mastani,"Shreyas Puranik, Sukhwinder Singh",Devotional
+769,Tum Mile,Tum Mile,Neeraj Shridhar,Romantic
+770,Meri Khamoshi Hai,Pari,Ishan Mitra,Sad
+771,Oh My Darling,Mujhse Dosti Karoge!,"Alisha Chinai, Sonu Nigam",Dance
+772,Nainon Men Sapna,Himmatwala,"Kishore Kumar, Lata Mangeshkar",Dance
+773,Tu Jo Hain,Mr. X,Ankit Tiwari,RomanticSad
+774,Dheere Dheere Bol Koi Sun Na Le,Gora Aur Kala,"Lata Mangeshkar, Mukesh",Romantic
+775,Mohenjo Daro,Mohenjo Daro,"A.R. Rahman, Arijit Singh, Bela Shende, Sanah Moidutty",Dance
+776,Jai Jai Shiv Shankar,Aap Ki Kasam,"Kishore Kumar, Lata Mangeshkar",Dance
+777,Ladki Kyon Na Jane Kyon,Hum Tum,"Alka Yagnik, Shaan",Dance
+778,Drama Queen,Hasee Toh Phasee,"Shreya Ghoshal, Vishal Dadlani",Dance
+779,Khaike Paan Banaras Wala,Don,Kishore Kumar,Dance
+780,Tu Hi Haqeeqat,Tum Mile,"Irshan Ashraf, Javed Ali, Shadaab Faridi",Romantic
+781,Tune Maari Entriyaan (Bangla Version),Gunday,"Bappi Lahiri, Monali Thakur",Dance
+782,Gudgudi,Secret Superstar,Sunidhi Chauhan,Bollywood
+783,Yeh Kaisi Jagah,Hamari Adhuri Kahani,"Deepali Sathe, Zubeen Garg",Sad
+784,Bass Gira De Raja,Veere Di Wedding,Shashwat Sachdev,Bollywood
+785,Wada Karle Sajna Tere Bina,Haath Ki Safai,"Lata Mangeshkar, Mohammed Rafi",Romantic
+786,Jhalla Wallah,Ishaqzaade,Shreya Ghoshal,Dance
+787,Hamesha Tumko Chaha,Devdas,"Kavita Krishnamurthy, Udit Narayan",Sad
+788,Mujhko Barsaat Bana Lo,Junooniyat,Armaan Malik,Romantic
+789,Aaya Tere Dar Par,Veer Zaara,"Ahmed Hussain, Javed Hussain, Mohd Vakil, Mohd. Hussain",Devotional
+790,Ho Nahi Sakta,Diljale,Udit Narayan,Romantic
+791,Saale Sapne,Padman,Mohit Chauhan,Bollywood
+792,Kaun Tujhe,M.S. Dhoni-The Untold Story,Armaan Malik,Romantic
+793,Tere Liye,Prince,"Atif Aslam, Shreya Ghoshal",Dance
+794,Tu Isaq Mera,Hate Story 3,"Meet Bros, Neha Kakkar",RomanticSensual
+795,Shaam Shaandaar,Shaandaar,Amit Trivedi,Dance
+796,Banjaara,Ek Tha Tiger,Sukhwinder Singh,DanceRomantic
+797,Akkha India Janta Hai,Jaan Tere Naam,Kumar Sanu,Romantic
+798,Tharki Chokro,PK,Swaroop Khan,Dance
+799,Phir Se,Phir Se,"Nikhil Dsouza, Shreya Ghoshal",Bollywood
+800,Gale Lag Ja,De Dana Dan,"Banjyotsna, Javed Ali",Dance
+801,Aadat (Juda Hoke Bhi),Kalyug,Atif Aslam,Sad
+802,Jane Kaise Kab Kahan Iqrar Ho Gaya,Shakti,"Kishore Kumar, Lata Mangeshkar",Romantic
+803,Agar Tum Mil Jao,Zeher,Shreya Ghoshal,Romantic
+804,Kaara Fankaara,Ok Jaanu,"A.R. Rahman, Aaryan Dinesh Kanagaratnam, Ashima Mahajan, Hard Kaur, Kaly, Paroma Dasgupta, Shashaa Tirupati",Dance
+805,Chokra Jawaan,Ishaqzaade,"Sunidhi Chauhan, Vishal Dadlani",Dance
+806,Didi Tera Devar Deewana,Hum Aapke Hain Koun,"Lata Mangeshkar, S.P. Balasubrahmanyam",Dance
+807,Saiyan Re,Nirdosh,"Mohammed Irfan, Palak Muchhal",Romantic
+808,Pal Pal Dil Ke Paas,Blackmail,Kishore Kumar,Romantic
+809,Rail Gaddi,Tutak Tutak Tutiya,"Navraj Hans, Swati Sharrma",Dance
+810,Ek Din Bik Jayega Mati Ke Mol,Dharam Karam,Mukesh,Dance
+811,Main Koi Aisa Geet,Yes Boss,Abhijeet,Dance
+812,Yeh Ishq Hai,Jab We Met,Shreya Ghoshal,Dance
+813,Alizeh,Ae Dil Hai Mushkil,"Alizeh Ash King, Arijit Singh, Shashwat Singh",Romantic
+814,Kaho Na Kaho,Murder,Amir Jamal,RomanticSensual
+815,Imli Ka Boota,Saudagar,"Mohammad Aziz, Sudesh Bhonsle",Bollywood
+816,Hey Shona,Tara Rum Pum,"Shaan, Sunidhi Chauhan",DanceRomantic
+817,Chalte Chalte,Mohabbatein,"Manohar Shetty, Preetha Mazumdar, Sonali Bhatawdekar, Udbhav",Dance
+818,Iktara,Wake Up Sid,"Amit Trivedi, Amitabh Bhattacharya, Kavita Seth",Romantic
+819,Aap Ki Nazron Ne Samjha,Anpadh,Lata Mangeshkar,Romantic
+820,Tu Chahiye,Bajrangi Bhaijaan,Atif Aslam,Romantic
+821,Ole Ole,Ye Dillagi,Abhijeet,Dance
+822,Tutak Tutak Tutiya,Tutak Tutak Tutiya,"Kanika Kapoor, Malkit Singh, Sonu Sood",Dance
+823,Meri Duniya Tu Hi Re,Heyy Babyy,"Shaan, Shankar Mahadevan, Sonu Nigam",Dance
+824,Mujhko Yaad Sataye Teri,Phir Hera Pheri,Himesh Reshammiya,Dance
+825,Jane Kahan Gaye Woh Din,Mera Naam Joker,Mukesh,Sad
+826,Nonsense Ki Night,Happy New Year,Mika Singh,Dance
+827,Daaru Desi,Cocktail,"Benny Dayal, Shalmali Kholgade",Dance
+828,Fugly Fugly Kya Hai,Fugly,Yo Yo Honey Singh,Dance
+829,Buddhu Sa Mann,Kapoor & Sons,"Amaal Mallik, Armaan Malik",Dance
+830,Jiska Mujhe Tha Intezar,Don,"Kishore Kumar, Lata Mangeshkar",Romantic
+831,Raat Ka Nasha,Asoka,K. S. Chithra,Dance
+832,Zara Zara Touch Me,Race,Monali Thakur,Dance
+833,Wada Karo Nahi Chodoge,Aa Gale Lag Jaa,"Kishore Kumar, Lata Mangeshkar",Romantic
+834,Sajde,Kill Dil,"Arijit Singh, Gulzar, Nihira Joshi Deshpande",Romantic
+835,Khair Mangda,A Flying Jatt,Atif Aslam,Sad
+836,Tere Naal Ishqa,Shivaay,Kailash Kher,Sad
+837,Na Na Na Re,Mrityudaata,"Daler Mehndi, Sudesh Bhonsle",Dance
+838,Tum Aa Gaye Ho Noor Aa Gaya Hai,Aandhi,"Kishore Kumar, Lata Mangeshkar",Romantic
+839,Mujeh Naulakha Mangade,Sharaabi,"Bappi Lahiri, Kishore Kumar",Dance
+840,Ainvayi Ainvayi,Band Baaja Baaraat,"Salim Merchant, Sunidhi Chauhan",Dance
+841,Awaaz Deke,Professor,"Lata Mangeshkar, Mohammed Rafi",Romantic
+842,Tum Tak,Raanjhanaa,"A.R. Rahman, A.V. Pooja, Javed Ali, Kirti Sagathia",DanceRomantic
+843,Chitta Ve,Udta Punjab,"Babu Haabi, Bhanu Pratap, Shahid Mallya",Dance
+844,Get Up Jawani,International Villager,"Badshah, Yo Yo Honey Singh",Dance
+845,Ji Huzoori,Ki & Ka,"Deepali, Mithoon",Romantic
+846,Dhingana,Raees,Mikha Singh,Dance
+847,Sapna,Parmanu The Story of Pokhran,Arijit Singh,Sad
+848,Bandeyaa,Jazbaa,Jubin Nautiyal,Sad
+849,Maula Mere Lele Meri Jaan,Chak De India,"Krishna Beura, Salim Merchant",Devotional
+850,Rang De Basanti,Rang De Basanti,"Daler Mehndi, K. S. Chithra",Patriotic
+851,Kundali,Manmarziyaan,"Anita Gandharva, Meenal Jain, Meghna Mishra, Rani Kaur, Vaishnavi Mishra, Yashika Sikka, Yashita Sharma",Dance
+852,Shuru Kar,Aiyaary,"Amit Mishra, Neha Bhasin, Rochak Kohli",Dance
+853,Je T’aime,Befikre,"Sunidhi Chauhan, Vishal Dadlani",Bollywood
+854,Tooh,Gori Tere Pyaar Mein,"Mamta Sharma, Mika Singh, Shekhar, Vishal",Dance
+855,Main Tera Dhadkan Teri,Ajab Prem Ki Ghazab Kahani,"Hard Kaur, K.K., Sunidhi Chauhan",Dance
+856,Le Gayi,Dil Toh Pagal Hai,Asha Bhosle,Dance
+857,Le Gayi,Dil To Pagal Hai,Asha Bhosle,Dance
+858,Aankhein Khuli,Mohabbatein,"Ishaan, Lata Mangeshkar, Manohar Shetty, Shweta Pandit, Sonali Bhatawdekar, Udbhav, Udit Narayan",Dance
+859,Rang Barse,Silsila,Amitabh Bachchan,Dance
+860,Gawah Hai Chand Tare,Damini,"Alka Yagnik, Kumar Sanu",Romantic
+861,Aisa Kyun Maa,Neerja,Sunidhi Chauhan,Sad
+862,Tu Hi Re,,Hariharan,Romantic
+863,Mera Mann Kehne Laga,Nautanki Saala,Falak Shabir,Dance
+864,Shut Up & Bounce,Dostana,"Sunidhi Chauhan, Vishal Dadlani",Romantic
+865,One Two Three Four,Chennai Express,"Hamsika Iyer, Vishal Dadlani",Dance
+866,Haseeno Ko Aate Hain,Lahoo Ke Do Rang,"Alka Yagnik, Udit Narayan",Dance
+867,Kasam Khake Kaho,Dil Hai Tumhaara,"Alka Yagnik, Kumar Sanu",Romantic
+868,Dil Ka Rishta,Dil Ka Rishta,"Alka Yagnik, Kumar Sanu, Udit Narayan",Romantic
+869,Sajdaa,My Name is Khan,"Rahat Fateh Ali Khan, Richa Sharma, Shankar Mahadevan",Romantic
+870,Mujhe Tumse Mohabbat Hai,Tumsa Nahin Dekha,"Shaan, Shreya Ghoshal",DanceRomantic
+871,Tujhe Dekha To,Dilwale Dulhania Le Jayenge,"Kumar Sanu, Lata Mangeshkar",Romantic
+872,Watan Wallon Watan Na,Indian,"Alka Yagnik, Shaan",Patriotic
+873,Zara Si Dosti,Happy Bhaag Jayegi,Arijit Singh,Bollywood
+874,Pani Da Rang,Vicky Donor,Ayushman Khurana,Romantic
+875,De De Jagah,Parmanu The Story of Pokhran,Yasser Desai,Bollywood
+876,Tum Itna Jo Muskura Rahe Ho,Arth,Jagjit Singh,Romantic
+877,Ham The Jinke Sahare,Safar,Lata Mangeshkar,Sad
+878,Titli,Chennai Express,"Chinmayi Sripaada, Gopi Sunder",Romantic
+879,Laung Da Lashkara,Patiala House,"Hard Kaur, Mahalakshmi Iyer",Dance
+880,Maa Ka Phone,Khoobsurat,Priya Panchal,Dance
+881,Zindagi Ka Safar,Safar,Kishore Kumar,Sad
+882,O Saathiya,Sweetiee Weds NRI,"Arko, Armaan Malik, Prakriti Kakkar",Romantic
+883,Kasam Ki Kasam,Main Prem Ki Diwani Hoon,"K. S. Chithra, Shaan",RomanticSad
+884,Gun Gun Guna,Agneepath,"Sunidhi Chauhan, Udit Narayan",Dance
+885,Jeeta Hoon Jiske Liye,Dilwale,"Alka Yagnik, Kumar Sanu",Romantic
+886,Aye Khuda (Duet),Rocky Handsome,"Rahat Fateh Ali Khan, Shreya Ghoshal",Sad
+887,Dreamum Wakeupum,Aiyyaa,Soumya Rai,Dance
+888,Balma Tum Balma Ho Mere Khali,Nagina,Kavita Krishnamurthy,Dance
+889,Ishq Bina,Taal,"A.R. Rahman, Anuradha Sriram, Sonu Nigam, Sujatha Mohan",Romantic
+890,Ab Tere Bin,Aashiqui,Kumar Sanu,Sad
+891,Ankhiyaan,Do Lafzon Ki Kahani,Kanika Kapoor,Sad
+892,Teri Yaad,Bewafaa,Ghulam Ali,Sad
+893,Jalwa,Wanted,"Earl, Wajid",Dance
+894,Judaai,I Love New Year,Falak Shabir,Sad
+895,Aayat,Bajirao Mastani,"Altamash Faridi, Arijit Singh, Farhan Sabri, Mujtaba Aziz Naza, Shadab",Sad
+896,Dil Dooba,Khakee,"Shreya Ghoshal, Sonu Nigam",Dance
+897,Pyaar Deewana Hota Hai,Kati Patang,Kishore Kumar,Romantic
+898,Nazrein Mili Dil Dhadka,Raja,"Alka Yagnik, Udit Narayan",Dance
+899,Po Po,Son of Sardaar,"Aaman Trikha, Himesh Reshammiya, Vikas Bhalla",Dance
+900,Son Of Sardaar,Son of Sardaar,"Aaman Trikha, Himesh Reshammiya",Dance
+901,Roobaroo,Rang De Basanti,"A.R. Rahman, Naresh Iyer",Dance
+902,Khush Rahe Tu Sada,Khilona,Mohammed Rafi,Sad
+903,Chaar Kadam,PK,"Shaan, Shreya Ghoshal",Romantic
+904,Are Re Are,Dil To Pagal Hai,"Lata Mangeshkar, Udit Narayan",Dance
+905,Shiddat,Sweetiee Weds NRI,Armaan Malik,Sad
+906,Dil Kehta Hai,Akele Hum Akele Tum,"Alka Yagnik, Kumar Sanu",Sad
+907,Dilnashin Dilnashin,Aashiq Banaya Aapne,K.K.,Dance
+908,Sawaar Loon,Lootera,Monali Thakur,Dance
+909,Zehnaseeb,Hasee Toh Phasee,"Chinmayi Sripaada, Shekhar Ravjiani",Dance
+910,"Joote Do, Paise Lo",Hum Apke Hain Koun,"Lata Mangeshkar, S.P. Balasubrahmanyam",Dance
+911,Dekha Ek Khwab,Silsila,"Kishore Kumar, Lata Mangeshkar",Romantic
+912,Maa,Taare Zameen Par,Shankar Mahadevan,Sad
+913,Jogi Mahi,Bachna Ae Haseeno,"Himani Kapoor, Shekhar Ravjiani, Sukhwinder Singh",Dance
+914,Mat Ja Re,Tanu Weds Manu,Ankit Tiwari,Dance
+915,Ooh La La,The Dirty Picture,"Bappi Lahiri, Shreya Ghoshal",Dance
+916,Bhangda Pa,A Flying Jatt,"Asees Kaur, Divya Kumar, Vishal Dadlani",Dance
+917,Jhoka Hawa Ka Aaj Bhi,Hum Dil De Chuke Sanam,"Hariharan, Kavita Krishnamurthy",Sad
+918,Dhol Baaje,Ek Paheli Leela,"Anjjan, Meet Bros, Monali Thakur",Dance
+919,Aaj Hai Sagaai,Pyaar To Hona Hi Tha,"Abhijeet, Alka Yagnik",Dance
+920,Galat Baat Hai,Main Tera Hero,"Javed Ali, Neeti Mohan",DanceRomantic
+921,Yeh Ladka Hai Deewana,Kuch Kuch Hota Hai,"Alka Yagnik, Udit Narayan",Dance
+922,Des Rangila,Fanaa,Mahalaxmi Iyer,Patriotic
+923,Roshni Se,Asoka,"Abhijeet, Alka Yagnik",Romantic
+924,I Love You,Bodyguard,"Ash King, Clinton Cerejo",Romantic
+925,Ishq Wala Love,Student of the Year,"Neeti Mohan, Salim Merchant",Bollywood
+926,O Janiya,Force 2,Neha Kakkar,Dance
+927,Musafir,Shab,K.K.,Bollywood
+928,Mehndi Laga Ke Rakhna,Dilwale Dulhania Le Jayenge,"Lata Mangeshkar, Udit Narayan",Dance
+929,Gori Gori,Main Hoon Na,"Anu Malik, K.K., Shreya Ghoshal, Sunidhi Chauhan",Dance
+930,Gori Gori Gori Gori,Main Hoon Na,"Anu Malik, Shreya Ghosal, Sunidhi Chauhan",Romantic
+931,Bakhuda Tumhi Ho,Kismat Konnection,"Alka Yagnik, Atif Aslam",Romantic
+932,Ishq Hai Ishq Hai,Ishq,Jayshree Shivram,Sad
+933,Mere Nishaan,Oh My God,"Anjjan, Kailash Kher, Meet Bros",Bollywood
+934,Prem Mein Tohre,Begum Jaan,Asha Bhosle,Romantic
+935,Halo Re,Prem Ratan Dhan Payo,Aaman Trikha,Dance
+936,Jogiya,Deewane,"Anuradha Paudwal, Sukhwinder Singh",Sad
+937,Aila Re Aila,Khatta Meetha,Daler Mehndi,Dance
+938,Hum Saath-Saath Hain,Hum Saath-Saath Hain,"Alka Yagnik, Anuradha Paudwal, Hariharan, Kavita Krishnamurthy, Kumar Sanu, Udit Narayan",Dance
+939,Enu Naam Che Raees,Raees,Tarannum Mallik,Dance
+940,Woh Pehli Baar,Pyaar Mein Kabhi Kabhi,Shaan,Romantic
+941,Piya Aaye Na,Aashiqui 2,"K.K., Tulsi Kumar",Sad
+942,Aaj Hai Sagai,Pyar Toh Hona Hi Tha,"Abhijeet, Alka Yagnik",Dance
+943,Rajj Rajj Ke,Akira,"Sonakshi Sinha, Vishal Dadlani",Motivational
+944,Daawat e Ishq,Daawat e Ishq,"Javed Ali, Sunidhi Chauhan",Dance
+945,Tera Mera Pyar Amar,Asli Naqli,Lata Mangeshkar,Romantic
+946,Chookar Mere Man Ko,Yaarana,Kishore Kumar,Romantic
+947,Chookar Mere Man Ko,Yaarana,Kishore Kumar,Romantic
+948,Love Is A Waste Of Time,PK,"Shreya Ghoshal, Sonu Nigam",Dance
+949,Zindagi To Bewafa Hai,Muqaddar Ka Sikandar,Mohammed Rafi,Sad
+950,Jo Tumko Ho Pasand Wohi Baat Karenge,Safar,Mukesh,Romantic
+951,Bebo,Kambakkht Ishq,Alisha Chinai,Dance
+952,Tum Bin,Tum Bin,K. S. Chithra,Romantic
+953,Chot Lage Tujhko – Sad,Raja,"Alka Yagnik, Udit Narayan",Sad
+954,Tujhe Sochta Hoon,Jannat 2,K.K.,RomanticSensual
+955,Apni To Jaise Taise,Laawaris,Kishore Kumar,Dance
+956,Mast Kalandar,Heyy Baby,"Master Saleem, Rehan Khan, Sajid Khan",Dance
+957,Dhoom 3 Mashup,Dhoom 3,,Dance
+958,It’s Magic,Koi Mil Gaya,Taz,Dance
+959,It’s Magic,Koi Mil Gaya,Taz,Dance
+960,Nikamma,3 Dev,Rahat Fateh Ali Khan,Bollywood
+961,Nikamma,3 Dev,Rahat Fateh Ali Khan,Bollywood
+962,Jigar Da Tukda,Ladies Vs Ricky Bahl,"Salim Merchant, Shraddha Pandit",Dance
+963,It’s the Time to Disco,Kal Ho Naa Ho,"K.K., Loy Mendonsa, Shaan, Vasundhara Das",Dance
+964,Maar Daala,Devdas,Kavita Krishnamurthy,Dance
+965,Tumhe Apna Banane Ka,Hate Story 3,"Armaan Malik, Neeti Mohan",Romantic
+966,Ho Gaya Hai Tujhko To Pyar Sajna,Dilwale Dulhania Le Jayenge,"Lata Mangeshkar, Udit Narayan",Romantic
+967,Suno Aisha,Aisha,"Amit Trivedi, Ash King, Nakash Aziz",Dance
+968,Jee Ve Sohaneya,Jab Harry Met Sejal,Nooran Sisters,Sad
+969,Hai Junoon,New York,K.K.,Dance
+970,Kuch To Hai,Do Lafzon Ki Kahani,Armaan Malik,Sad
+971,Ban Dance Mein Kutta,3 Dev,"Divya Kumar, Shivi, Uvie",Dance
+972,Bakheda,Toilet Ek Prem Katha,"Sukhwinder Singh, Sunidhi Chauhan",Bollywood
+973,Bhooli Bisri Ek Kahani,Nagina,Anuradha Paudwal,Sad
+974,Milan Abhi Aadha Adhura,Vivah,"Shreya Ghoshal, Udit Narayan",Romantic
+975,Ishqyaun Dhishyaun,Goliyon Ki Rasleela Ram-leela,Aditya Narayan,Romantic
+976,Saat Ajube Iss Duniya Mein,Dharam Veer,"Mohammed Rafi, Mukesh",Bollywood
+977,Maahi Ve,Kaante,"Richa Sharma, Sukhwinder Singh",Dance
+978,Rangdaari,Daas Dev,"Arko, Navraj Hans",Sad
+979,Rangdaari,Daas Dev,"Arko, Navraj Hans",Sad
+980,Ye Tune Kya Kiya,Once Upon A Time In Mumbaai Dobara,Javed Bashir,Romantic
+981,Chak De India,Chak De India,"Marianne D'Cruz, Salim Merchant, Sukhwinder Singh",Patriotic
+982,Saanwali Si Ek Ladki,Mujhse Dosti Karoge!,Udit Narayan,Romantic
+983,Dil Se Nikal Kar Dil Ko Gayee Hain,Nigahen,"Anuradha Paudwal, Suresh Wadkar",Dance
+984,Dhak Dhak Karne Laga,Beta,"Anuradha Paudwal, Udit Narayan",Romantic
+985,Kabhi Jo Badal Barse,Jackpot,Arijit Singh,Romantic
+986,Bhar Do Jholi Meri,Bajrangi Bhaijaan,Adnan Sami,Devotional
+987,Give Me Some Sunshine,3 Idiots,"Sharman Joshi, Suraj Jagan",Sad
+988,Dil Leke,Wanted,"Shaan, Shreya Ghoshal",DanceRomantic
+989,Yeh Mera Diwanapan Hai,Yahudi,Mukesh,Sad
+990,O Jaana,Tere Naam,"Alka Yagnik, K.K., Kamaal khan, Udit Narayan",DanceRomantic
+991,Love Mashup 2016 (Kiran Kamath),Single,Multiple,Romantic
+992,Bhoot Aaya,Nanu Ki Jaanu,Mika Singh,Bollywood
+993,Abhagi Piya Ki,Tera Intezaar,"Ahmed Hussain, Kanika Kapoor, Mohammed. Hussain, Raja Hasan",Sad
+994,Rang Laal,Force 2,"Aditi Singh Sharma, Dev Negi, John Abraham",Dance
+995,Bas Tu Hai,3 Storeys,"Arijit Singh, Jonita Gandhi",RomanticSad
+996,Tanhaiyaan,Aksar 2,Amit Mishra,Sad
+997,Jaane Kyun,Dostana,Vishal Dadlani,Dance
+998,Dagabaaz Re,Dabangg 2,"Rahat Fateh Ali Khan, Shreya Ghoshal",Romantic
+999,Jane Kyun,Dil Chahta Hai,"Alka Yagnik, Udit Narayan",Romantic
+1000,Khuli Falak Mein,Professor,Mohammed Rafi,Romantic
+1001,Sajna Mein Teri Tu Mera,Beta,"Anuradha Paudwal, Vipin Sachdeva",Romantic
+1002,Zindagi Do Pal Ki,Kites,K.K.,Romantic
+1003,Tauba Yeh Matwali Chaal,Pathar Ke Sanam,Mukesh,Dance
+1004,Main Hoon Hero Tera,Hero,Armaan Malik,Romantic
+1005,Daata Tu,Tiger Zinda Hai,Shreya Ghoshal,Motivational
+1006,Ye Dosti Hum Nahi Todenge,Sholay,"Kishore Kumar, Manna Dey",Bollywood
+1007,Saathiya Nahi Jaana,Aya Sawan Jhoom Ke,"Lata Mangeshkar, Mohammed Rafi",RomanticSad
+1008,Ishq Hua,Aaja Nachle,"Shreya Ghoshal, Sonu Nigam",Romantic
+1009,Bloody Hell,Rangoon,Sunidhi Chauhan,Dance
+1010,Dil Se Re,Dil Se,"A.R. Rahman, Anupama Deshpande, Anuradha Sriram",Romantic
+1011,Phatte Tak Nachna,Dolly Ki Doli,Sunidhi Chauhan,Dance
+1012,Meer-E-Kaarwan,Lucknow Central,"Amit Mishra, Neeti Mohan",Sad
+1013,Ratta Maar,Student of the Year,"Shefali Alvares, Vishal Dadlani",Bollywood
+1014,Raat Ka Nasha,Ashoka,K. S. Chithra,Dance
+1015,Maa Da Laadla,Dostana,Master Saleem,Dance
+1016,O Re Piya,Aaja Nachle,Rahat Fateh Ali Khan,Sad
+1017,Jhanjariya Meri Chanak,Krishna,Alka Yagnik,Dance
+1018,Pareshaan,Ishaqzaade,Shalmali Kholgade,Romantic
+1019,Paisa Paisa,De Dana Dan,"Manak-E, RDB, Selina",Dance
+1020,Mere Haath Mein,Fanaa,"Sonu Nigam, Sunidhi Chauhan",Romantic
+1021,Do Lafzon Ki Hai Dil Ki Kahani,The Great Gambler,"Amitabh Bachchan, Asha Bhosle, Sharad Kumar",Dance
+1022,Ishq Sufiyana (Male),The Dirty Picture,Kamal Khan,Romantic
+1023,Hum Hain Insaaf,Bhavesh Joshi Superhero,"Babu Haabi, Naezy",Bollywood
+1024,Meri Maa,Yaariyan,K.K.,Sad
+1025,Zindagi Tujhse Kya Karen Shikvey,Zindagi Yeh Zindagi,Amit Mishra,Sad
+1026,Dance Pe Chance,Rab Ne Bana Di Jodi,"Labh Janjua, Sunidhi Chauhan",Dance
+1027,Tu Hi Hai,Jagga Jasoos,Armaan Malik,Romantic
+1028,Gehra Ishq,Neerja,Shekhar Ravjiani,Romantic
+1029,Love Me Love Me,Wanted,"Amrita Kak, Wajid",Dance
+1030,Saajna,I Me Aur Main,Falak Shabir,Romantic
+1031,Tere Ho Ke Rahenge,Raja Natwarlal,Arijit Singh,Romantic
+1032,Sai Baba Bolo (Album Version),Shirdi Ke Sai Baba,"Anup Jalota, Anuradha Paudwal, Jani Baboo, Mohammed Rafi",Devotional
+1033,Khudaya Ve Ishq Hai Kaisa,Luck,Salim Merchant,Sad
+1034,Pardesi Pardesi,Raja Hindustani,"Bela, Suresh Wadkar",Sad
+1035,Gulabi,Shuddh Desi Romance,"Jigar Saraiya, Priya Saraiya",Dance
+1036,Dus Bahane,Dus,"K.K., Shaan",Dance
+1037,Main Agar Kahoon,Om Shanti Om,"Shreya Ghoshal, Sonu Nigam",Romantic
+1038,Main Aisa Kyun Hoon,Lakshya,Shaan,Dance
+1039,Main Aisa Kyon Hoon,Lakshay,Shaan,Dance
+1040,Mein Chali Mein Chali,Professor,"Lata Mangeshkar, Mohammed Rafi",Romantic
+1041,Sharabi,Happy New Year,"Nindy Kaur, Shekhar Ravjiani, Vishal Dadlani",Dance
+1042,Labon Ka Karobaar,Befikre,Papon,Romantic
+1043,Main Kya Karoon,Barfi,Nikhil Paul George,Dance
+1044,Sawan Ka Mahina,Milan,"Lata Mangeshkar, Mukesh",Romantic
+1045,Taang Uthake,Housefull 3,"Mamta Sharma, Mika Singh, Neeti Mohan, Sohail Sen",Dance
+1046,Hamari Shaadi Mein,Vivah,"Babul Supriyo, Shreya Ghoshal",Dance
+1047,Ishq Risk,Mere Brother Ki Dulhan,Rahat Fateh Ali Khan,Romantic
+1048,Dil Vich Lagya,Chup Chup Ke,"Akriti Kakar, Kunal Ganjawala, Sonu Nigam",Dance
+1049,Khalbali,Rang De Basanti,"A.R. Rahman, Mohammed Aslam, Nacim",Dance
+1050,Safarnama,Tamasha,Lucky Ali,Dance
+1051,My Dil Goes Mmmm,Salaam Namaste,"Gayatri Iyer, Shaan",Romantic
+1052,Tu Hi Meri Shab Hai,Gangster,K.K.,Romantic
+1053,Koi Ladki Hai,Dil To Pagal Hai,"Lata Mangeshkar, Udit Narayan",Dance
+1054,Bheege Hont Tere,Murder,Kunal Ganjawala,RomanticSensual
+1055,Mere Samne Wali Khidki Mein,Padosan,Kishore Kumar,DanceRomantic
+1056,Is Mod Se Jaate Hain,Aandhi,"Kishore Kumar, Lata Mangeshkar",Romantic
+1057,Chamak Challo Chel Chabeli,Rowdy Rathore,"Kumar Sanu, Shreya Ghoshal",Bollywood
+1058,Chandni O Meri Chandni,Chandni,YRF,Dance
+1059,Mere Khwabon Mein,Dilwale Dulhania Le Jayenge,Lata Mangeshkar,Romantic
+1060,Rock N Roll Soniye,Kabhi Alvida Naa Kehna,"Mahalakshmi Iyer, Shaan, Shankar Ehsaan Loy, Shankar Mahadevan",Dance
+1061,Keeda,Action Jackson,"Himesh Reshammiya, Neeti Mohan",Dance
+1062,Abhi Kuch Dino Se,Dil Toh Bachha Hai,Mohit Chauhan,Dance
+1063,Dheere Dheere (Remix),Dheere Dheere,Yo Yo Honey Singh,Dance
+1064,Dil Ne Ye Kaha Hai Dil Se,Dhadkan,"Alka Yagnik, Sonu Nigam",RomanticSad
+1065,Mohabbat Hai Kya Cheez,Prem Rog,"Lata Mangeshkar, Suresh Wadkar",Romantic
+1066,Soldier Soldier Meethi Baaten,Soldier,"Alka Yagnik, Kumar Sanu",Dance
+1067,Tum Bin,Sanam Re,Shreya Ghoshal,Sad
+1068,Tum Ho Mera Pyar,Haunted,"K.K., Suzanne D'Mello",Romantic
+1069,Dard Dilo Ke  (Reprise),The Xpose,Mohammed Irfan,Dance
+1070,Shirdi Wale Sai Baba,Amar Akbar Anthony,Mohammed Rafi,Devotional
+1071,Na Jane Kahan Se,Chaalbaaz,"Amit Kumar, Kavita Krishnamurthy",Dance
+1072,Bol Beliya,Kill Dil,"Siddharth Mahadevan, Sunidhi Chauhan",Dance
+1073,Jee Karda,Singh Is Kinng,"Labh Janjua, Suzanne D'Mello",Dance
+1074,Tum Bin,Tum Bin 2,Ankit Tiwari,Sad
+1075,Aadat,Passengers,"Jubin Nautiyal, Raftaar, Shirley Setia",Romantic
+1076,Tere Liye,Sanam Re,Ankit Tiwari,Romantic
+1077,Mera Rang De Basanti,The Legend Of Bhagat Singh,"Manmohan Waris, Sonu Nigam",Patriotic
+1078,Hum Tumhare Hain Sanam,Hum Tumhare Hain Sanam,"Anuradha Paudwal, Udit Narayan",Romantic
+1079,Nain Phisal Gaye,Welcome To New York,Payal Dev,Romantic
+1080,Boond Boond,Roy,Ankit Tiwari,Sad
+1081,Bipasha,Jodi Breakers,"Shadab Faridi, Shraddha Pandit",Dance
+1082,Dhoom Tana,Om Shanti Om,"Abhijeet, Shreya Ghoshal",Dance
+1083,Tu Hi Mera,Jannat 2,Shafqat Amanat Ali,Romantic
+1084,A B C D E F G H,Hum Saath-Saath Hain,"Hariharan, Shankar Mahadevan, Udit Narayan",Dance
+1085,Moh Moh Ke Dhaage,Dum Laga Ke Haisha,"Monali Thakur, Papon",Sad
+1086,ABCD Yaariyan,Yaariyan,"Benny Dayal, Shefali Alvares",Dance
+1087,Hona Tha Pyar,Bol,"Atif Aslam, Hadiqa Kiani",Romantic
+1088,ABCD,Yaariyan,"Benny Dayal, Shefali Alvares, Yo Yo Honey Singh",Dance
+1089,Kaise Mujhe,Ghajini,Benny Dayal,Romantic
+1090,Whats Up,Phillauri,"Jasleen Royal, Mika Singh",Dance
+1091,Dhaakad,Dangal,Raftaar,Bollywood
+1092,Masakali,Delhi-6,Mohit Chauhan,Dance
+1093,Tumhe Jo maine Dekha,Main Hoon Na,Abhijeet,Dance
+1094,Gal Ban Gayi (Remix),Gal Ban Gayi,"Meet Bros, Neha Kakkar, Sukhbir, Yo Yo Honey Singh",Dance
+1095,Koyal Si Teri Boli,Beta,"Anuradha Paudwal, Udit Narayan",Dance
+1096,Tu Hi Na Jaane,Azhar,"Prakriti Kakkar, Sonu Nigam",Bollywood
+1097,Hum Lakh Chupaye,Jaan Tere Naam,"Asha Bhosle, Kumar Sanu",Romantic
+1098,Ek Villain,Ek Villain,Multiple,Dance
+1099,Tujhe Dekhti Hai Nazar,Nanu Ki Jaanu,Mohd. Irfan,Romantic
+1100,Beedi,Omkara,"Clinton Cerejo, Nachiketa, Sukhwinder Singh, Sunidhi Chauhan",Dance
+1101,Chori Chori Dil Le Gaya,Garam Masala,"Hema Sardesai, Sukhwinder Singh",Dance
+1102,Raasleela,3 Storeys,Sumedha Karmahe,Dance
+1103,Dum Maaro Dum,Dum Maaro Dum,Anushka Manchanda,Dance
+1104,Kudiyan Sehar Diyan,Arjun Pandit,"Alka Yagnik, Daler Mehndi",Dance
+1105,Dhunki,Mere Brother Ki Dulhan,Neha Bhasin,Dance
+1106,Tera Deedar Hua,Jannat 2,Rahat Fateh Ali Khan,Romantic
+1107,Salaam India,Mary Kom,"Salim Merchant, Vishal Dadlani",Patriotic
+1108,Hum Ko Maaloom Hain,Jaan-E-Mann,"Sadhana Sargam, Sonu Nigam",Romantic
+1109,Bodyguard,Bodyguard,"Band of Power, Salman Khan",Dance
+1110,Pyaara Bhaiya Mera,Kya Kehna,"Alka Yagnik, Kumar Sanu",Dance
+1111,Chahoon Bhi,Force,"Bombay Jayashri, Karthik",Romantic
+1112,Babul Pyare,Johny Mera Naam,Lata Mangeshkar,Dance
+1113,Bade Miyan Chote Miyan,Bade Miyan Chote Miyan,"Sudesh Bhosle, Udit Narayan",Dance
+1114,Albela Sajan,Bajirao Mastani,"Kanika Joshi, Kunal Pandit, Prithvi Gandharva, Rashi Raagga, Shashi Suman",Dance
+1115,Nahin Saamne Tu,Taal,"Hariharan, Sukhwinder Singh",Romantic
+1116,Goron Ki Na Kalon Ki,Disco Dancer,"Suresh Wadkar, Usha Mangeshkar",Dance
+1117,Gum Hai Kisi Ke Pyar Mein,Raampur Ka Lakshman,"Kishore Kumar, Lata Mangeshkar",Romantic
+1118,Tu Mere Agal Bagal Hai,Phata Poster Nikhla Hero,Mika,Dance
+1119,Aashiyan,Barfi,"Nikhil Paul George, Shreya Ghoshal",Dance
+1120,Pyar Ka Anjaam,Bewafaa,"Alka Yagnik, Kumar Sanu, Sapna Mukherjee",Romantic
+1121,Ay Hairathe,Guru,"A.R. Rahman, Alka Yagnik, Hariharan, Mohammed Aslam",Romantic
+1122,Phir Kya Hai Gham,Hichki,Shilpa Rao,Bollywood
+1123,Hip Hop Pammi,Ramaiya Vastavaiya,"Mika Singh, Monali Thakur",Dance
+1124,Jab Se Mere Naina,Saawariya,Shaan,DanceRomantic
+1125,Race Saanson Ki,Race,"Neeraj, Sunidhi Chauhan",Dance
+1126,Tu Chale Toh,Qarib Qarib Singlle,Papon,Romantic
+1127,Chori Chori Chupke Chupke,Krrish,"Shreya Ghosal, Udit Narayan",DanceRomantic
+1128,Pairon Mein Bandhan Hai,Mohabbatein,"Manohar Shetty, Preetha Mazumdar, Sonali Bhatawdekar, Udbhav",Dance
+1129,Tum Par Hum Hai Atke Yaara,Pyaar Kiya To Darna Kya,"Kavita Krishnamurthy, Kumar Sanu",Dance
+1130,So Gaya Yeh Jahan,Tezaab,"Alka Yagnik, Nitin Mukesh, Shabbir Kumar",Dance
+1131,Wo Ladki Jo Sabse,Baadshah,Abhijeet,Dance
+1132,Sara Zamana,Yaarana,Kishore Kumar,Dance
+1133,Aur Is Dil Mein,Imaandaar,"Asha Bhosle, Suresh Wadkar",Sad
+1134,Mujhse Shaadi Karogi,Mujhse Shaadi Karogi,"Sonu Nigam, Sunidhi Chauhan, Udit Narayan",Dance
+1135,Challa,Crook,"Babbu Maan, Suzanne D'Mello",Dance
+1136,Tu Hi Toh Meri Dost Hai,Yuvvraaj,"A.R. Rahman, Benny Dayal, Shreya Ghoshal",Dance
+1137,Maa Sheranwali,Coolie,Shabbir Kumar,Devotional
+1138,Kuch Din,Kaabil,Jubin Nautiyal,Romantic
+1139,Tu Na Ja Mere Badshah,Khuda Gawah,"Alka Yagnik, Mohammad Aziz",Sad
+1140,Rani Tu Mein Raja (,Son of Sardaar,"Bhavya Pandit, Mika Singh, Yo Yo Honey Singh",Dance
+1141,Rani Tu Mein Raja (,Son of Sardaar,"Bhavya Pandit, Mika Singh, Yo Yo Honey Singh",Dance
+1142,Bholi Si Surat,Dil To Pagal Hai,"Lata Mangeshkar, Udit Narayan",Romantic
+1143,Tere Naina,Jai Ho,"Shaan, Shreya Ghoshal",Romantic
+1144,O Rangrez,Bhaag Milkha Bhaag,Divya Kumar,Romantic
+1145,Jise Dekh Mera Dil Dhadke,Phool Aur Kaante,Kumar Sanu,Romantic
+1146,Tumko To Aana Hi Tha,Jai Ho,"Armaan Malik, Marianne D'Cruz",Romantic
+1147,Khwaab Ho Tum Ya Koi,Teen Deviyan,Kishore Kumar,Romantic
+1148,Chor Bazari,Love Aj Kal,Neeraj Shridhar,Dance
+1149,Jaati Hoon Main,Karan Arjun,"Alka Yagnik, Kumar Sanu, Udit Narayan",Bollywood
+1150,Saanson Ne,Dabangg 2,"Sonu Nigam, Tulsi Kumar",Romantic
+1151,Mr. Lova Lova,Ishq,"Abhijeet, Kavita Krishnamurthy, Sudesh Bhosle, Udit Narayan, Vibha Sharma",Dance
+1152,Ladka Yeh Kehta Hai,Main Prem Ki Diwani Hoon,K.K.,Dance
+1153,Tum Dil Ki Dhadkan Mein,Dhadkan,"Abhijeet, Alka Yagnik, Kumar Sanu",Romantic
+1154,Halla Re,Neal 'n' Nikki,"Salim Merchant, Shweta Pandit",Dance
+1155,Tu Bhoola Jise,Airlift,K.K.,Patriotic
+1156,Teri Yaad,Teraa Surroor,"Badshah, Himesh Reshammiya",Sad
+1157,Tum Saanson Mein,Humko Deewana Kar Gaye,"Himesh Reshammiya, Tulsi Kumar",Romantic
+1158,Yeh Jo Des Hai Tera,Swades,A.R. Rahman,Patriotic
+1159,Jab Tak Hai Jaan,Jab Tak Hai Jaan,Shakthi Sree Gopalan,Romantic
+1160,Teri Yaad Aati Hai,Saudagar,"Lata Mangeshkar, Suresh Wadkar",Sad
+1161,Jee Le Zaraa,Talaash,Vishal Dadlani,Romantic
+1162,Bekarar Karke Hume,Bees Saal Baad,Hemant Kumar,Romantic
+1163,Tumhari Nazar Kyon Khafa Ho Gayi,Do Kaliyan,"Lata Mangeshkar, Mohammed Rafi",Bollywood
+1164,Chichora Piya,Action Jackson,"Himesh Reshammiya, Shalmali Kholgade",Dance
+1165,Soniye Ve – Dhak Dhak Dhak,Kismat Konnection,"Sonu Nigam, Sunidhi Chauhan",Dance
+1166,Tere Bin,Bas Ek Pal,Atif Aslam,Sad
+1167,Phir Mohabbat,Murder 2,"Arijit Singh, Mohammed Irfan, Saim Bhat",RomanticSad
+1168,O Heeriye,Bewakoofiyan,Ayushman Khurana,Romantic
+1169,O Heeriye,Bewakoofiyaan,Ayushman Khurana,Sad
+1170,Hummein Tummein Jo Tha,Raaz Reboot,"Palak Muchhal, Papon",Sad
+1171,Dil Chura Le,Dil Ka Rishta,"Alka Yagnik, Kumar Sanu",Romantic
+1172,Kaun Hai Jo Sapnon Mein Aaya,Jhuk Gaya Aasman,Mohammed Rafi,Romantic
+1173,Mar Jaawan Mit Jaawan,Aashiq Banaya Aapne,"Abhijeet Sawant, Sunidhi Chauhan",Dance
+1174,Mar Jaawan Mit Jaawan,Aashiq Banaya Aapne,"Abhijeet Sawant, Sunidhi Chauhan",Dance
+1175,Jhuki Jhuki Si Nazar,Arth,Jagjit Singh,Sad
+1176,Zor Ka Jhatka,Action Replayy,"Daler Mehndi, Master Saleem, Richa Sharma",Dance
+1177,I Am A Disco Dancer,Disco Dancer,Bappi Lahiri,Dance
+1178,Sufi Salam,Tishnagi,Rahat Fateh Ali Khan,Romantic
+1179,Ishq Samundar,Teraa Surroor,"Himesh Reshammiya, Kanika Kapoor",Dance
+1180,Na Na Karte Pyar,Dhadkan,Alka Yagnik,DanceRomantic
+1181,Tu Rootha Dil Toota,Yaarana,Kishore Kumar,Sad
+1182,Katra Katra,Alone,"Ankit Tiwari, Prakriti Kakar",Romantic
+1183,Yaara O Yaara,Ram Teri Ganga Maili,"Lata Mangeshkar, Suresh Wadkar",Sad
+1184,Let’s Celebrate,Tevar,Imran Khan,Dance
+1185,Alfazon Ki Tarah (Unplugged),Rocky Handsome,"Ankit Tiwari, John Abraham, Shreya Ghoshal",Sad
+1186,Jaane Dil Mein,Mujhse Dosti Karoge!,"Lata Mangeshkar, Sonu Nigam",Romantic
+1187,Trippy,Aap Se Mausiiquii,"Himesh Reshammiya, Neha Kakkar",Dance
+1188,Dil Jaane Na,Dil Juunglee,"Mohit Chauhan, Neeti Mohan",Romantic
+1189,Da Da Dasse,Udta Punjab,"Babu Haabi, Kanika Kapoor",Dance
+1190,O Re Kaharo,Begum Jaan,"Altamash Faridi, Kalpana Patowary",Sad
+1191,Ramaiya Vatsavaiya,Shree 420,"Lata Mangeshkar, Mohammed Rafi, Mukesh",Dance
+1192,Fashion Khatam Mujhpe,Dolly Ki Doli,"Mamta Sharma, Shabab Sabri, Wajid",Dance
+1193,Kya Dekhte Ho Surat Tumhari,Qurbani,"Asha Bhosle, Mohammed Rafi",Romantic
+1194,Kudiye Di Kurti,Ishkq In Paris,"Neuman Pinto, Shazneen Arethna, Shreya Ghoshal, Sonu Nigam",Dance
+1195,Beat Juunglee,Dil Juunglee,"Armaan Malik, Prakriti Kakkar",Dance
+1196,Ya Rabba,Salaam-E-Ishq,Kailash Kher,Sad
+1197,Khwab Dekhe Sexy Lady,Race,"Monali Thakur, Neeraj Shridhar",Dance
+1198,Ishqa,Dishoom,"Abhijeet Sawant, Antara Mitra",Bollywood
+1199,Aahun Aahun,Love Ajkal,"Ashish Pandit, Jaspreet Singh, Master Saleem, Suzanne D'Mello",Dance
+1200,Aahun Aahun,Love Aj Kal,"Ashish Pandit, Master Saleem, Suzanne D'Mello",Dance
+1201,Dil Dance Maare,Tashan,"Sukhwinder Singh, Sunidhi Chauhan, Udit Narayan",Dance
+1202,Kitni Baatein,Lakshya,"Hariharan, Sadhana Sargam, Shankar Ehsaan Loy",Sad
+1203,Kitni Baatein,Lakshay,"Hariharan, Sadhana Sargam",Sad
+1204,Char Baj Gaye (Party Abhi Baaki Hai),F.A.L.T.U,Hard Kaur,Dance
+1205,Aa Gaya Aa Gaya,Hum Tumhare Hain Sanam,Udit Narayan,Dance
+1206,Chand Sitare,Kaho Naa.... Pyaar Hai,Kumar Sanu,Romantic
+1207,Bhanware Ne Khilaya Phool,Prem Rog,"Lata Mangeshkar, Suresh Wadkar",Dance
+1208,O Piya O Piya,Jis Desh Mein Ganga Rehta Hai,"Sadhana Sargam, Sukhwinder Singh",Romantic
+1209,Dekha Tujhe Toh,Devdas,"Alka Yagnik, Kumar Sanu",Romantic
+1210,Engine Ki Seeti,Khoobsurat,"Resmi Sateesh, Sunidhi Chauhan",Dance
+1211,Yeh Jawaani Hai Deewani (Mashup),Yeh Jawaani Hai Deewani,"Arijit Singh, Mohit Chauhan",Dance
+1212,Main Heroine Hoon,Heroine,Aditi Singh Sharma,Dance
+1213,Punjabi Mast,Action Jackson,"Alamgir Khan, Ankit Tiwari, Arya Acharya, Himesh Reshammiya, Vineet Singh",Dance
+1214,Mere Hathon Mein Nau Nau,Chandni,Lata Mangeshkar,Dance
+1215,Heer,Yeh Jawaani Hai Deewani,"Arijit Singh, Harshdeep Kaur",Dance
+1216,Mere Bina,Crook,Nikhil Dsouza,Romantic
+1217,Ishq Chupta Nahi Chupane Se,Bewaffa,Abhijeet,Sad
+1218,Ishq Chupta Nahi,Bewafaa,Abhijeet,Romantic
+1219,Tu Jahaan,Salaam Namaste,Sonu Nigam,RomanticSad
+1220,Girls Like To Swing,Dil Dhadakne Do,Sunidhi Chauhan,Dance
+1221,Tu Kamaal Di Kudi,Son of Sardaar,"Mamta Sharma, Vineet Singh",Dance
+1222,Tu Kamaal Di Kudi,Son of Sardaar,"Mamta Sharma, Vineet Singh",Dance
+1223,Sapne Mein,Satya,"Asha Bhosle, Suresh Wadkar",Dance
+1224,Sadka,I Hate Luv Story,"Mahalakshmi Iyer, Suraj Jagan",Bollywood
+1225,Dekho Dekho Jaanam,Ishq,"Alka Yagnik, Udit Narayan",Dance
+1226,Chhan Ke Mohalla,Action Replayy,"Ritu Pathak, Sunidhi Chauhan",Dance
+1227,Kaahe Chhed,Devdas,"Kavita Krishnamurthy, Madhuri Dixit, Pandit Birju Maharaj",Dance
+1228,Aate Jaate Jo Milta Hai,Har Dil Jo Pyar Karega,"Alka Yagnik, Sonu Nigam",Dance
+1229,Uff Teri Adaa I Like You,Karthik Calling Karthik,"Alyssa Mendonsa, Shankar Mahadevan",Dance
+1230,Pant Mein Gun,Welcome To New York,Diljit Dosanjh,Dance
+1231,Bachna Ae Haseeno,Bachna Ae Haseeno,"Kishore Kumar, Sumit Kumar, Vishal Dadlani",Dance
+1232,Ang Se Ang Lagana,Darr,"Alka Yagnik, Devki Pandit, Sudesh Bhosle, Vinod Rathod",Dance
+1233,Janib (Duet),Dilliwaali Zaalim Girlfriend,"Arijit Singh, Sunidhi Chauhan",Romantic
+1234,Seedha Saadha,Commando 2,Amit Mishra,Sad
+1235,Aaya Re,Chup Chup Ke,"Kunal Ganjawala, Sunidhi Chauhan",Dance
+1236,Koi Fariyaad,Tum Bin,Jagjit Singh,Sad
+1237,Rangreli,Daawat e Ishq,"Shreya Ghoshal, Wajid",Dance
+1238,Loot Jayenge,Aksar,"Jayesh Gandhi, Kunal Ganjawala",Dance
+1239,Pyar Kiya To Darna Kya,Mughal-E-Azam,Lata Mangeshkar,Dance
+1240,Hum To Bhai Jaise Hain,Veer Zaara,Lata Mangeshkar,Dance
+1241,Jatt Jaguar,Mubarakan,"Apeksha Dandekar., Navraj Hans, Vishal Dadlani",Dance
+1242,Yaad Aa Raha Ha,Disco Dancer,Bappi Lahiri,Dance
+1243,Glamorous Ankhiyaan,Ek Paheli Leela,"Anjjan, Krishna Beura, Meet Bros",Dance
+1244,Kitni Mohabbat Kis Ko,Deewane,"Alka Yagnik, Kumar Sanu, Udit Narayan",Romantic
+1245,Tera Mera Rishta Purana,Awarapan,Mustafa Zahid,Sad
+1246,Bin Tere,I Hate Luv Storys,"Shafqat Amanat Ali, Sunidhi Chauhan",Sad
+1247,Tere Dil Ka Rishta,Koi Aap Sa,Sonu Nigam,Romantic
+1248,Om Mangalam,Kambakkht Ishq,"Nindy Kaur, RDB",Dance
+1249,Chhupana Bhi Nahin Aata,Baazigar,Vinod Rathod,Romantic
+1250,Hum Pyar Karne Wale,Dil,"Adnan Sami, Anuradha Paudwal, Udit Narayan",Romantic
+1251,Khwabon Khwabon,Force,K.K. Suchitra,Dance
+1252,Yeh Haseen Vadiyan Yeh Khula Aasman,Roja,"A.R. Rahman, K. S. Chithra, S.P. Balasubrahmanyam",Romantic
+1253,Yeh Hawa Yeh Bata,Ghazab,Lata Mangeshkar,Dance
+1254,Khulke Dulke,Befikre,"Gippy Grewal, Harshdeep Kaur",Dance
+1255,Musu Musu,Pyaar Mein Kabhi Kabhi,Shaan,Romantic
+1256,Sajh Dhaj Ke,Mausam,"Mika Singh, Pankaj Kapur",Dance
+1257,Dhiktana – 2,Hum Aapke Hain Koun,"Lata Mangeshkar, S.P. Balasubrahmanyam, Udit Narayan",Dance
+1258,Pinky,Zanjeer,"Mamta Sharma, Meet Bros Anjjan",Dance
+1259,Mujhe Kitna Pyar Hai Tumse,Dil Tera Deewana,"Lata Mangeshkar, Mohammed Rafi",Romantic
+1260,The Disco Song (Remix),Student of the Year,"Benny Dayal, Salim Merchant, Shahid Mallaya, Sunidhu Chauhan, Udit Narayan",Dance
+1261,Yeh Ishq Hai Gunah,Madhoshi,"Sukhwinder Singh, Sunidhi Chauhan",Romantic
+1262,Kabhi Shaam Dhale,Sur,Lucky Ali,Dance
+1263,In Lamhon Ke Daaman Mein,Jodha Akbar,Javed Ali,Romantic
+1264,Agar Main Kahoon,Lakshay,"Alka Yagnik, Udit Narayan",Romantic
+1265,Kaddu Katega,R... Rajkumar,Antara Mitra,Dance
+1266,Ishaqzaade,Ishaqzaade,"Javed Ali, Shreya Ghoshal",Dance
+1267,Race 2 (Mashup),Race 2,Multiple,Dance
+1268,Allah Ke Bande,Waisa Bhi Hota Hai,Kailash Kher,Sad
+1269,Aisa Jadoo,Khakee,Sunidhi Chauhan,Dance
+1270,Saanson Ki Mala,Koyla,Kavita Krishnamurthy,Dance
+1271,Mar Jayian,Vicky Donor,"Sunidhi Chauhan, Vishal Dadlani",Bollywood
+1272,Prabhu Ji,High Jack,Asees Kaur,Devotional
+1273,Baby Doll (Remix),Ragini MMS 2,"Kanika Kapoor, Meet Bros",Dance
+1274,Aa Tayar Hoja,Asoka,Sunidhi Chauhan,Dance
+1275,Humko Pyaar Hua,Ready,"K.K., Tulsi Kumar",Romantic
+1276,Jugni Peeke Tight Hai,Kis Kisko Pyaar Karoon,"Divya Kumar, Kanika Kapoor, Sukriti Kakkar",Dance
+1277,Mere Rang Mein Rangne Wali,Maine Pyar Kiya,"Asad Bhopali, S.P. Balasubrahmanyam",Romantic
+1278,Toh Phir Aao,Awarapan,Mustafa Zahid,Sad
+1279,Ajnabi Mujhko Itna Bata,Pyaar To Hona Hi Tha,"Asha Bhosle, Jatin-Lalit, Udit Narayan",Romantic
+1280,Dil Dhadakne Do,Zindagi Na Milegi Dobara,"Joi Barua, Shankar Mahadevan, Suraj Jagan",Bollywood
+1281,Tu Mere Paas,Wazir,Ankit Tiwari,Sad
+1282,Dhat Teri Ki,Dhat Teri Ki,"Aditi Singh Sharma, Sanam Puri",Dance
+1283,Der Se Aana Jaldi Jaana,Khal Nayak,"Alka Yagnik, Manhar Udhas",Dance
+1284,Jazba,,Shilpa Rao,Dance
+1285,Is This Love – Kahin Na Laage,Kismat Konnection,"Mohit Chauhan, Shreya Ghoshal",Dance
+1286,Bol Radha Bol,Sangam,Mukesh,Romantic
+1287,Tu Hi Khwahish,Once Upon A Time In Mumbaai Dobara,Sunidhi Chauhan,Dance
+1288,Chak De India,Chak De India,"Marianne D'Cruz, Salim Merchant, Sukhwinder Singh",Dance
+1289,Ruk Ja O Dil Deewane,Dilwale Dulhania Le Jayenge,Udit Narayan,Romantic
+1290,Nanga Punga Dost,PK,Shreya Ghoshal,Dance
+1291,Tanhayee,Dil Chahta Hai,Sonu Nigam,Sad
+1292,Beat It Bijuriya,Munna Michael,"Asees Kaur, Renesa Baadchi",Dance
+1293,Tum Saath Ho Jab Apne,Kaalia,"Asha Bhosle, Kishore Kumar",Dance
+1294,Most Wanted Munda,Ki & Ka,"Earl Edgar, Meet Bros",Dance
+1295,Mehram,Kahaani 2,Arijit Singh,Dance
+1296,Naina,Omkara,Rahat Fateh Ali Khan,Sad
+1297,Sab Kuchh Bhula Diya,Hum Tumhare Hain Sanam,"Sapna Awasthi, Sonu Nigam",Sad
+1298,Ungli Pe Nachalein,Ungli,"Dev Negi, Shipra Goyal",Dance
+1299,Do Me A Favour Let’s Play Holi,Waqt- The Race Against Time,"Anu Malik, Sunidhi Chauhan",Dance
+1300,Aise Na Mujhe Tum Dekho,Darling Darling,Kishore Kumar,Romantic
+1301,Kahin Door Jab Din Dhal Jaye,Anand,Mukesh,Romantic
+1302,Gilehriyaan,Dangal,Jonita Gandhi,Bollywood
+1303,Tanha Tanha Yahan Pe Jeena,Rangeela,Asha Bhosle,Dance
+1304,Khwahishein,Heroine,Shreya Ghoshal,Romantic
+1305,Zindagi Kaisi Hai Paheli,Anand,Manna Dey,Dance
+1306,Sachi Muchi,Sultan,"Harshdeep Kaur, Mohit Chauhan",Dance
+1307,Saawli Saloni Teri,Hum Sub Chor Hain,"Alka Yagnik, Kumar Sanu",Romantic
+1308,Soniye,Aksar,"K.K., Sunidhi Chauhan",Romantic
+1309,Koi Yeh Kaise Bataye,Arth,Jagjit Singh,Sad
+1310,Dekho Nashe Mein,Race,"K.K., Shaan, Sunidhi Chauhan",Dance
+1311,Mein Sharabi,Cocktail,Yo Yo Honey Singh,Dance
+1312,Ho Sarkay Leo Khattiya Jada Lage,Raja Babu,"Kumar Sanu, Poornima",Romantic
+1313,Nadiya Chale Chale Re Dhara,Safar,Manna Dey,Dance
+1314,Khatam Kahani,Qarib Qarib Single,"Jyoti Nooran, Sultana Nooran, Vishal Mishra",Bollywood
+1315,Jiya Jale,Dil Se,"Lata Mangeshkar, M.G. Sreekumar",Dance
+1316,Manva Likes To Fly,Tumhari Sulu,Shalmali Kholgade,Dance
+1317,Aashayein,Iqbal,"KK, Salim Merchant",Motivational
+1318,Aur Kya,,Abhijeet,DanceRomantic
+1319,Aisa Kyoon Hota Hai,Ishq Vishk,Alka Yagnik,Romantic
+1320,Aaja Shaam Hone Aayi,Maine Pyar Kiya,"Lata Mangeshkar, S.P. Balasubrahmanyam",Dance
+1321,Cocktail Mashup,Cocktail,Multiple,Dance
+1322,Teri Mehfil Mein Kismat Azmakar,Mughal-E-Azam,"Lata Mangeshkar, Shamshad Begum.",Dance
+1323,Pandey Jee Seeti,Dabangg 2,"Mamta Sharma, Shreya Ghoshal, Wajid",Dance
+1324,Ye Jawaani Teri,Meri Pyaari Bindu,"Jonita Gandhi, Nakash Aziz",Dance
+1325,Ghar Aaja Pardesi,Dilwale Dulhania Le Jayenge,,Dance
+1326,Kitaben Bahut Si,Baazigar,"Asha Bhosle, Vinod Rathod",Dance
+1327,Jahan Teri Yeh Nazar Hai,Kaalia,Kishore Kumar,Dance
+1328,Namak Paare,Raja Natwarlal,"Anupam Amod, Mamta Sharma",Dance
+1329,Nazdeekiyan,Shaandaar,"Neeti Mohan, Nikhil Paul George",Romantic
+1330,Jhumritalaiyya,Jagga Jasoos,"Arijit Singh, Mohan Kanan",Dance
+1331,Pyar Dilon Ka Mela Hai,Dulhan Hum Le Jaayenge,"Alka Yagnik, Sonu Nigam",DanceRomantic
+1332,Aap Ki Ankhon Mein Kuch,Ghar,"Kishore Kumar, Lata Mangeshkar",Romantic
+1333,Haawa Haawa,Rockstar,Mohit Chauhan,Dance
+1334,Baatein Ye Kabhi Na (Female),Khamoshiyan,Palak Muchhal,Romantic
+1335,Lakh Lakh,Kambakkht Ishq,Neeraj Shridhar,Dance
+1336,Yari Hai Imaan Mera,Zanjeer,Manna Dey,Dance
+1337,O Mere Sanam,Sangam,"Lata Mangeshkar, Mukesh",Sad
+1338,Daag,Bhoomi,Sukhwinder Singh,Sad
+1339,Koi Kahe Kehta Rahe,Dil Chahta Hai,"K.K., Shaan, Shankar Mahadevan",Dance
+1340,Mere Khayalon Ki Malika,Josh,Abhijeet,Romantic
+1341,Krazzy 4,Krazzy 4,Vishal Dadlani,Dance
+1342,Sun Zara,Lucky,Adnan Sami,Romantic
+1343,Zinda Rehti Hain Mohabbatein,Mohabbatein,"Lata Mangeshkar, Udit Narayan",Sad
+1344,Titliyan,Rocky Handsome,Sunidhi Chauhan,Dance
+1345,Jeete Hain Chal,Neerja,Kavita Seth,Sad
+1346,Hum Tum,Hum Tum,"Alka Yagnik, Babul Supriyo",Romantic
+1347,Yun Hi Chala Chal,Swades,"Hariharan, Kailash Kher, Udit Narayan",Dance
+1348,Dooriyan,Love Aj Kal,Mohit Chauhan,Sad
+1349,Yeh Hum Aa Gaye Hain Kahaan,Veer Zaara,"Lata Mangeshkar, Udit Narayan",Romantic
+1350,Yaar Na Miley (Remix),Kick,"Jasmine Sandlas, Yo Yo Honey Singh",Dance
+1351,Yaar Naa Miley (Remix),Kick,"Jasmine Sandlas, Yo Yo Honey Singh",Dance
+1352,Joganiyan,Tevar,Shruti Haasan,Romantic
+1353,Huzur Is Kadar,Masoom,"Bhupinder Singh, Suresh Wadkar",Dance
+1354,Aye Zindagi Gale Lagaa Le,Sadma,Suresh Wadkar,Romantic
+1355,Surmayee Ankhiyon Mein,Sadma,"Ilaiyaraaja, K.J. Yesudas",Romantic
+1356,Meri Ada Bhi,Ready,"Rahat Fateh Ali Khan, Tulsi Kumar",DanceRomantic
+1357,Waada Raha Sanam,Khiladi,"Abhijeet, Alka Yagnik",DanceRomantic
+1358,Tumse Hi Tumse,Anjaana Anjaani,"Caralisa Monteiro, Shekhar Ravjiani",Romantic
+1359,"Gori Ka Sajan, Sajan Ki Gori",Aakhree Raasta,"Mohammad Aziz, S. Janaki",Dance
+1360,Falak Dekhun,Garam Masala,Sonu Nigam,Dance
+1361,Shikdum,Dhoom,"Shaan, Shreya Ghoshal",DanceRomantic
+1362,Bezubaan,Laali Ki Shaadi Mein Laaddoo Deewana,K.K.,Romantic
+1363,Mere Bina Tu (Duet Version),Phata Poster Nikhla Hero,"Harshdeep Kaur, Pritam",Sad
+1364,Alisha,Pyaar Impossible,"Anushka Manchanda, Salim Merchant",Dance
+1365,Aaj Kal Yaad Kuch Aur Rehta Nahin,Nagina,Mohammad Aziz,Romantic
+1366,Dil Kho Gaya,Dil,"Anuradha Paudwal, Udit Narayan",Romantic
+1367,Sun Soniye,Ajab Gazabb Love,"Antara Mitra, Mohammed Irfan",Romantic
+1368,Baadal,Akira,Sunidhi Chauhan,Sad
+1369,Ae Mere Humsafar,Baazigar,"Alka Yagnik, Vinod Rathod",Romantic
+1370,Idhar Chala Mein Udhar Chala,Koi Mil Gaya,"Alka Yagnik, Udit Narayan",Dance
+1371,Kise Dhoondta Hai Pagal Sapare,Nigahen,Anuradha Paudwal,Dance
+1372,Mere Dushman Mere Bhai,Border,Hariharan,Sad
+1373,Aye Meri Zohra Jabeen,Waqt,Manna Dey,Dance
+1374,Aye Dil Laaya Hai Bahaar,Kya Kehna,"Hariharan, Kavita Krishnamurthy",Dance
+1375,Bad Baby,Second Hand Husband,"Badshah, Gippy Grewal",Dance
+1376,Dil Kyun Yeh Mera,Kites,K.K.,Romantic
+1377,Tum Se Milke,Parinda,"Asha Bhosle, Suresh Wadkar",Romantic
+1378,Dhup Chik,Fugly,"Badshah, Raftaar",Dance
+1379,Aadha Ishq,Band Baaja Baaraat,"Natalie Di Luccio, Shreya Ghoshal",Romantic
+1380,Pink Lips (Remix),Hate Story 2,Khushboo Grewal,Dance
+1381,Paathshaala,Rang De Basanti,"Blaaze, Mohammed Aslam, Naresh Iyer",Dance
+1382,Ala Barfi,Barfi,Mohit Chauhan,Dance
+1383,Kudi Tu Butter,Bajatey Raho,Yo Yo Honey Singh,Dance
+1384,Churiyan Kanak Gayee,Lamhe,"Ila Arun, Lata Mangeshkar, Moinuddin Manchala",Dance
+1385,Kapoor & Sons (Mashup),Kapoor & Sons,Multiple,Dance
+1386,Mujhse Dosti Karoge,Mujhse Dosti Karoge!,"Alka Yagnik, Asha Bhosle, Udit Narayan",Romantic
+1387,Hum To Dil Se Haare,Josh,"Alka Yagnik, Udit Narayan",Sad
+1388,Soniye,Heartless,K.K.,Romantic
+1389,Albela Sajan,Hum Dil De Chuke Sanam,"Kavita Krishnamurthy, Shankar Mahadevan, Ustad Sultan Khan",Dance
+1390,Ehsan Tera Hoga Mujh Par,Junglee,Mohammed Rafi,Romantic
+1391,Rola Pe Gaya,Patiala House,"Earl D'Souza, Hard Kaur, Mahadevan, Mahalakshmi Iyer, Master Saleem, Shankar",Dance
+1392,Bande Mein Tha Dum… Vande Mataram,Lage Raho Munna Bhai,"Pranab Biswas, Shreya Ghoshal, Sonu Nigam",Dance
+1393,Jawani Janeman,Namak Halaal,Asha Bhosle,Dance
+1394,Yahi Hota Pyaar,Namastey London,"Himesh Reshammiya, Sunidhi Chauhan",Sad
+1395,Jawani Janeman,Namak Halaal,Asha Bhosle,Dance
+1396,Aa Aa E Ooh Ooh Ooh Mera Dil Na Todo,Raja Babu,Abhijeet,Dance
+1397,Main To Raste Se Ja Raha Tha,Coolie No. 1,"Alka Yagnik, Kumar Sanu",Romantic
+1398,Awaarapan Banjarapan,Jism,M. M. Keeravani,Dance
+1399,Yeh Raat Aur Yeh Doori,Andaz Apna Apna,"Asha Bhosle, S.P. Balasubrahmanyam",Dance
+1400,Mere Dil Jigar Se Guzree Hai,Soldier,"Alka Yagnik, Kumar Sanu",Dance
+1401,Yeh Dil Jo Hai Badmaash Hai,Phir Se,"Mohit Chauhan, Monali Thakur, Shreya Ghoshal",Dance
+1402,Saawali Si Raat,Barfi,Arijit Singh,Romantic
+1403,Aaankhein Milayenge Darr Se,Neerja,"K. Mohan, Neha Bhasin",Dance
+1404,Ishq Vishq,Wanted,"Kamaal khan, Sunidhi Chauhan, Suzanne D'Mello",Romantic
+1405,Hoshwalon Ko Khabar Kya,Sarfarosh,Jagjit Singh,Sad
+1406,Ghoomar,Chup Chup Ke,"K.K., Sunidhi Chauhan",Dance
+1407,Dil Mere,Sooryavansham,Kumar Sanu,Dance
+1408,Mujhe Haq Hai,Vivah,"Shreya Ghoshal, Udit Narayan",Romantic
+1409,Musafir,Jagga Jasoos,Tushar Joshi,Romantic
+1410,Chalak Chalak,Devdas,"Shreya Ghoshal, Udit Narayan, Vinod Rathod",Dance
+1411,Subah Subah,I See You,"Shekhar Ravjiani, Vishal Dadlani, Zubeen Garg",Dance
+1412,Pyar Kar,Dil To Pagal Hai,"Lata Mangeshkar, Udit Narayan",Romantic
+1413,O Jaana Na Jaana,Jab Pyar Kisisi Se Hota Hai,"Kumar Sanu, Lata Mangeshkar",Romantic
+1414,Mhare Hiwra Main Nache Mor,Hum Saath-Saath Hain,"Alka Yagnik, Anuradha Paudwal, Hariharan, Kavita Krishnamurthy, Kumar Sanu, Udit Narayan",Dance
+1415,Raitaa Phail Gayaa,Shaandaar,Divya Kumar,Dance
+1416,Tere Bina,Tezz,Rahat Fateh Ali Khan,Romantic
+1417,Sava Dollar (Lavni),Aiyyaa,Sunidhi Chauhan,Dance
+1418,Baba Meri Yeh Jawani,Ghaath,Falguni Pathak,Dance
+1419,Deewana Main Chala,Pyaar Kiya To Darna Kya,Udit Narayan,Dance
+1420,Zindagi Ki Yahi Reet Hai,Mr. India,Kishore Kumar,Dance
+1421,Chak De,Hum Tum,"Sadhana Sargam, Sonu Nigam",Dance
+1422,Sirf Tum,Sirf Tum,"Anuradha Paudwal, Hariharan",Dance
+1423,Chhaliya,Tashan,"Piyush Mishra, Sunidhi Chauhan",Bollywood
+1424,Dum Dum Diga Diga,Chhalia,Mukesh,Dance
+1425,Aankhon Ne Tumhari,Ishq Vishk,"Alka Yagnik, Kumar Sanu",Romantic
+1426,Janam Janam,Phata Poster Nikhla Hero,Atif Aslam,Bollywood
+1427,Tanha Tanha,Dil Jo Na Keh Saka,"Aditi Paul, Jubin Nautiyal",Romantic
+1428,Heer,Baa Baaa Black Sheep,"Mahalakshmi, Mika Singh",Romantic
+1429,Wat Wat Wat,Tamasha,"Arijit Singh, Shashwat Singh",Dance
+1430,Tanha Tanha Ghum Ke Dhunde Dil,Dil Jo Na Keh Saka,"Aditi Paul, Jubin Nautiyal",Romantic
+1431,Pyar Ki Raahen,Bewafaa,Shaan,Sad
+1432,Aap Ki Khatir,Aap Ki Khatir,Himesh Reshammiya,Romantic
+1433,Saat Rang Mein Khel Rahi Hain,Aakhir Kyon,"Amit Kumar, Anuradha Paudwal",Dance
+1434,Jaadoo Jaadoo,Koi Mil Gaya,"Adnan Sami, Alka Yagnik",Dance
+1435,Yaadon Mein,Jab Harry Met Sejal,"Cuca Roseta, Jonita Gandhi, Mohammed Irfan",Sad
+1436,Dil Deewana Bin Sajna Ke,Maine Pyar Kiya,S.P. Balasubrahmanyam,Dance
+1437,Chori Chori Chupke Chupke,Chori Chori Chupke Chupke,"Alka Yagnik, Babul Supriyo",Dance
+1438,Behene De,Raavan,"Karthik, Mohammed Irfan",Dance
+1439,O Re Kanchi,Asoka,"Alka Yagnik, Shaan",Dance
+1440,Rasiya,Kurbaan,Shruti Pathak,RomanticSensual
+1441,Meri Zindagi Ek Pyaas,Judaai,"Jaspinder Narula, Shankar Mahadevan",Sad
+1442,Tum Jo Aaye,Once Upon A Time In Mumbai,Rahat Fateh Ali Khan,Romantic
+1443,Laal Ishq,Goliyon Ki Rasleela Ram-leela,Arijit Singh,Sad
+1444,Tujhe Jeevan Ki Dor Se,Asli Naqli,"Lata Mangeshkar, Mohammed Rafi",Romantic
+1445,Aao Bachho Tumhe Dikhaye,Jagriti,Kavi Pradeep,Patriotic
+1446,Mujhse Mohabbat Ka,Hum Hain Rahi Pyaar Ke,"Alka Yagnik, Kumar Sanu",Romantic
+1447,Mujhe Pyaar Hua,Judaai,"Abhijeet, Alka Yagnik",Dance
+1448,Satarangi Re,Dil Se,"Kavita Krishnamurthy, Sonu Nigam",Dance
+1449,Mann Ki Lagan,Paap,Rahat Fateh Ali Khan,Sad
+1450,Dil Na Jaane Kyun,Jayantabhai Ki Luv Story,"Anushka Manchanda, Atif Aslam",Dance
+1451,Usne Bola Kem Che,Jis Desh Main Ganga Rehta Hai,"Bali Brahmbhatt, Sunidhi Chauhan",Dance
+1452,Sajna Ve Sajna,Chameli,Sunidhi Chauhan,Dance
+1453,Mera Yaar,Bhaag Milkha Bhaag,Javed Bashir,Romantic
+1454,Jiyein Kyun,Dum Maaro Dum,Papon,Sad
+1455,Dil Ki Hai Tamanna,Force,"Neha Bhasin, Shalini Singh, Vijay Prakash",Dance
+1456,Dum Duma Dum,Dil,"Anuradha Paudwal, Udit Narayan",Dance
+1457,Dil Chahta Hai,Dil Chahta Hai,Shankar Mahadevan,Dance
+1458,Aai Pappi – Tu Hai Meri Soniye,Kismat Konnection,Neeraj Shridhar,Dance
+1459,Where’s the Party Tonight,Kabhi Alvida Naa Kehna,"Loy Mendonsa, Shaan, Shankar Mahadevan, Vasundhara Das",Dance
+1460,Prem Jaal Mein,Jis Desh Mein Ganga Rehta Hai,"Anuradha Sriram, Sukhwinder Singh",DanceRomantic
+1461,Boi Boi,Laadla,"Arun Bakshi, Vinod Rathod",Dance
+1462,Jeevan Se Bhari Teri Ankhen,Safar,Kishore Kumar,Romantic
+1463,Teri Pyari Pyari Soorat Ko,Sasural,Mohammed Rafi,Romantic
+1464,Bas Ek Kinng,Singh Is Kingh,"Hard Kaur, Jaaved Jaffrey, Neeraj Shridhar",Dance
+1465,Jeena Yahan Marna Yahan,Mera Naam Joker,Mukesh,Sad
+1466,Banarasiya,Raanjhanaa,"Anwesshaa, Meenal Jain, Shreya Ghoshal",Romantic
+1467,What’s Going On?,Salaam Namaste,"Kunal Ganjawala, Sunidhi Chauhan",Dance
+1468,Aye Watan Aye Watan,Hindustan Ki Kasam,"Jaspinder Narula, Sukhwinder Singh, Udit Narayan",Patriotic
+1469,Dulhan Hum Le Jayenge,Dulhan Hum Le Jayenge,"Alka Yagnik, Kumar Sanu, Sunita Rao",Romantic
+1470,Aa Bhi Ja Sanam,Prince,Atif Aslam,Sad
+1471,Salaam Namaste,Salaam Namaste,"Kunal Ganjawala, Vasundhara Das",Dance
+1472,Mar Jaava,Faraar,"Merchant, Shruti Pathak",RomanticSensual
+1473,Koi Jaye To Le Aaye,Ghatak,"Alka Yagnik, Anu Malik, Shankar Mahadevan",Dance
+1474,Tumhi Dekho Naa,Kabhi Alvida Naa Kehna,"Alka Yagnik, Sonu Nigam",Romantic
+1475,Sau Dard,Jaan-E-Mann,"Sonu Nigam, Suzanne",Sad
+1476,Piya Milenge,Raanjhanna,Sukhwinder Singh,Sad
+1477,Chandan Sa Badan,Saraswatichandra,Mukesh,Romantic
+1478,Kyun (Duet),Kambakkht Ishq,"Shaan, Shreya Ghoshal",Sad
+1479,Alcoholic,The Shaukeens,Yo Yo Honey Singh,Dance
+1480,Jis Gali Mein Tera Ghar,Kati Patang,Mukesh,Romantic
+1481,Kurbaan Hua,Kurbaan,Vishal Dadlani,Dance
+1482,Nagada Nagada,Jab We Met,"Javed Ali, Sonu Nigam",Dance
+1483,Main Tujhse Pyaar Nahin Karta,Baby,Papon,Sad
+1484,Ishq Tera,Ishq Tera,"Shreya Ghoshal, Sonu Nigam",Romantic
+1485,Oh Jaaniya,Wedding Pullav,"Raj Pandit, Salim Merchant, Shreya Ghoshal",Romantic
+1486,Jab Kisiki Taraf Dil,Pyaar To Hona Hi Tha,Kumar Sanu,Romantic
+1487,Aye Meri Zindagi – Male Version,Saaya,"Shreya Ghoshal, Udit Narayan",Sad
+1488,Jiya Lage Na,Talaash,"Ravindra Upadhyay, Sona Mohapatra",Romantic
+1489,Paas Woh Aane Lage,Main Khiladi Tu Anari,"Alka Yagnik, Kumar Sanu",Romantic
+1490,Jaane Tere Shehar Ka,Jazbaa,Vipin Aneja,Bollywood
+1491,Pee Paa Pee Paa,Tere Naal Love Ho Gaya,Diljit Dosanjh,Dance
+1492,Ada,Garam Masala,Sonu Nigam,Dance
+1493,Chupke Chupke Ghoor Na Mujhko,The Gambler,"Anu Malik, Udit Narayan, Vinod Rathod",Bollywood
+1494,Pag Ghungaru Bandh,Namak Halaal,Kishore Kumar,Dance
+1495,Dekho Zara Kaise Balkhake Chali,Sirf Tum,Gurdas Maan,Dance
+1496,Aap Ki Kashish,Aashiq Banaya Aapne,Himesh Reshammiya,Romantic
+1497,Happy Budday,Kill Dil,"Shankar Mahadevan, Sukhwinder Singh",Dance
+1498,Hudd Hudd Dabangg,Dabangg,"Sukhwinder Singh, Wajid",Dance
+1499,Bhool Bhulaiyaa,Bhool Bhulaiyaa,Neeraj Shridhar,Dance
+1500,Tere Mast Mast Do Nain,Dabangg,"Rahat Fateh Ali Khan, Shreya Ghoshal",Romantic
+1501,Jai Ho Tiltle Song,Jai Ho,"Armaan Malik, Wajid",Dance
+1502,High Heels Te Nachche (Remix),Ki & Ka,"Aditi Singh Sharma, Jaz Dhami, Meet Bros",Dance
+1503,Zinda,Naam Shabana,Sunidhi Chauhan,Bollywood
+1504,Shukran Allah,Kurbaan,"Salim Merchant, Shreya Ghoshal, Sonu Nigam",Romantic
+1505,Tere Naina,Chandni Chowk To China,"Shankar Mahadevan, Shreya Ghoshal",Romantic
+1506,Mere Mehboob Qayamat Hogi,Mr.X In Bombay,Kishore Kumar,Sad
+1507,Saad Shukrana,Mr. X,Ankit Tiwari,Romantic
+1508,Honeymoon Ki Raat,The Dirty Picture,Sunidhi Chauhan,Dance
+1509,Sadda Dil Vi Tu,ABCD - Any Body Can Dance,Hard Kaur,Dance
+1510,Yeh Jo Halki Halki Khumariya,Son of Sardaar,Rahat Fateh Ali Khan,Romantic
+1511,Aye Khuda,Murder 2,"Kshitij Tarey, Mithoon, Saim Bhat",Sad
+1512,Main Hoon Na,Main Hoon Na,Abhijeet,Sad
+1513,Hum To Tere Aashiq Hain,Farz,"Lata Mangeshkar, Mukesh",Romantic
+1514,Jugnu Ki Payal,Aan - Men At Work,"Shaswati, Zubeen Garg",Dance
+1515,Woh Ladki Bahut Yaad Aati,Qayamat,"Alka Yagnik, Kumar Sanu",Bollywood
+1516,Jai Mata Di,Nanu Ki Jaanu,"Alamgir Khan, Javed Ali",Devotional
+1517,Mera Piya Ghar Aaya,Yaraana,Kavita Krishnamurthy,Dance
+1518,Khushiyon Ka Din Aaya Hai,Beta,Anuradha Paudwal,Dance
+1519,Sooraj Ki Baahon Mein,Zindagi Na Milegi Dobara,"Clinton Cerejo, D Cerejo, Loy Mendonsa",Dance
+1520,Kuch Toh Hua Hai,Singham Returns,Ankit Tiwari,Romantic
+1521,Rabba Main Toh Mar Gaya Oye,Mausam,Shahid Mallya,Romantic
+1522,Theher Ja (Remix),October,Armaan Malik,Romantic
+1523,Jiya Maine Jiya,Khushi,"Alka Yagnik, Udit Narayan",Romantic
+1524,Kuch To Hua Hai,Kal Ho Naa Ho,"Alka Yagnik, Shaan",Dance
+1525,Angelina,Baa Baaa Black Sheep,Sonu Nigam,Romantic
+1526,Dhoom Again,Dhoom 2,"Dominique Crezo, Vishal Dadlani",Dance
+1527,Dhinka Chika (Remix),Ready,"Amrita Kak, Mika Singh",Dance
+1528,Tu Milade,All is Well,Ankit Tiwari,Dance
+1529,Thoda Thoda Pyar,Love Aj Kal,Sunidhi Chauhan,Dance
+1530,O Mere Raja,Johny Mera Naam,"Asha Bhosle, Kishore Kumar",Dance
+1531,Gela Gela Gela,Aitraaz,"Adnan Sami, Sunidhi Chauhan",Dance
+1532,Ik Tu Hi Tu Hi,Mausam,Hans Raj Hans,Devotional
+1533,Sultan (Mashup),Sultan,Multiple,Dance
+1534,Kitni Hasrat Hain Humein,Sainik,"Kumar Sanu, Sadhana Sargam",Romantic
+1535,Aa Jaana Aa Jaana,Coolie No. 1,"Alka Yagnik, Kumar Sanu",Romantic
+1536,Har Dil Jo Pyar Karega,Sangam,"Lata Mangeshkar, Mahendra Kapoor, Mukesh",Dance
+1537,Har Dil Jo Pyar Karega,Sangam,"Lata Mangeshkar, Mahendra Kapoor, Mukesh",Dance
+1538,Morey Piya,Devdas,Udit Narayan,Romantic
+1539,Kate Nahin Kat Te,Mr. India,"Alisha Chinai, Kishore Kumar",Romantic
+1540,Tu,Dum Laga Ke Haisha,Kumar Sanu,Bollywood
+1541,Mujhse Huee Bas Yeh,Ishq Vishk,Alka Yagnik,Sad
+1542,Nakhriley,Kill Dil,"Ali Zafar, Gulzar, Mahalakshmi Iyer, Shankar Mahadevan",Dance
+1543,Tandoori Nights,Karzzz,"Himesh Reshammiya, Sunidhi Chauhan",Dance
+1544,Kya Raaz Hai,Raaz 3,"Shreya Ghoshal, Zubeen Garg",Dance
+1545,Tum Toh Dhokabaaz Ho,Saajan Chale Sasural,"Alka Yagnik, Kumar Sanu",Bollywood
+1546,Lucky Boy,Bachna Ae Haseeno,"Hard Kaur, Raja Hassan, Sunidhi Chauhan",Dance
+1547,Aye Manya,Shootout at Wadala,"Adnan Sami, Shaan",Dance
+1548,Ladki Hai Ya Shola,Silsila,"Kishore Kumar, Lata Mangeshkar",Dance
+1549,Yeh Mera Dil Yaar Ka Diwana,Don,Asha Bhosle,Dance
+1550,Babuji Zara Dheere Chalo,Dum,Sonu Kakkar,Dance
+1551,Aankhon Aankhon (Remix),Bhaag Johnny,Yo Yo Honey Singh,Dance
+1552,Ek Duje Ke Vaaste,Dil Toh Pagal Hai,"Hariharan, Lata Mangeshkar",Romantic
+1553,Hey Ya I See You Walking,Karthik Calling Karthik,"Loy Mendonsa, Shankar Mahadevan",Dance
+1554,More Haji Piya,Halla Bol,Amjad Farid Sabri,Devotional
+1555,Tere Mere Beech Mein,Shuddh Desi Romance,"Mohit Chauhan, Sunidhi Chauhan",Romantic
+1556,Ye Ladki Nahin Banaras Ka Paan,Khullam Khulla Pyaar Karen,"Bela Sulakhe, Sonu Nigam",Dance
+1557,Kai Baar Yun Bhi Dekha Hai,Rajnigandha,Mukesh,Romantic
+1558,Pakeezah,Ungli,Gulraj Singh,Bollywood
+1559,Dam Bhar Jo Udhar Munh Phere,Awaara,"Lata Mangeshkar, Mukesh",Dance
+1560,Bade Armanon Se,Malhar,"Lata Mangeshkar, Mukesh",Dance
+1561,Challa Chaap Chunariya,Daas Dev,Rekha Bhardwaj,Bollywood
+1562,Chal Akela Chal Akela,Sambandh,Mukesh,Dance
+1563,De De Pyaar De,Sharaabi,Kishore Kumar,Dance
+1564,Behti Hawa Sa Tha Woh,3 Idiots,"Shaan, Shantanu Moitra",Sad
+1565,Dil Ye Dancer Ho Gaya,Actor In Law,Atif Aslam,Bollywood
+1566,Mor Bani Thanghat Kare,Ram-Leela,"Aditi Paul, Osman Mir",Dance
+1567,Gore Gore Se,Hum Tum,Alka Yagnik,Dance
+1568,Sanam Teri Kasam (Reprise),Sanam Teri Kasam,"Mohammed Irfan, Palak Muchhal",Sad
+1569,School Ke Din,Always Kabhi Kabhi,Sonu Nigam,Dance
+1570,Yeh Mera Prem Patra,Sangam,Mohammed Rafi,Romantic
+1571,Jiska Koi Nahin,Laawaris,Manna Dey,Motivational
+1572,Chalo Ek Bar Phir Se,Gumrah,Mahendra Kapoor,Sad
+1573,Kab Ke Bichhde Hue,Laawaris,"Asha Bhosle, Kishore Kumar",Romantic
+1574,Aaj Ibaadat,Bajirao Mastani,"Altamash Faridi, Javed Bashir, Shadab Faridi, Shashi Suman, Shreyas Puranik",Devotional
+1575,Peepal Ke Patwa,Sooryavansham,"Jaspinder Narula, Sonu Nigam",Dance
+1576,Pukarta Chala Hoon Main,Mere Sanam,Mohammed Rafi,Bollywood
+1577,Meri Bindiya Teri Nindiya,Lamhe,Lata Mangeshkar,Romantic
+1578,Ranga Re,Tutak Tutak Tutiya,Shreya Ghoshal,Dance
+1579,Kaun Kisi Ko Baandh Saka,Kaalia,Mohammed Rafi,Dance
+1580,Dekhiye Aji Jaaneman,Kya Kehna,"Alka Yagnik, Udit Narayan",Romantic
+1581,Jis Desh Mein Ganga Rehta Hai,Jis Desh Mein Rehta Hai,Abhijeet,Dance
+1582,Kambal Ke Neeche,Kaanchi,"Aaman Trikha, Aishwarya Majmudar, Neeti Mohan, Sanchita Bhattachayra",Dance
+1583,Maine Tere Liye,Anand,Mukesh,Dance
+1584,Teri Zulfon Se Judai To,Jab Pyar Kisi Se Hota Hai,Mohammed Rafi,Romantic
+1585,Salamat Rahe Dostana Hamara,Dostana,"Kishore Kumar, Mohammed Rafi",Bollywood
+1586,Humne Ghar Choda Hai,Dil,"Sadhana Sargam, Udit Narayan",Romantic
+1587,Teri Bindiya Re,Abhimaan,"Lata Mangeshkar, Mohammed Rafi",Romantic
+1588,Barbaad Raat,Humshakals,"Sanam Puri, Shalmali Kholgade",Dance
+1589,Ghoonghat Ki Aadh Se,Hum Hain Rahi Pyaar Ke,"Alka Yagnik, Kumar Sanu",Romantic
+1590,Chaska,Badmaash Company,Krishna Beura,Dance
+1591,Megha Re Megha Re,Lamhe,"Ila Arun, Lata Mangeshkar",Dance
+1592,Move Your Body Now,Kismat Konnection,"Akriti Kakar, Hard Kaur, Shaan, Suhail",Dance
+1593,Humen Kash Tumse Mohabbat,Mughal-E-Azam,Lata Mangeshkar,Sad
+1594,Manmarziyan,Lootera,"Amit Trivedi, Shilpa Rao",Romantic
+1595,Bismillah,Once Upon,Anupam Amod,Dance
+1596,Mohabbat Ke,Aksar,"Himesh Reshammiya, Tulsi Kumar",Dance
+1597,Fatal Attraction,Ladies Vs Ricky Bahl,"Natalie Di Luccio, Salim Merchant",Dance
+1598,Khol De Baahein,Meri Pyaari Bindu,Monali Thakur,Romantic
+1599,Pehla Pehla Pyar,Hum Aapke Hain Koun,S.P. Balasubrahmanyam,Romantic
+1600,Bhaage Re Mann,Chameli,Sunidhi Chauhan,Dance
+1601,Yeh Tera Ghar Yeh Mera Ghar,Saath Saath,Jagjit Singh,Bollywood
+1602,Hai Re Hai Re,Khushi,"Hema Sardesai, KK",Dance
+1603,Hum Laye Hain Toofan Se Kashti Nikal Ke,Jagriti,Mohammed Rafi,Patriotic
+1604,Meri Aawargi,Good Boy Bad Boy,Himesh Reshammiya,Dance
+1605,Ghum Shuda,Chalte Chalte,Sonu Nigam,Dance
+1606,Ghar,Jab Harry Met Sejal,"Mohit Chauhan, Nikhita Gandhi",Sad
+1607,Tera Rastaa Chodun Na,Chennai Express,"Amitabh Bhattacharya, Anusha Mani",Romantic
+1608,Neela Aasman So Gaya,Silsila,Amitabh Bachchan,Romantic
+1609,Mera Yaar Mila De,Saathiya,A.R. Rahman,Sad
+1610,Sakhiya,Bhool Bhulaiyaa,Tulsi Kumar,Dance
+1611,Dil Tadap Tadap Ke Kah Raha,Madhumati,"Lata Mangeshkar, Mukesh",Romantic
+1612,Kaise Piya Se,Bewafaa,Lata Mangeshkar,Romantic
+1613,Aaj Din Chadheya,Love Aaj Kal,Rahat Fateh Ali Khan,Romantic
+1614,Jai Ho,Jai Ho,Wajid,Dance
+1615,Kiss Me Baby – Title Song,Garam Masala,Adnan Sami,Dance
+1616,Kehkasha Tu Meri,Akira,Shekhar Ravjiani,Motivational
+1617,Raat Ke Dhai Baje,Kaminey,"Earl, Kunal Ganjawala, Rekha Bhardwaj, Suresh Wadkar",Dance
+1618,Rama Re,Kaante,"Shaan, Zubeen Garg",Bollywood
+1619,Hairat,Anjaana Anjaani,Lucky Ali,Dance
+1620,Hairat,Anjaana Anjaani,Lucky Ali,Dance
+1621,Dukki Tikki,Raja Natwarlal,Mika Singh,Dance
+1622,Ajib Dastan Hai Yeh,Dil Apna Aur Preet Parai,Lata Mangeshkar,Dance
+1623,Shikayatein,Lootera,Amit Trivedi,Sad
+1624,Genda Phool,Delhi-6,"Rajat Dholakia, Shraddha Pandit, Sujata Majumdar, V.N. Mahathi",Dance
+1625,Laagi Laagi,Aksar,"Himesh Reshammiya, Sunidhi Chauhan",Romantic
+1626,Rafu,Tumhari Sulu,Ronkini Gupta,Dance
+1627,Saturday Saturday (Remix),Humpty Sharma Ki Dulhania,"Akriti Kakar, Badshah, Indeep Bakshi, Toshi Sabri",Dance
+1628,Saajna (Unplugged),I Me Aur Mein,Falak Shabir,Romantic
+1629,Jannatein Kahan,Jannat 2,K.K.,Dance
+1630,Meri Zindagi Mein Ajnabee,Ajnabee,"Kumar Sanu, Sunidhi Chauhan",Romantic
+1631,Mere Watan Mein Maine,Khuda Gawah,"Alka Yagnik, Suresh Wadkar",Dance
+1632,Namak,Asoka,"Rakesh Pandit, Rekha Bhardwaj",Dance
+1633,Tinka Tinka,Karam,Alisha Chinai,Romantic
+1634,Main Chali,Force,"Naresh Iyer, Shreya Ghoshal",Dance
+1635,Suhana Safar Aur Yeh Mausam,Madhumati,Mukesh,Dance
+1636,Pal Pal… Har Pal,Lage Raho Munna Bhai,"Shreya Ghoshal, Sonu Nigam",Romantic
+1637,Khoya Khoya Chand Khula Aasman,Kala Bazar,Mohammed Rafi,Romantic
+1638,Ajab Leher Hai Meri,Break Up Ke Baad,"Neeraj Shridhar, Rhys D'souza, Vishal Dadlani",Dance
+1639,Aaja Aaja …Yaad Sataye,Raja Babu,"Kavita Krishnamurthy, Udit Narayan",Romantic
+1640,Jalebi Bai,Double Dhammal,Sunidhi Chauhan,Dance
+1641,Desi Look (Remix),Ek Paheli Leela,Kanika Kapoor,Dance
+1642,Meri Shaadi Karvado,Jis Desh Mein Ganga Rehta Hai,"Sapna Awasthi Singh, Udit Narayan",Dance
+1643,Nazrein Milaana Nazrein Churaana,Jaane Tu Ya Jaane Na,"Anupama Deshpande, Benny Dayal, Darshana, Naresh Iyer, Satish Chakravarthy, Swetha Bhargavee, Tanvi",Dance
+1644,Kabhi Main Kahon Kabhi Tu Kahe,Lamhe,"Hariharan, Lata Mangeshkar",Romantic
+1645,Mangalayam,Saathiya,"K.K., Kunal, Shaan, Sreenivas",Dance
+1646,Naina Mile,Robot,"A.R. Rahman, Suzanne D'Mello",Dance
+1647,Phir Wahi,Jagga Jasoos,Arijit Singh,Sad
+1648,Kahin Deep Jale Kahin Dil,Bees Saal Baad,Lata Mangeshkar,Sad
+1649,I Feel Good,Anjaana Anjaani,"Shilpa Rao, Vishal Dadlani",DanceRomantic
+1650,Mere Bhaiyaa Mere Chanda,Kaajal,Asha Bhosle,Bollywood
+1651,Taiyabali Pyar Ka Dushman,Once Upon A Time In Mumbaai Dobara,Javed Ali,Dance
+1652,Kahe Paise Pe,Laawaris,Kishore Kumar,Dance
+1653,Muskaanein Jhooti Hai,Talaash,Suman Sridhar,Romantic
+1654,Main Naa Bhoolunga I,Roti Kapada Aur Makaan,"Lata Mangeshkar, Mukesh",Romantic
+1655,Allah Hafiz,Bhool Bhulaiyaa,K.K.,Dance
+1656,20-20,Welcome Back,"Anu Malik, Mamta Sharma, Shadaab",Dance
+1657,Des Mere Des,The Legend Of Bhagat Singh,"A.R. Rahman, Sukhwinder Singh",Patriotic
+1658,Besharmi Ki Height (Remix),Main Tera Hero,"Benny Dayal, Shalmali Kholgade",Dance
+1659,Moh Moh Ke Dhaage (Female),Dum Laga Ke Haisha,Monali Thakur,Romantic
+1660,Kharaa Kharaa,Fever,Sonu Kakkar,Romantic
+1661,De Di Azadi Hamen Bina,Jagriti,Asha Bhosle,Patriotic
+1662,Tum Ladki Ho,Maine Pyar Kiya,"Lata Mangeshkar, S.P. Balasubrahmanyam, Shailendra Singh, Usha Mangeshkar",Bollywood
+1663,Katiya Karun,Rockstar,Harshdeep Kaur,Dance
+1664,Lakhon Hain Nigahon Mein,Phir Wohi Dil Laya Hoon,Mohammed Rafi,Dance
+1665,Arziyan,Delhi-6,"Javed Ali, Kailash Kher",Bollywood
+1666,Jaadu Tone Waaliyan,Daawat e Ishq,Shabab Sabri,Dance
+1667,Junooniyat,Sanam Re,"Falak Shabir, Meet Bros",Romantic
+1668,Tamma Tamma Loge,Thanedaar,"Anuradha Paudwal, Bappi Lahiri",Dance
+1669,Chhote Chhote Peg (Remix),Sonu Ke Titu Ki Sweety,"Navraj Hans, Neha Kakkar, Yo Yo Honey Singh",Dance
+1670,Mehfil Mein Bar Bar,Soldier,"Alka Yagnik, Kumar Sanu",Dance
+1671,O Soniye Dil Jaaniye,Kya Kehna,"Alka Yagnik, Kumar Sanu, Sonu Nigam",Romantic
+1672,Dil Mera Churaya Kyun,Akele Hum Akele Tum,Kumar Sanu,Sad
+1673,Ooee Baba,Judaai,"Abhijeet, Alka Yagnik, Sapna Mukherjee",Dance
+1674,Mera Dil Bhi Kitna Pagal Hai,Saajan,"Alka Yagnik, Kumar Sanu, S.P. Balasubrahmanyam",Romantic
+1675,Fitoori,Bajirao Mastani,"Aishwarya Bhandari, Ganesh Chandanshive, Vaishali Bhaisne",Dance
+1676,Small Town Girl,Bachna Ae Haseeno,"Himani Kapoor, Shekhar Ravjiani, Sukhwinder Singh",Dance
+1677,Do Pal,Veer Zaara,"Lata Mangeshkar, Sonu Nigam",RomanticSad
+1678,Har Ek Friend Kamina Hota Hai,Chashme Baddoor,Sonu Nigam,Dance
+1679,Jab Se Tumko Dekha,Kaalia,"Asha Bhosle, Kishore Kumar",Romantic
+1680,Lamha Lamha,Gangster,Abhijeet,Romantic
+1681,Raat Baaqi Baat Baaqi,Namak Halaal,"Asha Bhosle, Bappi Lahiri, Basavalingaiah Hiremath, Shashi Kapoor",Dance
+1682,Raat Baaqi Baat Baaqi,Namak Halaal,"Asha Bhosle, Bappi Lahiri, Basavalingaiah Hiremath, Shashi Kapoor",Dance
+1683,Aankhon Mein Neendein,We Are Family,"Rahat Fateh Ali Khan, Shankar Mahadevan, Shreya Ghoshal",Romantic
+1684,Tumsa Nahin Dekha,Tumsa Nahin Dekha,Mohammed Rafi,Romantic
+1685,Hey Ooi Amma Ooi Amma,Raja Babu,Poornima,Dance
+1686,Jaage Hain,Guru,"A.R. Rahman, K. S. Chithra",Sad
+1687,Koi Jab Tumhara Hriday Tod De,Purab Aur Pachim,Mukesh,Sad
+1688,Mashallah (Remix),Ek Tha Tiger,"Shreya Ghoshal, Wajid",Dance
+1689,Mere Khwabon Mein Jo Aaye,Soldier,Alka Yagnik,Dance
+1690,Chali Kahani,Tamasha,"Haricharan, Haripriya, Sukhwinder Singh",Dance
+1691,Saddi Dilli,Dilliwaali Zaalim Girlfriend,Millind Gaba,Dance
+1692,Dum Dum,Phillauri,"Romy, Vivek Hariharan",Romantic
+1693,Dil Ko Aaya Sukoon,Rangrezz,"Hiral Brahmbhatt, Rahat Fateh Ali Khan",Bollywood
+1694,Kya Tujhe Ab Ye Dil Bataye,Sanam Re,Falak Shabir,Romantic
+1695,Rabba Meray Haal Da Mehram Tu,Guest In London,"Amit Mishra, Sumeet Anand",Devotional
+1696,Woh Lamhe Woh Baatein,Zeher,Atif Aslam,Sad
+1697,Chot Dil Pe Lagi,Ishq Vishk,"Alisha Chinai, Kumar Sanu",Romantic
+1698,Lagi Aaj Sawan Ki,Chandni,"Anupama Deshpande, Suresh Wadkar",Romantic
+1699,Pyaar Ki Ek Kahani,Krrish,"Shreya Ghosal, Sonu Nigam",DanceRomantic
+1700,Tip Tip Barsa Pani,Mohra,"Alka Yagnik, Udit Narayan",Dance
+1701,Tujhko Mera Pyar Pukare,Gumrah,"Asha Bhosle, Mahendra Kapoor",Romantic
+1702,Talli,Ugly Aur Pagli,"Anmol Malik, Hard Kaur, Mika Singh",Dance
+1703,Tonight,Love Ka The End,Suman Sridhar,Romantic
+1704,Ayaashi,Badmaash Company,K.K.,Dance
+1705,Ishqe Di Lat,Junooniyat,Ankit Tiwari,Romantic
+1706,Saawan Ke Jhoolon Ne,Nigahen,Mohammad Aziz,Dance
+1707,Pyar Ho (Redux),Munna Michael,Sunidhi Chauhan,Bollywood
+1708,Neela Dupatta,Hameshaa,"Abhijeet, Alka Yagnik",Dance
+1709,Aap Yun Hi Agar Humse Milte Rahe,Ek Musafir Ek Hasina,"Asha Bhosle, Mohammed Rafi",Romantic
+1710,Dil Jo Na Keh Saka,Dil Jo Na Keh Saka,"Shail Hada, Shreya Ghoshal",Sad
+1711,Aankhon Ki Gustakhiyan Maaf Ho,Hum Dil De Chuke Sanam,"Karsan Sangathia, Kavita Krishnamurthy",Romantic
+1712,Meher Hai Rab Di,Welcome To New York,"Khushhboo Grewal, Mika Singh",Dance
+1713,Tere Ghar Ke Samne,Tere Ghar Ke Samne,"Lata Mangeshkar, Mohammed Rafi",Dance
+1714,Inteha Ho Gayi Intezaar Ki,Sharaabi,"Asha Bhosle, Bappi Lahiri",Sad
+1715,Dil Ka Koi Tukda,Kya Kehna,"Hariharan, Kavita Krishnamurthy",Sad
+1716,Dhadkane Saansein Jawani,Beta,"Anuradha Paudwal, Pankaj Udhas",Dance
+1717,Dil Tera Diwana,Dil Tera Deewana,"Lata Mangeshkar, Mohammed Rafi",Romantic
+1718,Ek Lo Ek Muft,Guru,Bappi Lahiri,Dance
+1719,Maine Pyar Kiya,Maine Pyar Kiya,S.P. Balasubrahmanyam,Dance
+1720,Chaar Dina Ki,Matru Ki Bijlee Ka Mandola,"Imran Khan, Pankaj Kapur, Prem Dehati",Dance
+1721,Piya Tu Ab To Aaja,Caravaan,Asha Bhosle,Dance
+1722,Tu Meri (Remix),Bang bang,Vishal Dadlani,Dance
+1723,Kitne Bhi Tu Karle Sitam,Sanam Teri Kasam,Asha Bhosle,Sad
+1724,Jab Mila Tu,I Hate Luv Storys,Vishal Dadlani,Romantic
+1725,O Mere Majhi Mere Sajan Hai,Bandini,S. D. Burman,Sad
+1726,Churao Na Dil,Deewane,"Kavita Krishnamurthy, Udit Narayan",Romantic
+1727,Mujhe Raat Din Bas,Sangharsh,Sonu Nigam,Romantic
+1728,Main Nai Jaana Pardes,Tevar,Shafqat Amanat Ali,Sad
+1729,Chikini Chameli (Remix),Agneepath,Shreya Ghoshal,Dance
+1730,Jane Na Nazar Pehchane Jigar,Aah,"Lata Mangeshkar, Mukesh",Romantic
+1731,Tu Mohabbat Hai,Tere Naal Love Ho Gaya,"Atif Aslam, Monali Thakur",Romantic
+1732,O Re Khuda,Rush,"Adnan Sami, Javed Basheer",Romantic
+1733,Sar Se Sarke,Silsila,"Kishore Kumar, Lata Mangeshkar",Romantic
+1734,Humko Tumse Ho Gaya Hai Pyar,Amar Akbar Anthony,"Kishore Kumar, Lata Mangeshkar, Mohammed Rafi, Mukesh",Dance
+1735,Dhik Ta Na Na – Duet,Laadla,"Poornima, Udit Narayan",Romantic
+1736,Jaane Kahan Mera Jigar Gaya Ji,Mr. and Mrs. 55,"Geeta Dutt, Mohammed Rafi",Romantic
+1737,Chaar Shanivaar,All is Well,"Armaan Malik, Badshah, Vishal Dadlani",Dance
+1738,Dancing Jodi,Rab Ne Bana Di Jodi,"Labh Janjua, Sunidhi Chauhan",Dance
+1739,Tera Bemar Mera Dil,Chaalbaaz,"Kavita Krishnamurthy, Mohammad Aziz",Dance
+1740,Ishq Ki Galee,Bollywood HeightsMilenge Milenge,"Jayesh Gandhi, Rahat Fateh Ali Khan",Sad
+1741,Piya Piya O Piya,Har Dil Jo Pyar Karega,"Pinky, Prashant, Preeti",Dance
+1742,Tune Bechain Itna Ziada Kiya,Nagina,"Anuradha Paudwal, Mohammad Aziz",Romantic
+1743,Rozaana,Love Breakups Zindagi,Salim Merchant,Romantic
+1744,Baawra,Kill Dil,"Gulzar, Nihira Joshi Deshpande, Shankar Mahadevan",Sad
+1745,O Humdum Suniyo Re,Saathiya,"K.K., Kunal, Pravin Mani, Shaan",Dance
+1746,Hookah Bar (Remix),Khiladi 786,"Aman Trikha, Himesh Reshammiya, Vineet Singh",Dance
+1747,Bismil,Haider,Sukhwinder Singh,Dance
+1748,Jadugar Ka Jadoo,Toofan,Suresh Wadkar,Dance
+1749,Pyar Chahiye Mujhe Jine Ke Liye,Manokaamnaa,,Romantic
+1750,Assalaam Vaalekum,Aap Kaa Surroor,Himesh Reshammiya,Dance
+1751,Yeh Desh Hai Veer Jawanon Kaa,Naya Daur,Mohammed Rafi,Patriotic
+1752,Kismat Se Tum Hum Ko Mile,Pukar,"Anuradha Paudwal, Sonu Nigam",Sad
+1753,Hip Hip Huraah,Mere Dad Ki Maruti,Sonu Kakkar,Dance
+1754,Ankahee,Lootera,Amit Trivedi,Romantic
+1755,Foolishq,Ki & Ka,"Armaan Malik, Shreya Ghoshal",Romantic
+1756,Foolishq,Ki & Ka,"Armaan Malik, Shreya Ghoshal",Romantic
+1757,Dil Diwana,Jawani Diwani,Sonu Nigam,Dance
+1758,Guest In London,Guest In London,"Amit Mishra, Navendu Tripathi",Dance
+1759,Love You Till The End,Jai Ho,Armaan Malik,DanceRomantic
+1760,Mera Yaar Bana Hai Dulha,Chaudhvin Ka Chand,Mohammed Rafi,Dance
+1761,Jab Tak Hai Jaan Mashup,Jab Tak Hai Jaan,Multiple,Dance
+1762,Pump It (The Workout Song),Ki & Ka,"Meet Bros, Yash Narvekar",Dance
+1763,Pyar Nahin Karna,Kachche Dhaage,"Alka Yagnik, Kumar Sanu",Romantic
+1764,Bichdann,Son of Sardaar,Rahat Fateh Ali Khan,Sad
+1765,Raghupati Raghav,Kuch Kuch Hota Hai,"Alka Yagnik, Shankar Mahadevan",Dance
+1766,Show Me Your Jalwa,Aaja Nachle,"Kailash Kher, Richa Sharma, Salim Merchant",Dance
+1767,Fevicol Se (Remix),Dabangg 2,"Mamta Sharma, Wajid",Dance
+1768,Ay Sakhi,Raanjhanaa,"Aanchal Sethi, Chinmayi Sripaada, Madhushree, Vaishali Samant",Bollywood
+1769,Kahin Karti Hogi Woh Mera Intezar,Phir Kab Milogi,Mukesh,Dance
+1770,Khamakhaa,Bewakoofiaan,"Ayushman Khurana, Neeti Mohan",Romantic
+1771,Jhoot Nahin Bolna,Aap Kaa Surroor,"Himesh Reshammiya, Shreya Ghoshal",Dance
+1772,Ik Junoon,Zindagi Na Milegi Dobara,Vishal Dadlani,Dance
+1773,Aafaton Ke Parinde,Ishaqzaade,"Divya Kumar, Suraj Jagan",Dance
+1774,Dilrubaon Ke Jalwe,Dulha Mil Gaya,"Amit Kumar, Monali Thakur",Dance
+1775,Pak Chik Pak,Raja Babu,"Anand, Jolly Mukherjee, Vinod Rathod",DanceRomantic
+1776,Bhangra Bistar,Dil Bole Hadippa!,"Alisha Chinoy, Hard Kaur, Sunidhi Chauhan",Dance
+1777,Baawre,Luck By Chance,"Loy Mendonsa, Shankar Mahadevan",Dance
+1778,Chhalka Chhalka Re,Saathiya,"Mahalaxmi, Richa Sharma, Shoma, Vaishali",Dance
+1779,Kya Mujhe Pyar Hai,Woh Lamhe,K.K.,Romantic
+1780,Mere Khwabon Mein Tu,Gupt,"Alka Yagnik, Kumar Sanu",Romantic
+1781,Lets Rock Soniye,Bhool Bhulaiyaa,"Shaan, Tulsi Kumar",Dance
+1782,Khaana Khaake,Jagga Jasoos,"Amit, Amitabh Bhattacharya, Antara, Aroh, Ashwin, Geet Sagar, June, Pritam, Sunny, Tushar",Dance
+1783,Tumse Jo Dekhte Hi Pyar Hua,Patthar Ke Phool,"Lata Mangeshkar, S.P. Balasubrahmanyam",Dance
+1784,Roja Jaaneman,Roja,Hariharan,Romantic
+1785,Udte Badal Se Poochho,Sangraam,Alka Yagnik,Bollywood
+1786,Meri Wafayen Yaad Karoge,Sainik,"Asha Bhosle, Kumar Sanu",Sad
+1787,Phool Maangu Na Bahaar Maangu,Raja,"Alka Yagnik, Udit Narayan",Dance
+1788,Jaaneman Jaane Jaan,Kya Kehna,"Alka Yagnik, Sonu Nigam",Dance
+1789,Dil Samander,Garam Masala,"K.K., Sunidhi Chauhan",Dance
+1790,Seena Pada,Saaya,"Shreya Ghoshal, Udit Narayan",Sad
+1791,Bahut Pyar Karte Hai (Male Version),Saajan,S.P. Balasubrahmanyam,Dance
+1792,Baari Barsi,Band Baaja Baaraat,"Harshdeep Kaur, Salim Merchant",Dance
+1793,Jahan Mil Jayen Chaar Yaar,Sharaabi,"Amitabh Bachchan, Kishore Kumar",Dance
+1794,Saajan Aayo Re,Ok Jaanu,"A.R. Rahman, Jonita Gandhi, Nakash Aziz",Romantic
+1795,Fukraa,Rush,"Hard Kaur, Jazzy B",Dance
+1796,Kehdoon Tumhen,Deewaar,"Asha Bhosle, Kishore Kumar",Romantic
+1797,Is Pal,Aaja Nachle,"Shreya Ghoshal, Sonu Nigam",Romantic
+1798,Senorita (Remix),Zindagi Na Milegi Dobara,"Abhay Deol, Farhan Akhtar, Hrithik Roshan",Dance
+1799,Aa Zara,Murder 2,Sunidhi Chauhan,Romantic
+1800,Naina Lad Jaihen,Gunga Jumna,Mohammed Rafi,Dance
+1801,Dil Kya Kare,Salaam-E-Ishq,Adnan Sami,Romantic
+1802,Chupke Se,Saathiya,"Murtuza, Qadir, Sadhana Sargam",Romantic
+1803,Dard Ka Pata,Gandhigiri,"Mohammed Irfan, Sam",Sad
+1804,Aaj Na Chhodenge,Kati Patang,"Kishore Kumar, Lata Mangeshkar",Dance
+1805,Mere Sang,New York,Sunidhi Chauhan,Romantic
+1806,Jab Se Hum Tere,Krantiveer,"Alka Yagnik, Kumar Sanu",Dance
+1807,Allah Hi Reham,My Name is Khan,Ustad Rashid Khan,Romantic
+1808,Ajnabi Shehar,Jaan-E-Mann,Sonu Nigam,Romantic
+1809,Auva Auva Koi Yahan Nache,Disco Dancer,Bappi Lahiri,Dance
+1810,Roy Mashup,Roy,Multiple,Dance
+1811,Mujse Shaadi Karogi,Dulhan Hum Le Jayenge,"Alka Yagnik, Kumar Sanu, Shankar Mahadevan, Suresh Wadkar",Romantic
+1812,Mohe Panghat Pe,Mughal-E-Azam,Lata Mangeshkar,Devotional
+1813,Tauba Main Vyaah Karke Pachtaya,Shaadi Ke Side Effects,"Poorvi Koutish, Shahid Malya",Dance
+1814,Chura Lo Dil Mera,Kareeb,"Kumar Sanu, Sanjivani",Romantic
+1815,Tere Bina Tere Bina,Khushi,"Alka Yagnik, Shaan",Dance
+1816,Pyaar Tune Kya Kiya,Pyaar Tune Kya Kiya,"Alka Yagnik, Sonu Nigam",Dance
+1817,Der Na Ho Jaye Kahin,Henna,"Lata Mangeshkar, Mohammad Sayeed, Suresh Wadkar",Dance
+1818,Mujhko Neend Aa Rahi Hai,Ajnabee,"Sonu Nigam, Sunidhi Chauhan",Romantic
+1819,Samajh Kar Chand Jis Ko,Baazigar,"Alka Yagnik, Vinod Rathod",Romantic
+1820,Labon Ko,Bhool Bhulaiyaa,K.K.,Romantic
+1821,Rehna Tu,Delhi-6,"A.R. Rahman, Benny Dayal, Tanvi",Romantic
+1822,Hass Nache Le,Udta Punjab,Shahid Mallya,Dance
+1823,Dhai Akhar,Ishq Click,Mohammed Irfan,Romantic
+1824,Chennai Express Mashup,Chennai Express,Multiple,Dance
+1825,Aaja Aaja Re Tujhko,Gumrah,"Asha Bhosle, Mahendra Kapoor",Romantic
+1826,Keh Do Ke Tum,Tezaab,"Amit Kumar, Anuradha Paudwal",Romantic
+1827,Ang Lag Ja Balma,Mera Naam Joker,Asha Bhosle,Romantic
+1828,Tanhaiyan,Aap Kaa Surroor,"Himesh Reshammiya, Sunidhi Chauhan",Sad
+1829,Dil Dil Deewana,Har Dil Jo Pyar Karega,"Alka Yagnik, Udit Narayan",Dance
+1830,Tere Mohalle,Besharam,"Aishwarya Nigam, Mamta Sharma",Dance
+1831,Mera Dil Ab Tera Ho Sajna,Dil Apna Aur Preet Parai,Lata Mangeshkar,Dance
+1832,Pyaar Yeh Jaane Kaise,Rangeela,"Kavita Krishnamurthy, Suresh Wadkar",Dance
+1833,Are Diwano Mujhe Pehchano,Don,Kishore Kumar,Dance
+1834,Aaj Din Chadheya,Love Aj Kal,"Harshdeep Kaur, Irshad Kamil",Romantic
+1835,Na Jaa,Jia Aur Jia,Asees Kaur,Sad
+1836,Mai Ri Mai,Parched,Harshdeep Kaur,Sad
+1837,Jiske Liye Sabko Chhoda,Saajan Ki Saheli,"Mohammed Rafi, Sulakshana Pandit",Bollywood
+1838,Thori Se Jo Peeli Hai,Namak Halaal,Kishore Kumar,Dance
+1839,Desi Beat,Bodyguard,"Amrita Kak, Mika Singh",Dance
+1840,Lamha Lamha,Sargoshiyan,Amit Mishra,Romantic
+1841,Kaisi Yeh Judai Hain,Jannat,Falak Shabir,Sad
+1842,Chaudhvin Ka Chand,Chaudhvin Ka Chand,Mohammed Rafi,Romantic
+1843,Jeth Ki Dophar Mein,Coolie No. 1,"Kumar Sanu, Poornima",Romantic
+1844,Jingle Jingle,Badmaash Company,"Farhid, Master Saleem, Mohit Chauhan",Dance
+1845,Gadbad Ho Gayee,Chaalbaaz,"Amit Kumar, Jolly, Kavita Krishnamurthy",Dance
+1846,Hamare Gaon Koi,Professor,"Asha Bhosle, Lata Mangeshkar",Dance
+1847,Blue (Theme),Blue,"Dilshad, Jaspeert Singh, Neha Kakkar, Raqeeb Aalam, Sonu Kakkar",Dance
+1848,Main Kya Hoon,Love Aj Kal,KK,Dance
+1849,Chand Si Mehbooba Ho Meri,Himalay Ki Godmein,Mukesh,Romantic
+1850,Dagariyo Chalo,Chalte Chalte,"Alka Yagnik, Udit Narayan",Dance
+1851,Daaru Band Kal Se,Singh Saab The Great,"Sonu Nigam, Teesha Nigam",Dance
+1852,Adhoore Tum Adhoore Hum,Break Up Ke Baad,"Alyssa Mendonsa, Vishal Dadlani",Dance
+1853,Hai Rama,Rangeela,"Hariharan, Swarnalatha",Dance
+1854,Madhuban Mein Radhika Nache Re,Kohinoor,Mohammed Rafi,Dance
+1855,Main khiladi Tu Anari,Main Khiladi Tu Anari,"Abhijeet, Anu Malik",Dance
+1856,Main Pal Do Pal Ka Shayar,Kabhi Kabhie,Mukesh,Sad
+1857,Aashiyana,Fashion,Salim Merchant,Dance
+1858,Mehbooba Mehbooba,Ajnabee,"Adnan Sami, Sunidhi Chauhan",Dance
+1859,Mehbooba Mehbooba,Ajnabee,"Adnan Sami, Sunidhi Chauhan",Bollywood
+1860,Lapak Jhapak,Ghayal Once Again,"Armaan Malik, Siddharth Mahadevan, Yashita Sharma",Dance
+1861,Koi Mil Gaya,Koi Mil Gaya,"K. S. Chithra, Udit Narayan",Romantic
+1862,Senorita,Zindagi Na Milegi Dobara,"Abhay Deol, Farhan Akhtar, Hrithik Roshan",Dance
+1863,Ek Onkaar,Rang De Basanti,Harshdeep Kaur,Devotional
+1864,Twinkle Twinkle,The Dirty Picture,"Rana Mazumder, Shreya Ghoshal",Dance
+1865,Chupke Se Sun,Mission Kashmir,"Alka Yagnik, Udit Narayan",Romantic
+1866,Pal Bhar Ke Liye,Johny Mera Naam,"Kishore Kumar, Usha Khanna",Romantic
+1867,The Dirty Mashup,Single,Multiple,Dance
+1868,Tu Koi Aur Hai,Tamasha,,Sad
+1869,Love Ka The End,Love Ka The End,Aditi Singh Sharma,Bollywood
+1870,Mene Lagan Lagi,Dil Kya Kare,Jaspinder Nirula,Sad
+1871,Teri Kasam Main Hoon,Prem Granth,Vinod Rathod,Dance
+1872,Chahe Zubaan,Dil Hai Tumhaara,Sonu Nigam,Romantic
+1873,Mujhe Tu Jo Mila,Khel To Abb Shuru Hoga,Aaman Trikha,Romantic
+1874,Tu Roop Ki Rani Main Choron Ka Raja,Roop Ki Rani Choron Ka Raja,"Lata Mangeshkar, Talat Mahmood",Dance
+1875,Fake Ishq,Housefull 3,"Altamash Faridi, Kailash Kher, Nakash Aziz",Sad
+1876,Harry Is Not Bhramchari,Shaadi Ke Side Effects,"Ishq Bector, Jazzy B",Dance
+1877,Din Sara Guzara Tore Angana,Junglee,"Lata Mangeshkar, Mohammed Rafi",Romantic
+1878,Desi Romance,Shaadi Ke Side Effects,"Arijit Singh, Suchi",Dance
+1879,Do Hanson Ka Joda,Gunga Jumna,Lata Mangeshkar,Sad
+1880,Taki Oh Taki,Himmatwala,"Asha Bhosle, Kishore Kumar",Dance
+1881,Taki Oh Taki,Himmatwala,"Asha Bhosle, Bappi Lahiri",Dance
+1882,Yeh Raaste Hai Pyaar Ke,Yeh Raaste Hain Pyaar Ke,"Jaspinder Narula, Shaan",Dance
+1883,Pinjra Tod Ke,Simran,Sunidhi Chauhan,Bollywood
+1884,Mere Buddy,Bhoothnath,"Amitabh Bachchan, Armaan Malik",Dance
+1885,Chugliyaan,Once Upon A Time In Mumbaai Dobara,"Javed Ali, Sahir Ali Bagga",Dance
+1886,Mohe Chedo Na,Lamhe,Lata Mangeshkar,Dance
+1887,Ishq Vishq Pyaar Vyaar,Ishq Vishk,"Alka Yagnik, Kumar Sanu",Romantic
+1888,Jeeye To Jeeye Kaise (Duet Version),Saajan,"Anuradha Paudwal, Kumar Sanu, S.P. Balasubrahmanyam",Romantic
+1889,O Mehbooba,Sangam,Mukesh,Romantic
+1890,Alcholic (Remix),The Shaukeens,Yo Yo Honey Singh,Dance
+1891,Pehli Baar Mile Hain,Saajan,S.P. Balasubrahmanyam,Dance
+1892,Main Hoon No 1 Gawaiya,Saajan Chale Sasural,"Kunal Ganjawala, Satyanarayan, Satyanarayan Mishra, Vinod Rathod",Bollywood
+1893,Tu,Bobby Jasoos,"Papon, Shreya Ghoshal",Romantic
+1894,Rab Ka Shukrana,Jannat 2,Mohit Chauhan,Romantic
+1895,Ek But Banaoonga,Asli Naqli,Mohammed Rafi,Romantic
+1896,Muskurane (Unplugged),Citylights,"Jeet Gannguli, Mohammed Irfan",Romantic
+1897,Naina Milaike,Saathiya,"Madhushree, Sadhana Sargam",Dance
+1898,Full Jhol,Jackpot,"Akasa Singh, Mika Singh",Dance
+1899,O Saathi Re,Omkara,"Shreya Ghoshal, Vishal Bhardwaj",Dance
+1900,Awara Hoon,Awaara,Mukesh,Dance
+1901,Tere Pyar Mein Dil Deewana,Coolie No. 1,"Alka Yagnik, Udit Narayan",Romantic
+1902,Sunny Sunny (Remix),Yaariyan,"Neha Kakkar, Yo Yo Honey Singh",Dance
+1903,In Panchion Ko Dekh Kar,Koi Mil Gaya,"Baby Sneha, Kavita Krishnamurthy, Shaan",Dance
+1904,Lovely (Remix),Happy New Year,"Fateh, Kanika Kapoor, Miraya Varma, Ravindra Upadhyay",Dance
+1905,Mere Mehboob Tujhe,Mere Mehboob,Mohammed Rafi,Sad
+1906,Naam Mera Premkali,Chaalbaaz,Kavita Krishnamurthy,Dance
+1907,Humka Peeni Hai Peeni,Dabangg,"Master Saleem, Shabab Sabri",Dance
+1908,Humka Peeni Hai,Dabangg,"Master Saleem, Shabab Sabri, Wajid",Dance
+1909,Bye Bye Miss Good Night,Saajan Chale Sasural,"Alka Yagnik, Kumar Sanu",Romantic
+1910,Bana Ke Kyon Bigada Re,Zanjeer,Lata Mangeshkar,Sad
+1911,Mausam Hai Bada Qatil,Chup Chup Ke,Sonu Nigam,Dance
+1912,Ram Narayan Baaja Bajaata,Saajan Chale Sasural,Udit Narayan,Dance
+1913,Ek Duje Ke Vaaste,Dil To Pagal Hai,"Hariharan, Lata Mangeshkar",Dance
+1914,Yeh Joker,Joker,"Shweta Pandit, Sonu Nigam",Dance
+1915,Ae Mohabbat Zindabad,Mughal-E-Azam,Mohammed Rafi,Sad
+1916,Daiyya Maiyya,Kill Dil,"Rasika Chandrashekhar, Shankar Mahadevan, Udit Narayan",Dance
+1917,Yaad Mein Teri,Mere Mehboob,"Lata Mangeshkar, Mohammed Rafi",Sad
+1918,Hum To Dil Chahen Tumhara,Soldier,"Hema Sardesai, Kumar Sanu",Romantic
+1919,Tumsa Koi Pyaara,Khuddar,"Alka Yagnik, Kumar Sanu",Romantic
+1920,Diwani Tum Jawanon Ki,Dayavan,"Jolly Mukherjee, Mohammad Aziz, Sapna Mukherjee",Dance
+1921,Vadiya,Udta Punjab,Amit Trivedi,Dance
+1922,Sukh Karta (Ganpati Aarti),Atithi Tum Kab Jaoge,Amit Mishra,Devotional
+1923,O Sathiya,Saaya,"Alka Yagnik, Udit Narayan",Dance
+1924,Chuee Muee,Himmat Aur Mehanat,"Asha Bhosle, Mohammed Aziz",Romantic
+1925,Flip Your Collar Back,Raja Natwarlal,Benny Dayal,Dance
+1926,In Kadmon Ke Neeche,Kya Kehna,"Alka Yagnik, Kumar Sanu",Dance
+1927,Mahek Bhi,Aiyyaa,Shreya Ghoshal,Romantic
+1928,Dance Basanti (Remix),Ungli,"Anushka Manchanda, Vishal Dadlani",Dance
+1929,Do Dilon Ke,Partition 1947,"Hariharan, Shreya Ghoshal",Patriotic
+1930,Mere Angne Mein,Laawaris,Amitabh Bachchan,Dance
+1931,Raat Ko Neend Aati Nahi,Judaai,"Alka Yagnik, Amit Kumar",Romantic
+1932,Saiyyan,1:13:7 Ek Tera Saath,"Aaman Trikha, Swati Sharma",Romantic
+1933,Mere Ghulam Tera,Laadla,"Alka Yagnik, Udit Narayan",Dance
+1934,Sehra,Do Lafzon Ki Kahani,Ankit Tiwari,Romantic
+1935,Sharma Ke Ye Kyon Sab Pardanashi,Chaudhvin Ka Chand,"Asha Bhosle, Shamshad Begum.",Dance
+1936,Pyar Ko Ho Jane Do,Dushman,"Kumar Sanu, Lata Mangeshkar",Romantic
+1937,Dil Darbadar,PK,Ankit Tiwari,Sad
+1938,Rind Posh Maal,Mission Kashmir,Shankar Mahadevan,Dance
+1939,Main Hoon Deewana Tera,Ek Paheli Leela,"Anjjan, Arijit Singh, Meet Bros",DanceRomantic
+1940,Kaun Hai Woh,Ishq Vishk,"Alisha Chinai, Udit Narayan",Dance
+1941,Raju Chacha,Raju Chacha,"Francis Menezes, Jatin-Lalit, Sehar, Shaan, Shraddha Pandit, Shweta Pandit, Sneha Pant",Dance
+1942,Ankhon Se Tune Yeh Kya,Ghulam,"Alka Yagnik, Kumar Sanu",Romantic
+1943,Tik Tuk,Rascals,"Daler Mehndi, Monali Thakur, Vishal Dadlani",Dance
+1944,Yunhi Kat Jaayega,Hum Hai Rahi Pyaar Ke,"Alka Yagnik, Kumar Sanu",Romantic
+1945,Ali Maula,Kurbaan,Salim Merchant,Motivational
+1946,Yaara Yaara,Hum Tum,"Alka Yagnik, Udit Narayan",Dance
+1947,Kahin Se Aayi Rani – Kahin Se Aaya Raja,Raju Chacha,"Amit Kumar, Ishwari, Kavita Krishnamurthy, Shraddha Pandit, Shweta",Dance
+1948,Khuda Nigheban Ho,Mughal-E-Azam,Lata Mangeshkar,Sad
+1949,Dhoop Ke Makaan Sa,Break Up Ke Baad,"Hitesh Sonik, Shekhar Ravjiani",Romantic
+1950,Chheda Mera Dil Ne Tarana,Asli Naqli,Mohammed Rafi,Dance
+1951,Beliya,Mehrunisa V Lub U,"Aditi Paul, Armaan Malik",Romantic
+1952,Mahi,Irada,"Harshdeep Kaur, Shabab Sabri",Sad
+1953,Aisa Deewana,Dil Maange More,Sonu Nigam,Romantic
+1954,Har Har Gange,Bhoothnath Returns,Aaman Trikha,Dance
+1955,Khambe Jaisi Khadi Hai,Dil,Udit Narayan,DanceRomantic
+1956,Saawan Mein Lag Gayi Aag,Woodstock Villa,Mika Singh,Dance
+1957,Dhoom Dhaam,Action Jackson,"Ankit Tiwari, Palak Muchhal",Romantic
+1958,Aayi Re Aayi Re Khushi,Khushi,Sunidhi Chauhan,Dance
+1959,Mera Jahan,Taare Zameen Par,"Adnan Sami, Ananya Wadkar, Auriel Cordo",Sad
+1960,Let It Be,Desi Boyz,Shaan,Dance
+1961,Dua,Kurbaan,"Kailash Kher, Marianne D'cruz Aiman, Sukhwinder Sing",Dance
+1962,Badlapur,Badlapur,Multiple,Dance
+1963,Jab Chaye Tera Jadoo,Main Aur Charles,Kanika Kapoor,Dance
+1964,Gulon Mein Rang Bhare,Haider,Arijit Singh,Sad
+1965,Main Hi Main Hoon,Ram Teri Ganga Maili,Suresh Wadkar,Romantic
+1966,Yaad Teri Yaad,Jawani Diwani: A Youthful Joyride,"Abhijeet Sawant, Shreya Ghoshal",Dance
+1967,Shabe Firaq,Chup Chup Ke,"Himesh Reshammiya, Tulsi Kumar",Dance
+1968,Andaz Mera Mastana,Dil Apna Aur Preet Parai,Lata Mangeshkar,Dance
+1969,Pyaar Kar,Single,"Kavita Krishnamurthy, Shaan, Udit Narayan",Dance
+1970,Right Now (Remix),Housefull 2,"Sunidhi Chauhan, Suzzane De Mello, Wajid",Dance
+1971,Aao Na,Haider,Vishal Dadlani,Dance
+1972,Tere Pyar Mein Dildar,Mere Mehboob,Lata Mangeshkar,Dance
+1973,Hai Isi Men Pyar Ki Abroo,Anpadh,Lata Mangeshkar,Sad
+1974,Jhelum,Haider,Vishal Bhardwaj,Sad
+1975,Yaad Aayee,Muskaan,Adnan Sami,Romantic
+1976,Yaari Yaari,Purani Jeans,Ram Sampath,Bollywood
+1977,Hai Jaana Hai Jaana,Pukar,Sujatha Mohan,Dance
+1978,F.U.N. Fun Funaa,Luv Ka The End,Ali Zafar,Dance
+1979,Muh Meetha Kara De,Rabba Main Kya Karoon,"Benny Dayal, Monali Thakur",Dance
+1980,Mere Khwabon Ka,Jism,Udit Narayan,Romantic
+1981,Mera Karma Tu,Karma,"Manhar Udhas, Mohammed Aziz, Suresh Wadkar",Patriotic
+1982,Jumme Kie Raat Hai (Remix),Kick,"Mika Singh, Palak Muchhal",Dance
+1983,Poore Chand,Goliyon Ki Rasleela Ram-leela,Shail Hada,Romantic
+1984,Janeman Ek Nazar Dekh Le,Mere Mehboob,"Asha Bhosle, Lata Mangeshkar",Dance
+1985,O Maa Tujhe Salaam,Khal Nayak,Jagjit Singh,Devotional
+1986,Holi Aayi Re,Mashaal,"Kishore Kumar, Lata Mangeshkar, Mahendra Kapoor",Dance
+1987,Aaja Mahiya,Yaadein,"Alka Yagnik, Udit Narayan",Dance
+1988,O Haseena Zulfonwale Jane Jahan,Teesri Manzil,"Asha Bhosle, Mohammed Rafi",Dance
+1989,Mora Gora Ang Laile,Bandini,Lata Mangeshkar,Romantic
+1990,Rangreza,Rangreza,"Abhijeet Sawant, Pragya Patra",Romantic
+1991,Sunny Sunny (Remix),Yaariyan,"Neha Kakkar, Yo Yo Honey Singh",Dance
+1992,Koshampa,Kaanchi,"Aaman Trikha, Anweshaa, Sanchita Bhattacharya",Dance
+1993,Sweety,Bobby Jasoos,"Aishwarya Nigam, Monali Thakur",Dance
+1994,Sheher Mein,Rockstar,"Karthik, Mohit Chuahaan",Dance
+1995,Mujhpe Har Haseena,Ishq Vishk,"Alisha Chinai, Kumar Sanu, Sonu Nigam",Dance
+1996,Mitra,Band Baaja Baaraat,"Amitabh Bhattacharya, Salim Merchant",Sad
+1997,Insaaf Ki Dagar Pe Bachchon Dikhaao Chal Ke,Gunga Jumna,Hemant Kumar,Motivational
+1998,Tu Hi Tu,Nautanki Saala,Ayushman Khurana,Romantic
+1999,No. 1 Punjabi,Chori Chori Chupke Chupke,"Jaspinder Narula, Sonu Nigam",Dance
+2000,Jeeley Yeh Lamhe,Days Of Tafree,"Amit Mishra, Anupam Amod",Dance
+2001,Aaur Main Khush Hoon,Kahaani 2,Ash King,Dance
+2002,Alvida,Luv Shv Pyar Vyar,Mohammed Irfan,Romantic
+2003,Bachalo Bachalo,Khullam Khulla Pyaar Karen,"Alka Yagnik, Sonu Nigam",Dance
+2004,Tujhpe Fida,Heroine,"Shraddha Pandit, Sulaiman Merchant",Dance
+2005,Kya Mil Gaya Hay Kya Kho Gaya,Sasural,"Lata Mangeshkar, Mohammed Rafi",Dance
+2006,Chittiyaan Kalaiyaan (Remix),Roy,"Kanika Kapoor, Meet Bros",Dance
+2007,Bumbro Bumbro,Mission Kashmir,"Jaspinder Narula, Shankar Mahadevan, Sunidhi Chauhan",Dance
+2008,Khul Kabhi Toh,Haider,Arijit Singh,Romantic
+2009,Pankhon Ko,Rocket Singh,Salim Merchant,Sad
+2010,Miliyo Re,Monsoon Shootout,"Monali Thakur, Rochak Kohli",Sad
+2011,Maula Sun Le Re,Madras Cafe,Papon,Sad
+2012,Sweeta,Kill Dil,Adnan Sami,Dance
+2013,Hona Hai Kya,Talaash,Ram Sampath,Dance
+2014,Ram Kare Aisa Ho Jaye,Milan,Mukesh,Romantic
+2015,Catch Me If U Can,Force 2,Amaal Mallik,Dance
+2016,Kabhi Tu Chalia Lagta Hai,Patthar Ke Phool,"Lata Mangeshkar, S.P. Balasubrahmanyam",Dance
+2017,Lakhon Tare Aasman Per,Hariyali Aur Rasta,"Lata Mangeshkar, Mukesh",Sad
+2018,Farrata,Tumhari Sulu,"Adityan, Armaan Malik",Dance
+2019,Ye Mera Dil Pagal Hai,Gardish,"Asha Bhosle, S.P. Balasubrahmanyam",Dance
+2020,Tune Maari Entriyaan (Remix),Gunday,"Bappi Lahiri, KK, Neeti Mohan, Vishal Dadlani",Dance
+2021,Dushman Dil Ka Jo,Roop Ki Rani Choron Ka Raja,Kavita Krishnamurthy,Dance
+2022,Deewane Hai Deewanon Ko,Zanjeer,"Lata Mangeshkar, Mohammed Rafi",Dance
+2023,Good Morning India,Khushi,Sonu Nigam,Dance
+2024,Aap Aye To Khayal,Gumrah,Mahendra Kapoor,Romantic
+2025,Holi Khelein,Begum Jaan,"Anmol Malik, Shreya Ghoshal",Dance
+2026,Kar Doon Kamaal,Mujhse Shaadi Karogi,"Sukhwinder Singh, Sunidhi Chauhan",Dance
+2027,Bekas Pe Karam Kijiye,Mughal-E-Azam,Lata Mangeshkar,Sad
+2028,Haath Chhute Bhi,Pinjar,Jagjit Singh,Sad
+2029,Yaadan Teriyan,Dil Diya Hai,Himesh Reshammiya,Sad
+2030,Is Shaane Karam Ka – Qawali,Kachche Dhaage,Nusrat Fateh Ali Khan,Devotional
+2031,Zulf Ki Chhaon Mein,Phir Wohi Dil Laya Hoon,"Asha Bhosle, Mohammed Rafi",Romantic
+2032,Jhoom Barabar Jhoom,Policegiri,"Aaman Trikha, Pawni Pandey, Shabab Sabri, Vineet Singh",Dance
+2033,Chhil Gaye Naina,NH 10,"Dipanshu Pandit, Kanika Kapoor",Sad
+2034,Jab Tum (Female),Shaadi Abhi Baaki Hai,Shreya Ghoshal,Romantic
+2035,Tandav,Chaalbaaz,,Dance
+2036,Tu Mujhe Suna,Chandni,"Nitin Mukesh, Suresh Wadkar",Romantic
+2037,Kabhi Khushboo,Saaya,K.K.,Sad
+2038,Matari Kotmari Tumba,Jis Desh Mein Ganga Rehta Hai,Atul Kale,Dance
+2039,Haule Haule (Remix),Rab Ne Bana Di Jodi,"Hard Kaur, Sukhwinder Singh",Dance
+2040,Horn OK Please,Dedh Ishqiya,"Anushka Manchanda, Sukhwinder Singh, Yo Yo Honey Singh",Dance
+2041,Raah Mein Un Se,Vijaypath,"Alka Yagnik, Kumar Sanu",DanceRomantic
+2042,Nazar Bachakar Chale Gaye Woh,Dil Tera Deewana,Mohammed Rafi,Romantic
+2043,Gudiya Rani,Lamhe,Lata Mangeshkar,Dance
+2044,Saara Saara Din Tum Kaam Karoge,Nigahen,Kavita Krishnamurthy,Romantic
+2045,Maine Pyar Kiya,Maine Pyar Kiya,"Lata Mangeshkar, S.P. Balasubrahmanyam",Dance
+2046,Haila Haila,Koi Mil Gaya,"Alka Yagnik, Udit Narayan",Dance
+2047,Dil Ye Ladaku,Saala Khadoos,Monali Thakur,Romantic
+2048,Pyaar Se Pyaar,Raaz,Abhijeet,Dance
+2049,Gunja Re Chandan,Nadiya Ke Paar,"Hemlata, Suresh Wadkar",Romantic
+2050,Ek Garam Chai Ki Pyali,Har Dil Jo Pyar Karega,Anu Malik,Dance
+2051,Noor E Khuda,My Name is Khan,"Adnan Sami, Shankar Ehsaan Loy, Shankar Mahadevan, Shreya Ghoshal",Motivational
+2052,Saadi Galli Aaja (Remix),Nautanki Saala,Ayushman Khurana,Dance
+2053,Tera Saath Ho,7 Welcome To London,Falak Shabir,Romantic
+2054,Odhli Chunariya Tere Naam Ki,Pyaar Kiya To Darna Kya,"Alka Yagnik, Kumar Sanu",Dance
+2055,Lakh Chhupao Chhup Na Sakega,Asli Naqli,Lata Mangeshkar,Dance
+2056,Parinda,Jab Harry Met Sejal,Pardeep Sran,Bollywood
+2057,Naraaz Savera Hai,Sangharsh,Kumar Sanu,Sad
+2058,Tumse Pyar Ho Gaya,Shaadi Ke Side Effects,"Mili Nair, Neeti Mohan",Dance
+2059,Jaane Ye Kya Hua,Karthik Calling Karthik,KK,Romantic
+2060,Yeh Haseen Vadiyan Yeh Khula Aasman,Roja,"K. S. Chithra, S. P. Balasubramanyam",Romantic
+2061,Yaariyan Mashup,Yaariyan,Multiple,Dance
+2062,Main Hoon Roop Ki Rani,Roop Ki Rani Choron Ka Raja,Kavita Krishnamurthy,Dance
+2063,Prem Jogan Ban Ke,Mughal-E-Azam,Ustad Bade Ghulam Ali,Sad
+2064,Baap Ki Kasam,Mawaali,"Asha Bhosle, Kishore Kumar",Dance
+2065,Dil Jaane Jigar Tujhpe Nisar Kiya Hai,Saajan Chale Sasural,"Alka Yagnik, Kumar Sanu",Romantic
+2066,Ye Awaaz Hai,Indu Sarkar,Monali Thakur,Sad
+2067,Jawani Ki Rail Kahin Choot Na Jaye,Coolie,"Anuradha, Shabbir Kumar",Dance
+2068,Kuch To Baaki Hai,Milenge Milenge,Himesh Reshammiya,Sad
+2069,Main Pyar Ka Rahi Hoon,Ek Musafir Ek Hasina,"Asha Bhosle, Mohammed Rafi",Romantic
+2070,Kay Sera Sera,Pukar,"Kavita Krishnamurthy, Shankar Mahadevan",Dance
+2071,Leke Pahla Pahla Pyar,C.I.D,"Asha Bhosle, Mohammed Rafi, Shamshad Begum.",Dance
+2072,Jiya Dhadak Dhadak Jaye,Kalyug,Rahat Fateh Ali Khan,Romantic
+2073,Ek Tha Tiger Mashup,Ek Tha Tiger,Multiple,Dance
+2074,Gore Mukhde Pe Zulfa Di Chaava,Special 26,"Aaman Trikha, Shabab Sabri, Shreya Ghoshal",Dance
+2075,Ae Ishq Yeh Sab Duniyawale,Mughal-E-Azam,Lata Mangeshkar,Romantic
+2076,Kaun Main Haan Tum,Ajnabee,"Alka Yagnik, Udit Narayan",Dance
+2077,Shikayat Hai,Jism,Roop Kumar Rathod,Sad
+2078,Hai Hai Mirchi,Biwi No.1,"Alka Yagnik, Sukhwinder Singh",Dance
+2079,Ruk Ja O Janewali Ruk Ja,Kanhaiya,Mukesh,Dance
+2080,Majboor Tu Bhi Kahin,1920 - Evil Returns,Amit Mishra,Sad
+2081,Soniye Mil Ja,Aaja Nachle,"Sukhwinder Singh, Sunidhi Chauhan",Bollywood
+2082,Aao Milo Chalo,Jab We Met,"Shaan, Ustad Sultan Khan",Dance
+2083,Happy Ending,Tees Maar Khan,"Abhijeet Sawant, Debojit Saha, Harshit Saxena",Dance
+2084,O Jogi Jab Se Tu Aaya Mere Dwar,Bandini,Lata Mangeshkar,Dance
+2085,Meri Qismat Men Tu Nahin Shayad,Prem Rog,"Lata Mangeshkar, Suresh Wadkar",Sad
+2086,Chanchal Mann Ati Random,Shuddh Desi Romance,Divya Kumar,Dance
+2087,Purza,Akira,Arijit Singh,Dance
+2088,Ab Mujhko Jeena,Aashayein,Zubeen Garg,Dance
+2089,Chaar Botal Vodka (Remix),Ragini MMS 2,,Dance
+2090,Dheemi Dheemi,1947: Earth,Hariharan,Romantic
+2091,Dil Me Kayi Armaan,Yeh Hai Judgement Hanged Till Death,Aaman Trikha,Sad
+2092,Aahista Aahista,Bachna Ae Haseeno,"Lucky Ali, Shreya Ghoshal",Romantic
+2093,Sooraj Dooba Hai Yaron (Remix),Roy,"Aditi Singh Sharma, Arijit Singh",Dance
+2094,O Aasman Wale,Aaja Meri Jaan,Sonu Nigam,Sad
+2095,Bawla Sa Sapna,Shaadi Ke Side Effects,"Chorus, Diva",Dance
+2096,Bheegh Loon (Male),Khamoshiyan,Ankit Tiwari,Romantic
+2097,The Mutton Song,Love Ka The End,Krishna Beura,Dance
+2098,O Basanti Pavan,Jis Desh Mein Ganga Behti Hai,,Dance
+2099,Yeh Umar Hai Kya,Professor,"Asha Bhosle, Manna Dey",Dance
+2100,Mein Sharabi (Remix),Cocktail,Yo Yo Honey Singh,Dance
+2101,Poore Se Zara Sa Kam Hain,Mausam,Rashid Khan,Sad
+2102,Brothers Mashup,Brothers,Multiple,Dance
+2103,Mili Khaak Mein Mohabbat,Chaudhvin Ka Chand,Mohammed Rafi,Sad
+2104,Laila Majnu,Awesome Mausam,"Javed Ali, Monali Thakur",Dance
+2105,Dekho Dekho Dil Ye Bole,Dhamaal,"Adnan Sami, Shaan",Dance
+2106,Na Main Dhan Chahun,Kala Bazar,"Geeta Dutt, Sudha Malhotra",Sad
+2107,Anandoloke,Kahaani 2,Clinton Cerejo,Dance
+2108,Kahan Chal Diye Idhar To Aao,Jhuk Gaya Aasman,Mohammed Rafi,Romantic
+2109,Aaya Aaya Toofan,Toofan,Kishore Kumar,Dance
+2110,Monta Re,Lootera,Amit Trivedi,Sad
+2111,Mere Mehboob Mein Kya Nahin,Mere Mehboob,"Asha Bhosle, Lata Mangeshkar",Dance
+2112,Kal Ki Daulat Aaj Ki Khushian,Asli Naqli,Mohammed Rafi,Dance
+2113,Saiyan Se Chhup Ke,Beta,"Anuradha Paudwal, Udit Narayan",Dance
+2114,Sau Saal Pehle,Jab Pyar Kisi Se Hota Hai,"Lata Mangeshkar, Mohammed Rafi",Romantic
+2115,G Phaad Ke (Remix),Happy Ending,"Divya Kumar, Shefali Alvarez",Dance
+2116,Mere Maula,Khakee,"Kailash Kher, Richa Sharma",Sad
+2117,Sajna Ve,Life is Beautiful,Rahat Fateh Ali Khan,Sad
+2118,Mirzya,Mirzya - Dare To Love,"Akhtar Chanal Zahri, Daler Mehndi, Nooran Sisters, Sain Zahoor",Motivational
+2119,Sheesha-E-Dil Itna Na Uchhalo,Dil Apna Aur Preet Parai,Lata Mangeshkar,Dance
+2120,Tanu Weds Manu Returns (Mashup),Tanu Weds Manu Returns,Various,Dance
+2121,Party All Night,Boss,Yo Yo Honey Singh,Dance
+2122,Party All Night (Remix),Boss,Yo Yo Honey Singh,Dance
+2123,Jai Govinda Jai Gopala,Bullett Raja,Neeraj Shridhar,Dance
+2124,Tera Hi Karam,Karam,Pankaj Awasthi,Sad
+2125,Rang Birangi Rakhee Lekar,Anpadh,Lata Mangeshkar,Dance
+2126,Woh Chand Jaisi Ladki,Devdas,Udit Narayan,Romantic
+2127,Woh Chand Jaisi Ladki,Devdas,Udit Narayan,Romantic
+2128,Dooriyan Hain Zaroori Bhi Hai,Break Up Ke Baad,"Monica Dogra, Vishal Dadlani",Dance
+2129,Main Hoon Prem Rogi,Prem Rog,Suresh Wadkar,Dance
+2130,Jag Ja,Omkara,Suresh Wadkar,Romantic
+2131,Tumhi Se,Chup Chup Ke,"Shreya Ghoshal, Vijay Yesudas",Romantic
+2132,Main Kya Karoon Ram,Sangam,Lata Mangeshkar,Dance
+2133,Na Jane Kahan Tum The,Zindagi Aur Khwab,"Manna Dey, Suman Kalyanpur",Romantic
+2134,Meherbani (Remix),The Shaukeens,Jubin Nautiyal,Dance
+2135,Jab Zero Diya Mere Bharat Ne,Purab Aur Pashchim,"Mahendra Kapoor, Manhar Udhas",Patriotic
+2136,Hum Tumhe Kaise Bataye,Ekkees Toppon Ki Salaami,"Aaman Trikha, Taraannum Mallik",Romantic
+2137,Rimjhim Ke Tarane Leke Aai Barsaat,Kala Bazar,"Geeta Dutt, Mohammed Rafi",Romantic
+2138,Kunwara,Jodi Breakers,Salim Merchant,Dance
+2139,Ja Ja Ja Mere Bachpan,Junglee,Lata Mangeshkar,Dance
+2140,O Panchhi Pyare Sanjh Sakare,Bandini,Asha Bhosle,Dance
+2141,Banda Parwar,Phir Wohi Dil Laya Hoon,Mohammed Rafi,Dance
+2142,Mera Jeena Hai Kya,Aashayein,Neeraj Shridhar,Romantic
+2143,Yeh Hai Bambai Nagaria,Don,Kishore Kumar,Dance
+2144,Masoom Chehra Ye Qatil Adayen,Dil Tera Deewana,"Lata Mangeshkar, Mohammed Rafi",Romantic
+2145,Shanana Na,Maine Dil Tujhko Diya,"Abhijeet, Alka Yagnik, Ayub, Dabboo Malik, Jordy Patel, Sriijiit",Dance
+2146,Mehboob Mere,Biwi No.1,"Alka Yagnik, Sukhwinder Singh",Dance
+2147,Rote Hue Ate Hain Sab,Muqaddar Ka Sikandar,Kishore Kumar,Dance
+2148,Tujhko Jo Paaya,Crook,Mohit Chauhan,Romantic
+2149,Pe.. Pe.. Pepein… (Version 2),Chance Pe Dance,"Hard Kaur, Master Saleem, Neeraj Shridhar, Tulsi Kumar",Dance
+2150,Touch Me,Himmat Aur Mehanat,"Asha Bhosle, Kishore Kumar",Romantic
+2151,Samjho Ho Hi Gaya,Lage Raho Munna Bhai,"Arshad Warsi, Sanjay Dutt, Vinod Rathod",Dance
+2152,Miss India Martee Mujhpe,Dhamal,"Adnan Sami, Amit Kumar",Dance
+2153,Kashmir Ki Kali Hoon Main,Junglee,Lata Mangeshkar,Romantic
+2154,Barsaat Ke Mausam Mein,Naajayaz,"Kumar Sanu, Roop Kumar Rathod",Dance
+2155,Chammak Challo (Remix),Ra-One,"Akon, Hamsika Iyer",Dance
+2156,Aaj Udta Hua Ek Panchhi,Gehra Daag,Mohammed Rafi,Dance
+2157,Ek Tu Hi Bharosa,Pukar,Lata Mangeshkar,Devotional
+2158,Dhanak,Dhanak,Monali Thakur,Dance
+2159,Bhaag Milky Bhaag,Running Shaadi,"Sanam Puri, Sonu Kakkar",Dance
+2160,Follow Me,Ajab Prem Ki Ghazab Kahani,Hard Kaur,Dance
+2161,Mil Gaya,Unees Bees,"Mohammed Rafi, Udit Narayan, Usha Mangeshkar",Dance
+2162,Paayal Meri,Rajkumar,"Alka Yagnik, Udit Narayan",Dance
+2163,Sanam Tum Jahan Mera Dil Wahan,Kaalia,Asha Bhosle,Dance
+2164,Koi Patthar Se Na Maare,Aaja Nachle,"Shreya Ghoshal, Sonu Nigam, Sunidhi Chauhan",Sad
+2165,Sun Le Meri Payal Ke Geet,Sasural,Lata Mangeshkar,Dance
+2166,Le Jaa Tu Mujhe,F.A.L.T.U,Atif Aslam,Bollywood
+2167,Dil Mein Baji Pyar Ki Shehnaiyan,Kohinoor,Lata Mangeshkar,Dance
+2168,Darbadar,I Me Aur Main,"Altamash Khan, Divya Kumar, Harshit Chouhan, Monali Thakur, Shadaab",Romantic
+2169,Main Teri Huyi Re Balma,Gehra Daag,Asha Bhosle,Dance
+2170,Ek Din Aap,Yes Boss,"Alka Yagnik, Kumar Sanu",DanceRomantic
+2171,Party To Banti Hai (Remix),Bhoothnath Returns,"Meet Bros, Mika Singh",Dance
+2172,Kuch Khaas,Fashion,"Mohit Chauhan, Neha Bhasin",Dance
+2173,Baatein Kuch Ankahee,Life In A Metro,"Adnan Sami, Pritam Chakraborty",Romantic
+2174,Aaj Ki Party (Remix),Bajrangi Bhaijaan,Mika Singh,Dance
+2175,Ae Watan Ae Watan Humko Teri Qasam,Shaheed,Mohammed Rafi,Patriotic
+2176,Ajnabi,Madras Cafe,Zebunnisa Bangash,Romantic
+2177,Peer Manava,Black & White,"Shraddha Pandit, Sukhwinder Singh",Dance
+2178,Kehta Hai Joker Sara Zamana,Mera Naam Joker,Mukesh,Dance
+2179,Dil Mein Sanam Ki Soorat,Phir Teri Kahani Yaad Aayi,"Alka Yagnik, Kumar Sanu",Romantic
+2180,Tanhai Tanhai,Koyla,"Alka Yagnik, Udit Narayan",Dance
+2181,Woh Dekho Jala Ghar Kisi Ka,Anpadh,Lata Mangeshkar,Sad
+2182,Zara Nazron Se Kah Do Ji,Bees Saal Baad,Hemant Kumar,Romantic
+2183,Chaar Botal Vodka (Remix),Ragini MMS 2,Yo Yo Honey Singh,Dance
+2184,Jab Tumhein Aashiqui Maloom,Ajnabee,Kumar Sanu,Romantic
+2185,Yaaron Aesa Hai,Rangrezz,Salim Merchant,Dance
+2186,Tere Ishq Ka Suroor,Single,"Aaman Trikha, Akshata Dixit",Romantic
+2187,Ek Sawal Main Karoon,Sasural,"Lata Mangeshkar, Mohammed Rafi",Dance
+2188,It’s All About Tonight,Ishkq In Paris,"Rahul Vaidya, Sophie Choudry, Sunidhi Chauhan",Dance
+2189,Dil Mera Ek Aas Ka Panchhi,Aas Ka Panchhi,Subir Sen,Dance
+2190,Jaane Kya Dhoondhta Hai,Sur,Lucky Ali,Dance
+2191,Sanam Sanam,Mere Dost Picture Abhi Baki Hai,"Shraddha Pandit, Sukhwinder Singh",Dance
+2192,Yahaan Vahaan,Shaadi Ke Side Effects,Farhan Akhtar,Dance
+2193,Bambai Se Aaya Mera Dost,Aap Ki Khatir,Bappi Lahiri,Dance
+2194,Dhin Tak Dhin Tak,Bade Miyan Chote Miyan,Jaspinder Narula,Romantic
+2195,Tujhe Dekh Dekh,Kalyug,Rahat Fateh Ali Khan,Bollywood
+2196,Capuchino,I Me Aur Main,Abhishek Nehwal,Dance
+2197,Chalo Dildar Chalo,Dil Diya Hai,"Himani Kapoor, Himesh Reshammiya, Vinit",Romantic
+2198,Mil Gayee Woh Manzilen,Kabhi Na Kabhi,"Alka Yagnik, Kumar Sanu",Dance
+2199,Jaane Kya,Pyaar Ke Side Effects,Zubeen Garg,Sad
+2200,Main Der Karta Nahin,Henna,"Lata Mangeshkar, Suresh Wadkar",Dance
+2201,Gunday Mashup,Gunday,"Bappi Lahiri, Javed Ali, Neha Bhasin",Dance
+2202,Gunday Mashup,Gunday,Multiple,Dance
+2203,Sheila Ki Jawani (Remix),Tees Maar Khan,"Sunidhi Chauhan, Vishal Dadlani",Dance
+2204,Laakh Duniya Kahe,Talaash,"Nisha Mascarenhas, Ram Sampath",Sad
+2205,Ha Raham Mehfuz,Aamir,"Amit Trivedi, Murtuza Qadir",Dance
+2206,Jiyara Jiyara,Prince,"Alisha Chinai, Hard Kaur",Dance
+2207,All The Best,All The Best,"Antara Mitra, Rana, Soham",Dance
+2208,Mallo Malli (Lehmber Hussainpuri),Mausam,"Hard Kaur, Lehmber Hussainpuri",Dance
+2209,Freak Out,Love Ka The End,"Aditi Singh Sharma, Joi Barua",Dance
+2210,Ab Tohe Jane Na Doongi,Bajirao Mastani,"Payal Dev, Shreyas Puranik",Romantic
+2211,Jugnu,Joker,Udit Narayan,Dance
+2212,Sajda,Bhool Bhulaiyaa,K.K.,Dance
+2213,Aha Aha,Na Tum Jaano Na Hum,Falguni Pathak,Romantic
+2214,Dil Ka Qaraar,Sangharsh,"Shraddha Pandit, Sonu Nigam",Romantic
+2215,Wafa Jo Na Ki To,Muqaddar Ka Sikandar,Asha Bhosle,Romantic
+2216,Raabta Tujhse Raha,Yeh Hai Judgement Hanged Till Death,Aaman Trikha,Romantic
+2217,Teri Tamanna,The Train,"KK, Shilpa Rao, Zubeen Garg",Dance
+2218,Lage Na Mora Jiya,Ghunghat,Lata Mangeshkar,Sad
+2219,Jane Kya Dhoondti Rahti Hai,Shola Aur Shabnam,Mohammed Rafi,Sad
+2220,Mujhe Dekhkar Aap Ka Muskurana,Ek Musafir Ek Hasina,Mohammed Rafi,Romantic
+2221,E – Gulbadan Phoolon Ki Mahek,Professor,Mohammed Rafi,Romantic
+2222,Chahat Se Hai Begani,Saajan Chale Sasural,"Alka Yagnik, Kumar Sanu",Romantic
+2223,Action Jackson,Action Jackson,Multiple,Dance
+2224,Tujhko Bhulana,Murder 2,"Roshni Baptist, Sangeet Haldipur",Dance
+2225,Chodo Kal Ki Batein,Hum Hindustani,Mukesh,Patriotic
+2226,Dooba Re Dooba,Ishq Vishk,"Alka Yagnik, Sonu Nigam",Dance
+2227,Dillagi Main Jo Beet Jaye,Aashiq Banaya Aapne,"Himesh Reshammiya, Jayesh Gandhi, Shaan, Sonu Nigam, Sunidhi Chauhan, Vasundhara Das",Dance
+2228,Tere Chehre Pe,Baazigar,"Kumar Sanu, Sonali Vajpai",Romantic
+2229,Khulla Saand,Rabba Main Kya Karoon,Salim Merchant,Dance
+2230,Rang Se Hui,Gulaab Gang,Kaushiki Chakraborty,Dance
+2231,Yeh Hawa Yeh Fiza Aa Bhi Jaa,Gumrah,Mahendra Kapoor,Romantic
+2232,Meri Jaaniye,I Me Aur Mein,"Monali Thakur, Shaan",Dance
+2233,Tumhen Muhabbat Hai Humne Mana,Ek Musafir Ek Hasina,"Asha Bhosle, Mohammed Rafi",Romantic
+2234,Dhadakne Lagta Hai Mera Dil,Dil Tera Deewana,Mohammed Rafi,Dance
+2235,Aiyo Ji,Satyagraha,"Salim Merchant, Shraddha Pandit",Dance
+2236,Dagabaaz Tori Batiyan,Gunga Jumna,Lata Mangeshkar,Romantic
+2237,Teri Yaad Dilse Bhulane Chala Hoon,Hariyali Aur Rasta,Mukesh,Sad
+2238,I Don’t Luv U,I Don't Luv U,"Monali Thakur, Neuman Pinto",Dance
+2239,Meter Down,Taxi No. 9211,"Adnan Sami, Merriene, Nimosa",Dance
+2240,Zor Ka Jhatka Haye (Remix),Action Replayy,"Master Saleem, Richa Sharma",Dance
+2241,Dil Apna Aur Preet Parai,Dil Apna Aur Preet Parai,Lata Mangeshkar,Sad
+2242,Ali Ali – Qawwali,Deewaar,"Krishna Beura, Shraddha Pandit, Vijayta Pandit",Devotional
+2243,Kudi Pataka Driver,Challo Driver,"Hard Kaur, Mika Singh",Dance
+2244,Dil Jalon Ka Dil Jala Ke,Zanjeer,Asha Bhosle,Dance
+2245,Teri Choodiyan Da Crazy Crazy Sound,Ishkq In Paris,Wajid Khan,Dance
+2246,Kubool Kar Le,Jaan-E-Mann,"Amit Sana, Monali Thakur, Prajakta Shukre, Rahul Vaidya, Suzanne, Udit Narayan",Dance
+2247,Gaaye Jaa (Male),Brothers,Mohammed Irfan,Dance
+2248,Sing Raja,Joker,"Daler Mehndi, Sonu Kakkar",Dance
+2249,Alif Zaber Aa,Love In Shimla,Mohammed Rafi,Dance
+2250,Apni Bhi Kya Zindagi Hai,Aas Ka Panchhi,Mukesh,Sad
+2251,Dil Ashkon Mein,Fever,"Sonu Kakkar, Tony Kakkar",Romantic
+2252,Jaana Hai,Dum Maaro Dum,Zubeen Garg,Dance
+2253,Badan Juda Hote Hain,Koyla,"Falguni Pathak, Kumar Sanu",Bollywood
+2254,Naiyn Tere Zuke Zuke (Sad),Khelein Hum Jee Jaan Sey,Pamela Jain,Dance
+2255,Daagh Na Lag Jaye,Mera Naam Joker,"Asha Bhosle, Mukesh",Dance
+2256,Mahi Mennu Nahi Karna,Dev D,Labh Janjua,Dance
+2257,Khullam Khulla Pyaar Karen,Khullam Khulla Pyaar Karen,"Jojo Mukherjee, Sunidhi Chauhan",Dance
+2258,Babbe Mast,What The Fish,"ALTAMAS FARIDI, Sonu Kakkar",Dance
+2259,Gori Zara Hans De Tu Hans De,Asli Naqli,Mohammed Rafi,Dance
+2260,Mat Ro Mata Lal Tere,Bandini,Manna Dey,Sad
+2261,Bismillah,Aazaan,Kailash Kher,Sad
+2262,Shukriya Zindagi Shukriya Zindagi,Aashayein,Shafqat Amanat Ali,Romantic
+2263,O Janewale Ho Sake To Laut Ke Aana,Bandini,Mukesh,Sad
+2264,Aanchal Men Saja Lena,Phir Wohi Dil Laya Hoon,Mohammed Rafi,Romantic
+2265,Tum Paas Aa Rahe Ho,Veer Zaara,"Jagjit Singh, Lata Mangeshkar",Romantic
+2266,Badle Badle Mere Sarkar,Chaudhvin Ka Chand,Lata Mangeshkar,Sad
+2267,Ab Ke Baras Bhejo Bhaiya,Bandini,Asha Bhosle,Sad
+2268,Din Dhal Gaya Hai,Dil Tera Deewana,"Alka Yagnik, Udit Narayan",Dance
+2269,Baadal,Yuva,"Adnan Sami, Alka Yagnik",Dance
+2270,Chori Chori Chori Se,Sooryavansham,"Amitabh Bachchan, Jaspinder Narula, Sonu Nigam",Dance
+2271,Haseenon Ki Sawari Hai,Love In Shimla,"Mohammed Rafi, Suman Kalyanpur",Dance
+2272,Kaisi Hai Ye Udaasi,Karthik Calling Karthik,Kailash Kher,Sad
+2273,Haan Bhai Haan,Toofan,"Amit Kumar, Anuradha Paudwal",Dance
+2274,Nasha Nasha,Daddy Cool,Neha Bhasin,Dance
+2275,Apni To Har Aah,Kala Bazar,Mohammed Rafi,Sad
+2276,Ho Maine Pyar Kiya,Jis Desh Mein Ganga Behti Hai,Lata Mangeshkar,Dance
+2277,Chal Jhoothi,Jis Desh Mein Ganga Rehta Hai,"Shraddha Pandit, Udit Narayan",Dance
+2278,Kaise Kahoon Main Baat Jiya Ki,Gehra Daag,Asha Bhosle,Romantic
+2279,Meri Jaaniye,I Me Aur Main,"Monali Thakur, Shaan",Romantic
+2280,Na Tum Jano Na Hum,Kaho Naa.... Pyaar Hai,Lucky Ali,Romantic
+2281,Jaane Bhi De (Duet),Ishkq In Paris,"Sonu Nigam, Sunidhi Chauhan",Romantic
+2282,Ae Dil Pyar Ki Manzil,Aas Ka Panchhi,Mukesh,Dance
+2283,Patli Kamar Hai,Barsaat,"Lata Mangeshkar, Mukesh",Dance
+2284,Lungi Dance (Remix),Chennai Express,Yo Yo Honey Singh,Dance
+2285,Yeh Zindagi Ka Mausam,Ghunghat,"Asha Bhosle, Mohammed Rafi",Dance
+2286,Tumhen Pa Ke Humne Jahan Pa Liya,Gehra Daag,"Asha Bhosle, Mohammed Rafi",Romantic
+2287,Dhoop,Goliyon Ki Rasleela Ram-leela,Shreya Ghoshal,Romantic
+2288,Ghoongte Mein Chanda,Koyla,Udit Narayan,Dance
+2289,Hum Ko Tumhare Ishq Ne,Ek Musafir Ek Hasina,Mohammed Rafi,Romantic
+2290,Accident Ho Gaya,Coolie,"Asha Bhosle, Prayag Raj, Shabbir Kumar",Dance
+2291,Ainvayi Ainvayi (Dilli Club Mix),Band Baaja Baaraat,"Abhijit Vaghani, Master Saleem, Sunidhi Chauhan",Dance
+2292,Is Pal Ki Soch,Halla Bol,Harshdeep Kaur,Dance
+2293,Sach Hue Sapne Apne,Kala Bazar,Asha Bhosle,Dance
+2294,Rang De,My Name is Khan,"Shankar Mahadevan, Suraj Jagan",Motivational
+2295,Le Jaa,Karam,Pankaj Awasthi,Sad
+2296,Wah Wah Ram Ji,Hum Aapke Hain Koun,"Lata Mangeshkar, S.P. Balasubrahmanyam",Dance
+2297,Hay Re Insaan Ki Majbooriya,Ghunghat,Mohammed Rafi,Sad
+2298,Sanjh Dhali,Kala Bazar,"Asha Bhosle, Manna Dey",Romantic
+2299,Kabhi Kisi Ki Khushian Koi Loote Na,Zindagi Aur Khwab,Mukesh,Sad
+2300,Danka Bajega,Khel To Abb Shuru Hoga,Aaman Trikha,Dance
+2301,Ibn-E-Batuta,Ishqiya,Mika Singh,Dance
+2302,Dil To Bachcha Hai,Ishqiya,Rahat Fateh Ali Khan,Romantic
+2303,Dekhen Bhi To Kya Dekhen,Farz,"Lata Mangeshkar, Udit Narayan",Dance
+2304,Ae Baby Ae Jee Idhar Aao,Love In Shimla,"Asha Bhosle, Mohammed Rafi",Dance
+2305,Hamdam Mere,Phir Wohi Dil Laya Hoon,"Asha Bhosle, Mohammed Rafi",Dance
+2306,Band Baaja Baaraat Mashup,Band Baaja Baaraat,Multiple,Dance
+2307,Teetar Ke Do Aage Teetar,Mera Naam Joker,"Asha Bhosle, Mukesh, Simi Garewal",Dance
+2308,Shakira,No Problem,"Hard Kaur, Kalpana, Master Saleem",Dance
+2309,Shakira,No Problem,"Hard Kaur, Master Saleem, Pritam Chakraborty",Dance
+2310,Jiya Le Gayo Ji Mora Sanwariya,Anpadh,Lata Mangeshkar,Dance
+2311,Mori Chham Chham Baje Payaliya,Ghunghat,Lata Mangeshkar,Dance
+2312,G Pe Danda,Fugly,"Aaman Trikha, Pawni Pandey, Prashant Vadhyar",Dance
+2313,Lootnewale,Matru Ki Bijlee Ka Mandola,"Master Saleem, Sukhwinder Singh, Vishal Bhardwaj",Dance
+2314,Anjaana Anjaani Ki Kahani,Anjaana Anjaani,"Monali Thakur, Nikhil Dsouza",Sad
+2315,Teen Patti,Teen Patti,Salim Merchant,Dance
+2316,Khuda Hafiz Anjaani Anjaana,Yuva,"Karthik, Lucky Ali, Sunitha Sarathy",Dance
+2317,Jaane,Chameli,Sunidhi Chauhan,Sad
+2318,Awaara,7 Khoon Maaf,Master Saleem,Dance
+2319,Mera Mirza Sher Jawan,Mirzya - Dare To Love,Daler Mehndi,Sad
+2320,Dhoondo Dhoondo Re Sajna,Gunga Jumna,Lata Mangeshkar,Romantic
+2321,Kitna Pyara Ye Chehra,Beta,"Anuradha Paudwal, Inderjeet",Dance
+2322,Dil Ki Kahani Rang Layee Hai,Chaudhvin Ka Chand,Asha Bhosle,Dance
+2323,Party On My Mind (Remix),Race 2,"Shefali Alvares, Yo Yo Honey Singh",Dance
+2324,Jane Kahan Gayi,Dil Apna Aur Preet Parai,Mohammed Rafi,Dance
+2325,Mirza Se Darre Khuda Daler Mehndi,Mirzya - Dare To Love,Daler Mehndi,Motivational
+2326,Larki Deewani Dekho,Shastra,"Sunidhi Chauhan, Udit Narayan",Bollywood
+2327,Arre Yaaro Mere Pyaaro,Jo Jeeta Wohi Sikander,"Udit Narayan, Vijayeta Pandit",Bollywood
+2328,Reham Nazar Karo,Shirdi Saibaba,Mohammed Rafi,Devotional
+2329,Ae Bhai Zara Dekh Ke Chalo,Mera Naam Joker,Manna Dey,Dance
+2330,Bedardi Mere Saiyan,Chaudhvin Ka Chand,Asha Bhosle,Dance
+2331,Gaal Gulabi Kis Ke Hain,Love In Shimla,Mohammed Rafi,Dance
+2332,Bechayan Sapne,Romance Now,"Abhijeet Sawant, Gulraj Singh, Mahalakshmi Iyer, Sameer Khan, Shankar Mahadevan",Dance
+2333,Yeh Lucknow Ki Sar Zameen,Chaudhvin Ka Chand,Mohammed Rafi,Dance
+2334,Ab Mujhe Koi,Ishqiya,Rekha Bhardwaj,Sad
+2335,Mera Bandar Chala Sasural,Zindagi Aur Khwab,"Kamal Barot, Mohammed Rafi",Dance
+2336,O Lal Dupatte Wali,Aankhen,"Alka Yagnik, Kavita Krishnamurthy, Kumar Sanu, Sudesh Bhonsle",Romantic
+2337,O Lal Dupatte Wali,Aankhen,"Alka Yagnik, Kavita Krishnamurthy, Kumar Sanu, Sudesh Bhosle",Dance
+2338,Kehti Hai Jhuki Jhuki Nazar,Zindagi Aur Khwab,Suman Kalyanpur,Dance
+2339,Dil To Dete Nahin,Kaalia,Asha Bhosle,Dance
+2340,Ek Thi Ladki Meri Saheli,Gumrah,Asha Bhosle,Dance
+2341,Khoye Khoye Din Hain,Hum Tumhare Hain Sanam,"Anuradha Paudwal, Sonu Nigam",Dance
+2342,Baadalon Mein Chup Raha Chand,Phir Teri Kahani Yaad Aayee,"Alka Yagnik, Kumar Sanu",Romantic
+2343,Paaji Tussi Such A Pussy Cat (Remix),Happy Ending,"Amitabh Bhattacharya, Divya Kumar, Jigar Saraiya",Dance
+2344,Dil Na Kahin Lagana,Ghunghat,Asha Bhosle,Dance
+2345,Tan Rang Lo Ji Aaj Man Ranglo,Kohinoor,"Lata Mangeshkar, Mohammed Rafi",Dance
+2346,Gori Ghunghat Mein Mukhda,Ghunghat,Asha Bhosle,Dance
+2347,Azmale Ye Formulae,Khoobsurat,"Abhijeet, Shraddha Pandit",Dance
+2348,O Chhalia Re Chhalia,Gunga Jumna,"Asha Bhosle, Mohammed Rafi",Dance
+2349,Rang Deni,Dev,"Kailash Kher, Mahua Kamat, Shraddha Pandit",Dance
+2350,Is Nagari Mein,Bhopal Express,Jagjit Singh,Sad
+2351,Kateli Kateli Nasheli Nasheli,Zindagi Aur Khwab,Suman Kalyanpur,Dance
+2352,Love Ka Matlab Hai Pyar,Love In Shimla,"Asha Bhosle, Mohammed Rafi",Dance
+2353,Sau Tarah Ke (Revisited),Dishoom,"Abhijeet Sawant, Aditi Singh Sharma ·",Dance
+2354,khwab jo raag de,London Dreams,"Rahat Fateh Ali Khan, Shankar Mahadevan",Bollywood
+2355,Bhagwan Ek Qasoor Ki,Gehra Daag,Mohammed Rafi,Sad
+2356,Savaiyaa – Chhota Sa Saajan,Vivah,"Aparnaa Bhaagwat, Suresh Wadkar",Dance
+2357,Dil Tham Chale Hum Aaj Kidhar,Love In Shimla,Mohammed Rafi,Dance
+2358,Happy Ending Mashup,Happy Ending,Multiple,Dance
+2359,Koi Aisa Alam,Karam,"Mahalakshmi Iyer, Sonu Nigam",Romantic
+2360,Rikshe Pe Mere Tum Aa Baithe,Dil Tera Deewana,"Asha Bhosle, Mohammed Rafi",Dance
+2361,Har Subah Yaad Rakhna,Farz,"Lata Mangeshkar, Udit Narayan",Romantic
+2362,Koi Pyar Ki Dekhe Jadugari,Kohinoor,"Lata Mangeshkar, Mohammed Rafi",Romantic
+2363,Ek Dafa Ek Jungle Tha,Sadma,"Ilaiyaraaja, Kamal Haasan, Sridevi",Dance
+2364,Lamhon Ke Rasgulle,Kahaani 2,"Bianca Gomes, Sunidhi Chauhan",Dance
+2365,Bum Mein Dum,Shaukeen Kaminay,Aaman Trikha,Dance
+2366,Mose Mera Shyam Rootha,Johny Mera Naam,Lata Mangeshkar,Devotional
+2367,Apni Ulfat Pe Zamane Ka,Sasural,Mukesh,Dance
+2368,Aarti (Tumre Bhavan Mein),Delhi-6,"Kishori Gowariker, Rekha Bharadwaj, Shraddha Pandit, Sujata Majumdar",Devotional
+2369,Tanki (Bhaven Version),Youngistaan,,Dance
+2370,Har Subah,Sooryavansham,"K. S. Chithra, Kumar Sanu",Romantic
+2371,Khel Wohi Phir Aaj Tu Khela,Nigahen,Kavita Krishnamurthy,Dance
+2372,Chhad Zid Karna,Pyaar Kiya To Darna Kya,"Anuradha Paudwal, Udit Narayan",Dance
+2373,Pal Mein Mila Jahan,Aashayein,Shankar Mahadevan,Romantic
+2374,Balam Se Milan Hoga,Chaudhvin Ka Chand,Geeta Dutt,Dance
+2375,Phool Bagiya Men Bhanware Aaye,Zindagi Aur Khwab,Mubarak Begum,Dance
+2376,Itni Badi Mehfil,Dil Apna Aur Preet Parai,Asha Bhosle,Dance
+2377,Ishq Nachaya Kare,Karam,Sunidhi Chauhan,Dance
+2378,Mohabbat Ke Din Ho,Farz,"Alka Yagnik, Udit Narayan",Dance
+2379,Saaiyaan,Heroine,Salim Sulaiman,Sad
+2380,Tora Man Bada Papi,Ganga Jumna,Asha Bhosle,Dance
+2381,Dekho Bijli Dole Bin Badal Ki,Phir Wohi Dil Laya Hoon,"Asha Bhosle, Usha Mangeshkar",Dance
+2382,Badi Dheere Jali,Ishqiya,Rekha Bhardwaj,Sad
+2383,Parody,Gang Of Ghosts,"Abhishek Nailwal, Aditi Paul, Aishwarya Nigam, Manoj Mishra, Sudesh Bhosle",Dance
+2384,Socho Ke Jheelon Ka,Mission Kashmir,"Alka Yagnik, Shankar Mahadevan, Udit Narayan",Romantic
+2385,Hum Badi Door Chale Aaye,Sangharsh,"Shraddha Pandit, Sonu Nigam",Romantic
+2386,Yeh Hava Yeh Fiza,Sadma,"Asha Bhosle, Suresh Wadkar",Dance
+2387,Mil Gaya,Shakal Pe Mat Ja,"Salim Merchant, Shraddha Pandit",Romantic
+2388,Jashna Hai Mohabbat Ka,Hero Hiralal,Kumar Sanu,Dance
+2389,Jhanan Ghoongar Baje,Ganga Jumna,Lata Mangeshkar,Dance
+2390,Nazar Mein Hai Chehra,Good Luck,Lucky Ali,Dance
+2391,Sata Le Ae Jahan,Sasural,Mukesh,Sad
+2392,Nazar Mere Dil Ke Par,Jab Pyar Kisi Se Hota Hai,Mohammed Rafi,Dance
+2393,Meri Nazren Hasin Hai Ki Tum,Ek Musafir Ek Hasina,Asha Bhosle,Romantic
+2394,Ek Pardesi Door Se Aaya,Gumrah,Asha Bhosle,Sad
+2395,Thirkat Ang,Payal Ki Jhankaar,Alka Yagik,Bollywood
+2396,Mujhe Pyar Men,Phir Wohi Dil Laya Hoon,Asha Bhosle,Sad
+2397,Kab Chand Ban Ker,Lottery,"Abhijeet Sawant, Sanjay Pathak, Santosh Singh",Dance
+2398,Ab Se Teri,Unforgettable,"Mohammed Irfan, Sachin Gupta",Dance
+2399,Boss Entry – Theme,Boss,"Khushboo Grewal, Meet Bros, Sonu Kakkar",Dance
+2400,Dariya Ho,Kamaal Dhamaal Malamaa,"Monali Thakur, Shadab Faridi",Dance
+2401,Teri Dhoom Har Kahin,Kala Bazar,Mohammed Rafi,Dance
+2402,Phir Nahin Aane Wali Pyare,Shola Aur Shabnam,"Asha Bhosle, Manna Dey",Dance
+2403,Aa Ghar Chalein Hum,Lakshmi,Monali Thakur,Devotional
+2404,Money Hai Toh Honey Hai,Money Hai Toh Honey Hai,Harshdeep Kaur,Dance
+2405,Khudaya Khair,Billu,"Akriti Kakar, Monali Thakur, Pritam, Soham Chakraborty",Dance
+2406,Darbadar,I Me Main,"Altamash Khan, Divya Kumar, Harshit Chouhan, Monali Thakur, Shadaab",Sad
+2407,Pata Hi Na Chala Sad,Lottery,"Abhijeet Sawant, Santokh Singh Dhaliwal",Sad
+2408,Agg Lage Aaj Kal De Fashion Nu,Haal-E-Dil,"Hard Kaur, Labh Janjua",Dance
+2409,Dar Pe Aaye Hain Tere Kasam Le,Love In Shimla,Mukesh,Romantic
+2410,Yaar De Viah,Chak Jawana,"Gurdas Maan, Mika Singh",Dance
+2411,Sunle Tu Dilki Sadaa,Tere Ghar Ke Samne,Mohammed Rafi,Romantic
+2412,Tum Ko Hum Dilbar,Tezaab,"Amit Kumar, Asha Bhosle",Dance
+2413,Mohabbat Isko Kahte Hain,Jab Pyar Kisi Se Hota Hai,Mohammed Rafi,Romantic
+2414,Goodnight,DIl Kabaddi,"Jaspreet Singh, Monali Thakur, Poroma, Sachin Gupta",Dance
+2415,Dhadkanein Kehti Hai,Lottery,Abhijeet Sawant,Dance
+2416,Jana Tumhare Pyar Mein,Sasural,Mukesh,Dance
+2417,Tum Jaise Bigde Babu Se,Jab Pyar Kisi Se Hota Hai,Lata Mangeshkar,Dance
+2418,O Yaad Nahi Bhool Gaya,Lamhe,"Lata Mangeshkar, Suresh Wadkar",Dance
+2419,Ladi Re Ladi Tujhse Aankh Jo Ladi,Shola Aur Shabnam,Jagjit Kaur,Dance
+2420,Mummy Aur Daddy Mein Ladai Ho Gayi,Shola Aur Shabnam,Asha Bhosle,Dance
